@@ -1,4 +1,4 @@
-# Finite State Automata
+# Regular Expressions
 
 This is a simple implementation of regular expressions to extract simple dates (June 23, 2021) as well as deictic date information (next Friday) from a data set of new articles. The objective is to produce as many regular expressions as possible that are capable of extracting the highest number of valid date related pieces of information.
 
