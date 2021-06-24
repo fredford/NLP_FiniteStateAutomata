@@ -8,8 +8,8 @@ The assignment's development data can be found inside [data/dev](data/dev).
 
 ## 1. Members
 
-- Scott Kavalinas - skavalin
-- Fraser Redford - fredford
+- Scott Kavalinas
+- Fraser Redford
 
 ## 2. Listed Resources
 
