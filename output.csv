@@ -1,0 +1,5749 @@
+article_id,expr_type,value,char_offset
+1.txt,deictic,year,899
+1.txt,deictic,year,1040
+1.txt,deictic,year,1285
+1.txt,deictic,year,1295
+1.txt,deictic,summer,170
+2.txt,deictic,year,311
+2.txt,deictic,year,420
+2.txt,deictic,year,1221
+2.txt,deictic,fall,390
+2.txt,deictic,Wednesday,780
+3.txt,deictic,year,727
+3.txt,deictic,year,829
+3.txt,deictic,previous year,998
+3.txt,deictic,next year,1829
+4.txt,deictic,year,1074
+4.txt,deictic,year,4301
+4.txt,deictic,year,4636
+5.txt,deictic,next week,369
+5.txt,deictic,year,1276
+6.txt,deictic,last September,1410
+7.txt,deictic,last week,1374
+8.txt,deictic,week,904
+8.txt,deictic,year,1005
+8.txt,deictic,year,1496
+8.txt,deictic,Last month,1713
+8.txt,deictic,Tuesday,1031
+9.txt,deictic,year,619
+9.txt,deictic,year,3082
+10.txt,deictic,last year,194
+10.txt,deictic,year,309
+11.txt,deictic,fall,1243
+11.txt,deictic,Sunday,530
+12.txt,deictic,year,473
+12.txt,deictic,year,795
+12.txt,deictic,year,1193
+13.txt,deictic,week,704
+13.txt,deictic,Today,823
+13.txt,deictic,last year,2557
+13.txt,deictic,year,2864
+13.txt,deictic,year,3069
+13.txt,deictic,fall,632
+13.txt,deictic,fall,1326
+13.txt,deictic,summer,1608
+13.txt,deictic,fall,2187
+13.txt,deictic,Thursday,1901
+14.txt,deictic,year,308
+14.txt,deictic,last month,455
+14.txt,deictic,previous quarter,839
+14.txt,deictic,last quarter,1086
+14.txt,deictic,last year,1176
+14.txt,deictic,year,1289
+14.txt,deictic,fall,749
+15.txt,deictic,year,800
+15.txt,deictic,fall,489
+15.txt,deictic,Monday,572
+15.txt,deictic,Monday,900
+15.txt,deictic,Friday,649
+16.txt,deictic,year,925
+16.txt,deictic,year,1568
+16.txt,deictic,last week,1739
+16.txt,deictic,week,1957
+16.txt,deictic,Sunday,855
+16.txt,deictic,Sunday,2652
+17.txt,deictic,last year,439
+18.txt,deictic,last year,284
+18.txt,deictic,Thursday,517
+19.txt,deictic,year,37
+19.txt,deictic,year,366
+19.txt,deictic,year,495
+19.txt,deictic,year,653
+19.txt,deictic,year,1029
+19.txt,deictic,year,1210
+19.txt,deictic,year,1338
+19.txt,deictic,last year,1492
+19.txt,deictic,year,1795
+19.txt,deictic,year,1919
+19.txt,deictic,fall,264
+19.txt,deictic,fall,468
+19.txt,deictic,fall,633
+19.txt,deictic,fall,1850
+20.txt,deictic,last quarter,90
+20.txt,deictic,year,332
+20.txt,deictic,year,628
+20.txt,deictic,fall,73
+21.txt,deictic,year,169
+21.txt,deictic,last year,783
+21.txt,deictic,last November,648
+21.txt,deictic,fall,91
+21.txt,deictic,fall,623
+22.txt,deictic,previous quarter,312
+22.txt,deictic,year,460
+22.txt,deictic,year,1152
+22.txt,deictic,last year,1834
+22.txt,deictic,fall,203
+22.txt,deictic,fall,282
+22.txt,deictic,winter,1645
+22.txt,deictic,fall,2052
+22.txt,deictic,Wednesday,485
+23.txt,deictic,Last month,515
+23.txt,deictic,next week,1504
+24.txt,deictic,week,702
+24.txt,deictic,Today,821
+24.txt,deictic,last year,2555
+24.txt,deictic,year,2862
+24.txt,deictic,year,3067
+24.txt,deictic,fall,630
+24.txt,deictic,fall,1324
+24.txt,deictic,summer,1606
+24.txt,deictic,fall,2185
+24.txt,deictic,Thursday,1899
+25.txt,deictic,after Monday,1298
+25.txt,deictic,Tuesday,1290
+25.txt,deictic,Friday,1100
+26.txt,deictic,year,1310
+26.txt,deictic,year,1968
+26.txt,deictic,year,2085
+26.txt,deictic,year,2340
+26.txt,deictic,Friday,954
+27.txt,deictic,Sunday,667
+28.txt,deictic,year,271
+28.txt,deictic,last week,374
+28.txt,deictic,year,1332
+28.txt,deictic,year,1369
+29.txt,deictic,week,712
+29.txt,deictic,today,1758
+29.txt,deictic,year,1810
+29.txt,deictic,last year,2011
+29.txt,deictic,Tuesday,1547
+30.txt,deictic,Last week,884
+30.txt,deictic,last November,634
+30.txt,deictic,Sunday,1217
+30.txt,deictic,after Sunday,1874
+32.txt,deictic,year,268
+32.txt,deictic,Last week,497
+32.txt,deictic,year,601
+32.txt,deictic,last month,968
+32.txt,deictic,last month,1703
+32.txt,deictic,year,2020
+32.txt,deictic,previous quarter,2614
+32.txt,deictic,fall,728
+32.txt,deictic,fall,1050
+32.txt,deictic,fall,1749
+32.txt,deictic,fall,1908
+32.txt,deictic,fall,2023
+32.txt,deictic,Tuesday,628
+33.txt,deictic,year,557
+33.txt,deictic,Last month,751
+33.txt,deictic,Tuesday,421
+35.txt,deictic,year,163
+35.txt,deictic,Last year,900
+36.txt,simple,"11 September, 2001",4289
+36.txt,deictic,week,228
+36.txt,deictic,week,307
+36.txt,deictic,week,565
+36.txt,deictic,week,630
+36.txt,deictic,week,2003
+36.txt,deictic,week,2319
+36.txt,deictic,week,4453
+37.txt,deictic,year,710
+37.txt,deictic,year,1274
+37.txt,deictic,Thursday,1068
+38.txt,deictic,Friday,468
+38.txt,deictic,Friday,949
+39.txt,deictic,fall,83
+40.txt,deictic,last August,106
+40.txt,deictic,after December,215
+40.txt,deictic,fall,141
+40.txt,deictic,fall,165
+41.txt,deictic,year,138
+42.txt,deictic,year,26
+42.txt,deictic,year,170
+42.txt,deictic,year,484
+42.txt,deictic,previous year,579
+42.txt,deictic,year,884
+42.txt,deictic,year,977
+42.txt,deictic,year,1037
+42.txt,deictic,year,1169
+43.txt,deictic,previous month,712
+43.txt,deictic,year,1153
+43.txt,deictic,next week,1380
+43.txt,deictic,summer,264
+43.txt,deictic,fall,1854
+44.txt,deictic,week,535
+44.txt,deictic,Thursday,83
+46.txt,deictic,previous year,498
+46.txt,deictic,week,631
+46.txt,deictic,year,1707
+46.txt,deictic,year,1802
+46.txt,deictic,year,2180
+46.txt,deictic,Tuesday,3859
+46.txt,deictic,this Sunday,301
+47.txt,deictic,fall,1294
+48.txt,deictic,year,1034
+48.txt,deictic,summer,808
+49.txt,deictic,last year,151
+49.txt,deictic,fall,1170
+50.txt,deictic,last year,204
+50.txt,deictic,last year,573
+50.txt,deictic,last year,1774
+51.txt,deictic,Last year,1217
+51.txt,deictic,last year,1674
+51.txt,deictic,year,1762
+51.txt,deictic,Friday,261
+51.txt,deictic,Friday,1563
+51.txt,deictic,Sunday,273
+52.txt,deictic,year,29
+52.txt,deictic,week,377
+52.txt,deictic,year,414
+52.txt,deictic,year,775
+52.txt,deictic,last year,1290
+53.txt,deictic,year,125
+53.txt,deictic,year,468
+53.txt,deictic,year,702
+53.txt,deictic,year,885
+54.txt,deictic,previous month,240
+54.txt,deictic,last quarter,681
+54.txt,deictic,previous year,698
+54.txt,deictic,year,1288
+54.txt,deictic,fall,27
+54.txt,deictic,fall,462
+54.txt,deictic,fall,1170
+55.txt,deictic,year,829
+56.txt,deictic,Last year,803
+57.txt,deictic,year,911
+57.txt,deictic,year,1250
+57.txt,deictic,week,1378
+57.txt,deictic,year,1453
+57.txt,deictic,fall,537
+59.txt,deictic,year,683
+60.txt,deictic,last year,343
+61.txt,simple,"15 December, 1953",1730
+61.txt,deictic,year,2020
+61.txt,deictic,last year,2145
+62.txt,deictic,year,29
+62.txt,deictic,week,377
+62.txt,deictic,year,414
+62.txt,deictic,year,775
+62.txt,deictic,last year,1290
+63.txt,deictic,Last year,282
+63.txt,deictic,last year,1541
+63.txt,deictic,last year,2914
+64.txt,deictic,previous month,1499
+64.txt,deictic,week,1869
+65.txt,deictic,week,104
+65.txt,deictic,year,698
+65.txt,deictic,year,1064
+65.txt,deictic,year,1166
+65.txt,deictic,previous year,1189
+65.txt,deictic,Monday,85
+65.txt,deictic,Monday,578
+65.txt,deictic,Sunday,367
+66.txt,deictic,Last week,356
+66.txt,deictic,week,1071
+66.txt,deictic,Monday,582
+66.txt,deictic,Friday,1661
+67.txt,deictic,year,514
+67.txt,deictic,year,756
+67.txt,deictic,year,1199
+67.txt,deictic,Wednesday,197
+68.txt,deictic,year,399
+68.txt,deictic,year,499
+68.txt,deictic,last year,1432
+68.txt,deictic,year,2157
+68.txt,deictic,fall,1427
+69.txt,deictic,year,1271
+69.txt,deictic,fall,13
+69.txt,deictic,fall,50
+69.txt,deictic,Tuesday,492
+69.txt,deictic,Tuesday,815
+70.txt,deictic,week,596
+70.txt,deictic,year,1158
+70.txt,deictic,next year,1350
+70.txt,deictic,Tuesday,556
+71.txt,deictic,Last month,180
+71.txt,deictic,week,411
+71.txt,deictic,week,1728
+71.txt,deictic,Thursday,650
+71.txt,deictic,Thursday,1149
+71.txt,deictic,Friday,582
+72.txt,deictic,year,138
+72.txt,deictic,next month,259
+72.txt,deictic,last year,874
+72.txt,deictic,fall,493
+73.txt,deictic,last year,388
+76.txt,deictic,Next week,1373
+77.txt,deictic,year,585
+77.txt,deictic,year,1110
+77.txt,deictic,Last year,1201
+77.txt,deictic,Friday,646
+78.txt,deictic,year,855
+78.txt,deictic,Tuesday,173
+79.txt,deictic,year,199
+79.txt,deictic,year,485
+79.txt,deictic,year,882
+79.txt,deictic,year,1801
+79.txt,deictic,fall,28
+79.txt,deictic,fall,121
+80.txt,deictic,year,759
+81.txt,deictic,year,2130
+81.txt,deictic,year,2358
+81.txt,deictic,Monday,602
+82.txt,deictic,Friday,1467
+83.txt,deictic,Wednesday,1964
+84.txt,deictic,last year,442
+85.txt,deictic,week,691
+85.txt,deictic,year,2188
+85.txt,deictic,year,2514
+85.txt,deictic,year,2762
+85.txt,deictic,Tuesday,1946
+85.txt,deictic,Wednesday,812
+85.txt,deictic,Wednesday,1533
+87.txt,deictic,year,109
+87.txt,deictic,last August,692
+87.txt,deictic,Tuesday,122
+87.txt,deictic,Tuesday,425
+88.txt,deictic,last month,204
+88.txt,deictic,year,548
+88.txt,deictic,year,1065
+88.txt,deictic,year,1474
+88.txt,deictic,Friday,157
+89.txt,deictic,last week,247
+89.txt,deictic,week,934
+89.txt,deictic,last week,992
+89.txt,deictic,last week,1196
+89.txt,deictic,Monday,106
+89.txt,deictic,Monday,490
+89.txt,deictic,Friday,171
+89.txt,deictic,Friday,346
+89.txt,deictic,Friday,439
+89.txt,deictic,Friday,905
+89.txt,deictic,Saturday,1533
+90.txt,deictic,year,182
+90.txt,deictic,year,700
+90.txt,deictic,year,1828
+90.txt,deictic,year,2044
+90.txt,deictic,year,2395
+90.txt,deictic,year,2906
+91.txt,deictic,last year,746
+91.txt,deictic,year,1044
+91.txt,deictic,last year,2051
+91.txt,deictic,year,2074
+91.txt,deictic,last year,2240
+92.txt,deictic,year,623
+92.txt,deictic,year,766
+92.txt,deictic,year,1093
+92.txt,deictic,year,1219
+92.txt,deictic,year,1748
+93.txt,deictic,week,1528
+93.txt,deictic,Thursday,1113
+93.txt,deictic,Friday,423
+94.txt,deictic,Today,723
+95.txt,deictic,last year,354
+95.txt,deictic,last month,740
+95.txt,deictic,year,785
+95.txt,deictic,year,789
+95.txt,deictic,year,930
+95.txt,deictic,year,934
+96.txt,deictic,year,727
+96.txt,deictic,fall,1018
+96.txt,deictic,Wednesday,363
+96.txt,deictic,Wednesday,1139
+97.txt,deictic,week,1837
+97.txt,deictic,Monday,600
+97.txt,deictic,Tuesday,478
+98.txt,deictic,year,811
+98.txt,deictic,year,1568
+98.txt,deictic,year,3540
+98.txt,deictic,fall,1777
+99.txt,deictic,last year,606
+99.txt,deictic,week,644
+99.txt,deictic,year,1920
+100.txt,deictic,Wednesday,311
+101.txt,deictic,last week,404
+101.txt,deictic,fall,850
+101.txt,deictic,Tuesday,1787
+101.txt,deictic,Wednesday,69
+101.txt,deictic,Wednesday,1303
+101.txt,deictic,Sunday,642
+102.txt,deictic,last month,599
+102.txt,deictic,last year,863
+102.txt,deictic,year,1079
+102.txt,deictic,today,2152
+102.txt,deictic,year,2985
+102.txt,deictic,Thursday,2589
+102.txt,deictic,Thursday,3142
+103.txt,deictic,year,88
+103.txt,deictic,year,676
+103.txt,deictic,next year,700
+103.txt,deictic,year,1553
+104.txt,deictic,fall,249
+104.txt,deictic,fall,1457
+104.txt,deictic,Monday,1118
+105.txt,deictic,last week,1188
+105.txt,deictic,week,1649
+105.txt,deictic,Last week,3114
+106.txt,deictic,last year,291
+106.txt,deictic,year,423
+106.txt,deictic,year,567
+106.txt,deictic,year,794
+106.txt,deictic,year,1613
+106.txt,deictic,year,1713
+106.txt,deictic,fall,929
+106.txt,deictic,summer,1013
+106.txt,deictic,fall,1103
+106.txt,deictic,fall,2042
+106.txt,deictic,Tuesday,1926
+107.txt,deictic,last year,175
+107.txt,deictic,last year,684
+108.txt,deictic,Year,106
+108.txt,deictic,year,353
+108.txt,deictic,year,435
+108.txt,deictic,year,517
+108.txt,deictic,year,556
+109.txt,deictic,year,215
+109.txt,deictic,last year,627
+109.txt,deictic,year,1386
+109.txt,deictic,previous year,1489
+109.txt,deictic,year,1618
+109.txt,deictic,year,1697
+109.txt,deictic,fall,1696
+110.txt,deictic,week,457
+110.txt,deictic,year,1478
+111.txt,deictic,Monday,140
+112.txt,deictic,year,283
+112.txt,deictic,year,312
+112.txt,deictic,year,350
+112.txt,deictic,year,434
+112.txt,deictic,year,468
+112.txt,deictic,year,491
+112.txt,deictic,year,585
+112.txt,deictic,year,1117
+113.txt,deictic,last year,281
+113.txt,deictic,year,563
+113.txt,deictic,year,1680
+113.txt,deictic,last year,2359
+113.txt,deictic,last year,2456
+114.txt,deictic,year,132
+114.txt,deictic,year,186
+114.txt,deictic,previous year,239
+114.txt,deictic,year,502
+114.txt,deictic,year,767
+114.txt,deictic,fall,118
+114.txt,deictic,fall,600
+114.txt,deictic,Wednesday,1072
+115.txt,deictic,year,61
+115.txt,deictic,year,310
+115.txt,deictic,year,614
+115.txt,deictic,year,772
+115.txt,deictic,year,1768
+115.txt,deictic,year,1981
+116.txt,deictic,year,679
+116.txt,deictic,last year,1107
+116.txt,deictic,year,1627
+116.txt,deictic,last year,1691
+116.txt,deictic,year,1949
+116.txt,deictic,last week,2237
+116.txt,deictic,fall,209
+116.txt,deictic,fall,877
+117.txt,deictic,year,233
+117.txt,deictic,year,1249
+117.txt,deictic,year,1330
+117.txt,deictic,year,1528
+117.txt,deictic,year,1618
+117.txt,deictic,Last month,1620
+118.txt,deictic,last week,1270
+118.txt,deictic,last April,1582
+118.txt,deictic,Wednesday,691
+118.txt,deictic,Friday,208
+118.txt,deictic,Friday,903
+118.txt,deictic,Friday,1780
+119.txt,deictic,year,255
+119.txt,deictic,year,588
+119.txt,deictic,last September,598
+120.txt,deictic,year,2544
+120.txt,deictic,week,4120
+121.txt,deictic,next week,541
+121.txt,deictic,Last week,960
+121.txt,deictic,last year,1419
+121.txt,deictic,today,1636
+121.txt,deictic,Thursday,158
+122.txt,deictic,fall,137
+123.txt,deictic,year,469
+123.txt,deictic,year,801
+123.txt,deictic,year,820
+123.txt,deictic,year,958
+123.txt,deictic,year,977
+123.txt,deictic,year,1010
+123.txt,deictic,year,1262
+123.txt,deictic,year,1357
+123.txt,deictic,year,1433
+123.txt,deictic,fall,959
+124.txt,deictic,week,53
+124.txt,deictic,last week,552
+124.txt,deictic,Saturday,711
+124.txt,deictic,Sunday,740
+125.txt,deictic,last year,1108
+125.txt,deictic,last year,1329
+125.txt,deictic,last year,2379
+125.txt,deictic,last year,2537
+125.txt,deictic,year,2879
+125.txt,deictic,year,3138
+125.txt,deictic,summer,273
+126.txt,deictic,year,411
+126.txt,deictic,last year,455
+126.txt,deictic,year,545
+126.txt,deictic,last year,1048
+126.txt,deictic,Last year,1533
+126.txt,deictic,week,1825
+126.txt,deictic,last year,2047
+126.txt,deictic,week,2222
+126.txt,deictic,fall,1830
+127.txt,deictic,year,92
+127.txt,deictic,last year,236
+127.txt,deictic,next month,486
+127.txt,deictic,last year,525
+127.txt,deictic,previous year,781
+127.txt,deictic,last year,1124
+127.txt,deictic,year,1167
+127.txt,deictic,year,1340
+128.txt,deictic,last year,1391
+128.txt,deictic,last year,2140
+128.txt,deictic,Thursday,1000
+129.txt,deictic,year,1139
+129.txt,deictic,year,1229
+129.txt,deictic,year,1370
+129.txt,deictic,fall,936
+129.txt,deictic,Monday,954
+129.txt,deictic,Tuesday,921
+131.txt,deictic,year,965
+131.txt,deictic,Friday,264
+132.txt,deictic,year,837
+132.txt,deictic,last week,956
+133.txt,deictic,Year,431
+133.txt,deictic,year,822
+133.txt,deictic,fall,185
+133.txt,deictic,fall,609
+133.txt,deictic,Monday,333
+133.txt,deictic,Monday,620
+133.txt,deictic,Monday,1071
+133.txt,deictic,Friday,789
+133.txt,deictic,Sunday,1391
+134.txt,deictic,year,910
+135.txt,deictic,Today,722
+136.txt,deictic,year,345
+136.txt,deictic,year,646
+136.txt,deictic,last year,1088
+136.txt,deictic,Thursday,311
+137.txt,deictic,year,288
+137.txt,deictic,year,1027
+138.txt,deictic,week,355
+139.txt,deictic,year,1407
+139.txt,deictic,today,2332
+139.txt,deictic,Today,2530
+139.txt,deictic,Friday,1898
+139.txt,deictic,Friday,2417
+140.txt,deictic,year,1002
+140.txt,deictic,last week,1027
+140.txt,deictic,fall,87
+140.txt,deictic,winter,112
+140.txt,deictic,winter,141
+140.txt,deictic,fall,619
+140.txt,deictic,winter,768
+140.txt,deictic,fall,838
+140.txt,deictic,Monday,248
+140.txt,deictic,Tuesday,73
+141.txt,deictic,today,582
+141.txt,deictic,year,606
+142.txt,deictic,previous year,1739
+142.txt,deictic,week,1872
+142.txt,deictic,Wednesday,315
+142.txt,deictic,this Sunday,1095
+143.txt,deictic,year,815
+143.txt,deictic,last month,2880
+143.txt,deictic,year,3062
+144.txt,deictic,last week,461
+144.txt,deictic,last month,1533
+144.txt,deictic,year,2854
+144.txt,deictic,last month,2903
+144.txt,deictic,summer,761
+144.txt,deictic,Wednesday,2759
+145.txt,deictic,year,118
+145.txt,deictic,year,288
+145.txt,deictic,year,708
+145.txt,deictic,last year,1125
+145.txt,deictic,fall,672
+146.txt,deictic,year,1593
+146.txt,deictic,Tuesday,1704
+147.txt,deictic,year,95
+147.txt,deictic,year,1023
+147.txt,deictic,year,1117
+147.txt,deictic,next month,1196
+147.txt,deictic,fall,551
+147.txt,deictic,fall,655
+147.txt,deictic,Tuesday,478
+148.txt,deictic,year,673
+148.txt,deictic,year,862
+148.txt,deictic,year,1240
+148.txt,deictic,fall,308
+148.txt,deictic,Thursday,239
+148.txt,deictic,Thursday,575
+149.txt,deictic,year,497
+149.txt,deictic,last week,1036
+149.txt,deictic,year,1251
+149.txt,deictic,year,1359
+149.txt,deictic,previous month,2286
+149.txt,deictic,fall,962
+149.txt,deictic,fall,1286
+149.txt,deictic,fall,1404
+149.txt,deictic,fall,1557
+150.txt,deictic,last month,199
+150.txt,deictic,year,460
+151.txt,deictic,previous year,80
+151.txt,deictic,year,229
+151.txt,deictic,year,485
+151.txt,deictic,year,1483
+151.txt,deictic,Tuesday,1345
+152.txt,deictic,last year,552
+152.txt,deictic,year,628
+154.txt,deictic,year,1802
+154.txt,deictic,year,2453
+154.txt,deictic,Thursday,152
+155.txt,deictic,fall,1782
+156.txt,deictic,year,669
+157.txt,deictic,last year,529
+157.txt,deictic,fall,1310
+157.txt,deictic,Saturday,759
+158.txt,deictic,week,395
+158.txt,deictic,week,1651
+158.txt,deictic,year,1803
+158.txt,deictic,last year,1835
+158.txt,deictic,year,1891
+158.txt,deictic,Monday,497
+158.txt,deictic,Tuesday,777
+159.txt,deictic,year,176
+159.txt,deictic,year,1503
+160.txt,deictic,last week,167
+160.txt,deictic,Friday,688
+160.txt,deictic,before Friday,1246
+161.txt,deictic,year,484
+161.txt,deictic,last year,759
+162.txt,deictic,year,214
+162.txt,deictic,previous quarter,315
+162.txt,deictic,Last month,592
+162.txt,deictic,Today,1008
+162.txt,deictic,fall,585
+163.txt,deictic,Friday,815
+165.txt,deictic,last year,152
+165.txt,deictic,Last year,484
+165.txt,deictic,Last April,281
+165.txt,deictic,Tuesday,272
+166.txt,deictic,year,268
+166.txt,deictic,year,359
+166.txt,deictic,last year,400
+166.txt,deictic,year,488
+166.txt,deictic,Last year,542
+166.txt,deictic,today,1022
+166.txt,deictic,year,1346
+166.txt,deictic,week,1571
+167.txt,deictic,year,49
+167.txt,deictic,last year,391
+167.txt,deictic,Last year,640
+167.txt,deictic,year,991
+167.txt,deictic,year,2596
+167.txt,deictic,year,2739
+167.txt,deictic,Last year,2776
+167.txt,deictic,Last year,3032
+167.txt,deictic,summer,589
+167.txt,deictic,spring,1647
+167.txt,deictic,Before Wednesday,484
+168.txt,deictic,last week,548
+168.txt,deictic,year,1553
+168.txt,deictic,fall,605
+169.txt,deictic,year,549
+169.txt,deictic,Tuesday,615
+170.txt,deictic,year,502
+171.txt,deictic,year,1099
+171.txt,deictic,year,1534
+172.txt,deictic,year,437
+172.txt,deictic,Year,1139
+172.txt,deictic,fall,141
+172.txt,deictic,Friday,872
+173.txt,deictic,year,955
+173.txt,deictic,year,1409
+173.txt,deictic,Tuesday,965
+173.txt,deictic,Wednesday,167
+174.txt,deictic,year,1548
+174.txt,deictic,fall,219
+174.txt,deictic,fall,1642
+174.txt,deictic,Tuesday,243
+174.txt,deictic,Tuesday,707
+174.txt,deictic,Wednesday,103
+174.txt,deictic,Wednesday,1024
+175.txt,deictic,yesterday,630
+175.txt,deictic,Tuesday,390
+176.txt,simple,30 September 2004,918
+176.txt,deictic,year,114
+176.txt,deictic,year,389
+176.txt,deictic,year,688
+176.txt,deictic,year,970
+176.txt,deictic,year,1030
+176.txt,deictic,year,1585
+176.txt,deictic,Tuesday,138
+176.txt,deictic,Tuesday,1786
+177.txt,deictic,year,171
+177.txt,deictic,previous year,601
+177.txt,deictic,next February,109
+178.txt,deictic,week,250
+178.txt,deictic,last year,1708
+179.txt,deictic,Wednesday,950
+181.txt,deictic,last week,355
+181.txt,deictic,Friday,1053
+181.txt,deictic,Sunday,180
+181.txt,deictic,Sunday,195
+181.txt,deictic,Sunday,1112
+182.txt,deictic,Sunday,1891
+183.txt,deictic,year,280
+183.txt,deictic,year,693
+183.txt,deictic,today,1013
+183.txt,deictic,Wednesday,105
+184.txt,deictic,last year,652
+184.txt,deictic,week,1004
+184.txt,deictic,fall,1729
+184.txt,deictic,Tuesday,262
+184.txt,deictic,Tuesday,517
+184.txt,deictic,Tuesday,540
+184.txt,deictic,Tuesday,1417
+184.txt,deictic,Wednesday,67
+184.txt,deictic,Wednesday,438
+184.txt,deictic,Wednesday,1270
+185.txt,deictic,year,862
+185.txt,deictic,year,1452
+185.txt,deictic,year,1692
+185.txt,deictic,year,2189
+186.txt,deictic,year,205
+186.txt,deictic,year,1090
+186.txt,deictic,year,1304
+186.txt,deictic,fall,1107
+187.txt,deictic,year,1345
+187.txt,deictic,Spring,599
+187.txt,deictic,Sunday,157
+187.txt,deictic,Sunday,666
+187.txt,deictic,Sunday,720
+187.txt,deictic,Sunday,1388
+188.txt,deictic,year,494
+188.txt,deictic,year,882
+189.txt,deictic,year,169
+189.txt,deictic,last year,783
+189.txt,deictic,last November,648
+189.txt,deictic,fall,91
+189.txt,deictic,fall,623
+190.txt,deictic,last month,127
+190.txt,deictic,year,1454
+190.txt,deictic,winter,1619
+190.txt,deictic,Wednesday,143
+191.txt,deictic,year,575
+192.txt,deictic,year,696
+192.txt,deictic,fall,776
+192.txt,deictic,Monday,1064
+192.txt,deictic,Friday,318
+194.txt,deictic,year,298
+194.txt,deictic,year,510
+194.txt,deictic,year,514
+194.txt,deictic,year,602
+194.txt,deictic,year,606
+194.txt,deictic,year,747
+194.txt,deictic,Sunday,1310
+195.txt,deictic,year,1649
+195.txt,deictic,Last week,1775
+195.txt,deictic,Wednesday,792
+196.txt,deictic,year,401
+196.txt,deictic,Yesterday,457
+196.txt,deictic,year,672
+196.txt,deictic,year,993
+196.txt,deictic,next Thursday,601
+196.txt,deictic,Friday,137
+196.txt,deictic,Friday,668
+197.txt,deictic,year,451
+197.txt,deictic,previous year,726
+197.txt,deictic,year,1117
+199.txt,deictic,last year,75
+199.txt,deictic,year,494
+199.txt,deictic,year,851
+199.txt,deictic,year,1225
+199.txt,deictic,fall,28
+199.txt,deictic,fall,61
+200.txt,deictic,Tuesday,345
+201.txt,deictic,year,604
+201.txt,deictic,year,887
+201.txt,deictic,year,1439
+203.txt,deictic,next year,1156
+203.txt,deictic,week,1320
+203.txt,deictic,last week,1553
+204.txt,deictic,today,565
+204.txt,deictic,Thursday,3407
+204.txt,deictic,Saturday,3549
+205.txt,deictic,Today,2178
+205.txt,deictic,year,3161
+205.txt,deictic,Wednesday,3357
+205.txt,deictic,Thursday,1897
+206.txt,deictic,year,473
+206.txt,deictic,year,912
+206.txt,deictic,year,1608
+206.txt,deictic,after May,589
+207.txt,deictic,year,401
+207.txt,deictic,Thursday,2653
+207.txt,deictic,Friday,2035
+208.txt,deictic,year,105
+208.txt,deictic,year,1177
+208.txt,deictic,fall,89
+208.txt,deictic,Monday,1415
+209.txt,deictic,Tuesday,72
+210.txt,deictic,year,1675
+210.txt,deictic,last month,1980
+210.txt,deictic,summer,1185
+210.txt,deictic,fall,2304
+210.txt,deictic,Monday,641
+210.txt,deictic,Thursday,2173
+211.txt,deictic,fall,83
+212.txt,deictic,Monday,477
+213.txt,deictic,next week,947
+213.txt,deictic,Tuesday,967
+214.txt,deictic,last month,484
+214.txt,deictic,Today,580
+214.txt,deictic,fall,428
+215.txt,deictic,year,615
+215.txt,deictic,year,1704
+215.txt,deictic,next week,2015
+215.txt,deictic,week,2512
+215.txt,deictic,fall,49
+215.txt,deictic,winter,160
+215.txt,deictic,fall,469
+215.txt,deictic,winter,637
+215.txt,deictic,fall,874
+215.txt,deictic,fall,1370
+215.txt,deictic,winter,1437
+215.txt,deictic,fall,1567
+215.txt,deictic,fall,2028
+215.txt,deictic,fall,2376
+215.txt,deictic,winter,2626
+215.txt,deictic,Wednesday,560
+215.txt,deictic,Wednesday,1052
+215.txt,deictic,Wednesday,1866
+215.txt,deictic,Thursday,214
+215.txt,deictic,Thursday,1133
+216.txt,deictic,year,813
+216.txt,deictic,fall,56
+216.txt,deictic,Thursday,425
+217.txt,deictic,last month,675
+217.txt,deictic,year,1089
+217.txt,deictic,last week,2353
+217.txt,deictic,Monday,1418
+218.txt,deictic,year,1107
+218.txt,deictic,year,1593
+221.txt,deictic,next year,73
+221.txt,deictic,next year,570
+222.txt,deictic,Last week,631
+222.txt,deictic,year,1567
+222.txt,deictic,year,1955
+222.txt,deictic,last year,2381
+222.txt,deictic,Tuesday,1152
+223.txt,deictic,fall,750
+223.txt,deictic,fall,887
+223.txt,deictic,Wednesday,711
+223.txt,deictic,Thursday,94
+224.txt,deictic,year,1126
+224.txt,deictic,year,1273
+224.txt,deictic,year,1658
+224.txt,deictic,year,1719
+224.txt,deictic,week,1903
+224.txt,deictic,Saturday,72
+225.txt,deictic,year,339
+225.txt,deictic,year,371
+225.txt,deictic,year,470
+225.txt,deictic,year,698
+225.txt,deictic,year,752
+225.txt,deictic,year,847
+225.txt,deictic,year,953
+226.txt,deictic,year,830
+226.txt,deictic,year,1068
+227.txt,deictic,Last week,143
+227.txt,deictic,last week,888
+227.txt,deictic,last week,1029
+227.txt,deictic,Last week,1442
+228.txt,deictic,year,363
+228.txt,deictic,last year,396
+228.txt,deictic,next month,629
+228.txt,deictic,fall,534
+228.txt,deictic,Thursday,708
+228.txt,deictic,Thursday,882
+229.txt,deictic,year,319
+229.txt,deictic,year,608
+229.txt,deictic,year,1627
+229.txt,deictic,Year,1734
+229.txt,deictic,year,1759
+229.txt,deictic,fall,1344
+229.txt,deictic,Monday,953
+230.txt,deictic,year,1803
+230.txt,deictic,year,2413
+230.txt,deictic,year,2453
+230.txt,deictic,year,2679
+231.txt,deictic,Last July,458
+232.txt,deictic,year,783
+232.txt,deictic,year,859
+232.txt,deictic,year,1340
+232.txt,deictic,year,1652
+232.txt,deictic,year,1809
+232.txt,deictic,year,2742
+232.txt,deictic,year,5047
+232.txt,deictic,Wednesday,663
+234.txt,deictic,year,569
+234.txt,deictic,year,632
+234.txt,deictic,year,658
+234.txt,deictic,year,797
+234.txt,deictic,year,909
+234.txt,deictic,next month,1411
+235.txt,deictic,year,650
+235.txt,deictic,year,1082
+235.txt,deictic,year,1738
+235.txt,deictic,year,2308
+236.txt,deictic,Wednesday,272
+237.txt,deictic,year,1843
+237.txt,deictic,Wednesday,231
+238.txt,deictic,week,550
+239.txt,deictic,year,428
+239.txt,deictic,year,499
+240.txt,deictic,week,129
+240.txt,deictic,week,1736
+240.txt,deictic,next year,2186
+240.txt,deictic,year,2765
+240.txt,deictic,fall,1713
+240.txt,deictic,Wednesday,538
+240.txt,deictic,Wednesday,1249
+240.txt,deictic,Wednesday,1368
+241.txt,deictic,last year,200
+241.txt,deictic,last quarter,952
+241.txt,deictic,year,1284
+241.txt,deictic,year,1576
+241.txt,deictic,last year,1681
+241.txt,deictic,fall,850
+241.txt,deictic,fall,1280
+241.txt,deictic,fall,1681
+241.txt,deictic,fall,2143
+241.txt,deictic,Monday,986
+242.txt,deictic,year,424
+242.txt,deictic,Last week,1319
+242.txt,deictic,Monday,184
+243.txt,deictic,year,552
+243.txt,deictic,year,556
+243.txt,deictic,year,698
+243.txt,deictic,last year,878
+243.txt,deictic,year,1517
+243.txt,deictic,summer,1425
+243.txt,deictic,fall,1913
+243.txt,deictic,fall,2099
+243.txt,deictic,fall,2386
+244.txt,deictic,year,815
+244.txt,deictic,last month,2880
+244.txt,deictic,year,3062
+245.txt,deictic,last year,439
+245.txt,deictic,fall,2115
+246.txt,deictic,year,936
+246.txt,deictic,fall,542
+247.txt,deictic,year,346
+247.txt,deictic,year,436
+249.txt,deictic,year,1068
+249.txt,deictic,year,1072
+249.txt,deictic,last month,1332
+249.txt,deictic,week,1909
+249.txt,deictic,year,2208
+249.txt,deictic,year,2318
+249.txt,deictic,year,2434
+249.txt,deictic,fall,48
+249.txt,deictic,fall,1108
+249.txt,deictic,fall,1546
+249.txt,deictic,fall,1712
+249.txt,deictic,fall,2178
+249.txt,deictic,Thursday,997
+249.txt,deictic,Thursday,2069
+250.txt,deictic,previous year,649
+250.txt,deictic,previous year,872
+250.txt,deictic,year,1069
+250.txt,deictic,year,1425
+250.txt,deictic,year,1450
+251.txt,deictic,Last year,878
+252.txt,deictic,year,733
+254.txt,deictic,year,334
+254.txt,deictic,previous year,615
+255.txt,deictic,year,599
+255.txt,deictic,year,655
+255.txt,deictic,year,663
+255.txt,deictic,year,864
+255.txt,deictic,Monday,558
+255.txt,deictic,Sunday,470
+257.txt,simple,31 December 2003,857
+257.txt,deictic,year,774
+257.txt,deictic,year,841
+258.txt,deictic,year,280
+258.txt,deictic,year,505
+258.txt,deictic,year,528
+258.txt,deictic,year,1200
+258.txt,deictic,next year,1454
+258.txt,deictic,year,1470
+258.txt,deictic,year,1540
+258.txt,deictic,next year,1617
+258.txt,deictic,next week,2621
+258.txt,deictic,fall,1441
+258.txt,deictic,fall,1444
+259.txt,deictic,year,1083
+259.txt,deictic,year,1244
+259.txt,deictic,fall,111
+259.txt,deictic,fall,515
+259.txt,deictic,fall,1110
+259.txt,deictic,fall,1123
+260.txt,simple,15 July 2006,273
+260.txt,deictic,year,74
+260.txt,deictic,year,819
+260.txt,deictic,Today,1414
+260.txt,deictic,Wednesday,1242
+261.txt,deictic,Thursday,218
+262.txt,deictic,year,129
+262.txt,deictic,year,273
+263.txt,deictic,previous year,114
+264.txt,deictic,Friday,849
+265.txt,simple,15 November 2004,2785
+265.txt,simple,3 January 2005,2789
+265.txt,simple,15 November 2004,2885
+265.txt,simple,5 January 2005,2890
+265.txt,deictic,year,1311
+266.txt,deictic,week,879
+266.txt,deictic,last year,949
+266.txt,deictic,year,1060
+266.txt,deictic,last September,1212
+266.txt,deictic,fall,1313
+266.txt,deictic,Thursday,495
+266.txt,deictic,Thursday,610
+267.txt,deictic,last week,661
+267.txt,deictic,last year,1876
+267.txt,deictic,Monday,597
+267.txt,deictic,Friday,270
+267.txt,deictic,Sunday,48
+267.txt,deictic,Sunday,2288
+268.txt,deictic,week,1357
+268.txt,deictic,year,1697
+268.txt,deictic,year,1976
+268.txt,deictic,Wednesday,778
+269.txt,deictic,last year,1003
+270.txt,deictic,week,191
+270.txt,deictic,last week,1206
+270.txt,deictic,last year,2465
+270.txt,deictic,Monday,88
+270.txt,deictic,Sunday,316
+271.txt,deictic,last year,831
+271.txt,deictic,week,1971
+271.txt,deictic,Last year,2219
+271.txt,deictic,Winter,786
+271.txt,deictic,fall,1434
+271.txt,deictic,Thursday,89
+273.txt,deictic,year,312
+273.txt,deictic,year,621
+273.txt,deictic,year,1297
+273.txt,deictic,Last year,1762
+274.txt,deictic,year,91
+274.txt,deictic,year,190
+274.txt,deictic,year,945
+274.txt,deictic,year,1015
+274.txt,deictic,year,1857
+274.txt,deictic,today,3894
+274.txt,deictic,fall,2350
+274.txt,deictic,Fall,4961
+275.txt,deictic,after Monday,450
+275.txt,deictic,Tuesday,441
+276.txt,deictic,year,835
+276.txt,deictic,week,1251
+276.txt,deictic,last year,1814
+276.txt,deictic,last year,2489
+277.txt,deictic,week,1514
+277.txt,deictic,next year,1716
+279.txt,deictic,year,199
+279.txt,deictic,year,462
+279.txt,deictic,year,546
+279.txt,deictic,year,710
+279.txt,deictic,year,1261
+280.txt,deictic,year,1809
+280.txt,deictic,Wednesday,1103
+280.txt,deictic,Thursday,330
+280.txt,deictic,Friday,1475
+281.txt,deictic,year,7
+281.txt,deictic,year,476
+281.txt,deictic,year,1157
+281.txt,deictic,fall,1380
+282.txt,deictic,Last year,504
+283.txt,deictic,year,359
+283.txt,deictic,last year,659
+283.txt,deictic,last year,1568
+283.txt,deictic,year,1902
+284.txt,deictic,year,131
+284.txt,deictic,fall,1330
+284.txt,deictic,Thursday,1116
+285.txt,deictic,last year,611
+285.txt,deictic,Friday,244
+286.txt,deictic,last year,178
+286.txt,deictic,last year,779
+286.txt,deictic,Tuesday,84
+287.txt,simple,2001-2002,811
+287.txt,deictic,year,136
+287.txt,deictic,last year,462
+287.txt,deictic,last year,573
+287.txt,deictic,Tuesday,505
+288.txt,deictic,Last week,1006
+288.txt,deictic,last year,1461
+289.txt,deictic,week,395
+289.txt,deictic,fall,4
+289.txt,deictic,fall,49
+290.txt,deictic,week,807
+290.txt,deictic,year,1119
+290.txt,deictic,fall,573
+290.txt,deictic,Tuesday,544
+290.txt,deictic,Tuesday,675
+290.txt,deictic,Wednesday,352
+290.txt,deictic,Wednesday,740
+291.txt,deictic,year,584
+291.txt,deictic,fall,401
+291.txt,deictic,summer,984
+292.txt,deictic,year,557
+292.txt,deictic,year,882
+292.txt,deictic,Monday,764
+293.txt,deictic,Monday,656
+293.txt,deictic,Monday,1421
+294.txt,deictic,year,624
+294.txt,deictic,Last week,643
+294.txt,deictic,last year,1646
+294.txt,deictic,week,1811
+294.txt,deictic,year,1821
+294.txt,deictic,summer,1678
+294.txt,deictic,autumn,1781
+295.txt,deictic,previous month,124
+295.txt,deictic,year,486
+295.txt,deictic,fall,356
+296.txt,deictic,year,24
+296.txt,deictic,year,60
+296.txt,deictic,week,687
+296.txt,deictic,Thursday,196
+297.txt,deictic,year,472
+297.txt,deictic,next month,1589
+297.txt,deictic,year,1838
+297.txt,deictic,year,1970
+297.txt,deictic,Friday,601
+299.txt,deictic,year,213
+299.txt,deictic,last year,765
+299.txt,deictic,previous quarter,776
+299.txt,deictic,year,874
+299.txt,deictic,fall,1068
+300.txt,deictic,year,502
+300.txt,deictic,year,667
+301.txt,deictic,year,950
+301.txt,deictic,year,1224
+301.txt,deictic,summer,308
+301.txt,deictic,summer,651
+301.txt,deictic,Thursday,1906
+302.txt,deictic,year,1084
+302.txt,deictic,year,1239
+302.txt,deictic,year,1897
+302.txt,deictic,year,2260
+302.txt,deictic,year,2427
+302.txt,deictic,week,2772
+303.txt,deictic,last week,234
+303.txt,deictic,last year,1547
+303.txt,deictic,year,2586
+303.txt,deictic,Monday,1183
+303.txt,deictic,Monday,1368
+304.txt,deictic,last year,135
+304.txt,deictic,year,1435
+305.txt,deictic,fall,93
+306.txt,deictic,week,302
+306.txt,deictic,week,1492
+306.txt,deictic,today,1863
+306.txt,deictic,year,3183
+306.txt,deictic,year,3233
+306.txt,deictic,year,3278
+306.txt,deictic,week,3691
+306.txt,deictic,year,4504
+306.txt,deictic,Friday,79
+307.txt,deictic,week,204
+307.txt,deictic,last week,1066
+307.txt,deictic,last year,2326
+307.txt,deictic,Monday,81
+307.txt,deictic,Sunday,312
+308.txt,deictic,year,229
+308.txt,deictic,year,1121
+309.txt,simple,2006-2007,1516
+309.txt,deictic,last week,421
+309.txt,deictic,year,1108
+309.txt,deictic,year,1290
+309.txt,deictic,year,1516
+310.txt,deictic,year,1501
+310.txt,deictic,week,1539
+310.txt,deictic,Spring,1029
+310.txt,deictic,Tuesday,931
+311.txt,deictic,year,319
+311.txt,deictic,next week,662
+311.txt,deictic,last month,1163
+311.txt,deictic,year,1371
+311.txt,deictic,year,1492
+311.txt,deictic,Wednesday,1098
+312.txt,deictic,next year,2425
+313.txt,deictic,year,114
+313.txt,deictic,Last year,267
+313.txt,deictic,week,455
+313.txt,deictic,year,1096
+314.txt,deictic,last month,251
+314.txt,deictic,year,317
+314.txt,deictic,last year,344
+314.txt,deictic,last year,1155
+314.txt,deictic,last year,1258
+314.txt,deictic,previous year,1482
+314.txt,deictic,fall,1846
+314.txt,deictic,fall,2053
+315.txt,deictic,year,2227
+315.txt,deictic,fall,1515
+315.txt,deictic,Wednesday,435
+315.txt,deictic,Wednesday,2071
+316.txt,deictic,year,944
+317.txt,deictic,year,364
+317.txt,deictic,previous year,1423
+317.txt,deictic,year,1553
+317.txt,deictic,fall,1886
+318.txt,deictic,last month,251
+318.txt,deictic,year,317
+318.txt,deictic,last year,344
+318.txt,deictic,last year,1155
+318.txt,deictic,last year,1258
+318.txt,deictic,previous year,1482
+318.txt,deictic,fall,1846
+318.txt,deictic,fall,2053
+319.txt,deictic,year,1046
+319.txt,deictic,fall,1204
+319.txt,deictic,fall,1331
+319.txt,deictic,fall,1888
+319.txt,deictic,Monday,2153
+319.txt,deictic,Thursday,429
+319.txt,deictic,Friday,516
+320.txt,deictic,next year,354
+320.txt,deictic,year,591
+320.txt,deictic,year,750
+320.txt,deictic,next year,910
+320.txt,deictic,year,1783
+320.txt,deictic,fall,340
+321.txt,deictic,year,122
+321.txt,deictic,year,307
+321.txt,deictic,year,805
+321.txt,deictic,last year,1493
+321.txt,deictic,fall,1573
+322.txt,deictic,year,7
+322.txt,deictic,year,109
+322.txt,deictic,previous year,970
+323.txt,deictic,year,735
+323.txt,deictic,last year,2001
+324.txt,deictic,Monday,1034
+324.txt,deictic,Monday,1647
+325.txt,deictic,year,100
+325.txt,deictic,year,379
+325.txt,deictic,year,475
+325.txt,deictic,year,636
+325.txt,deictic,Yesterday,680
+325.txt,deictic,year,2064
+325.txt,deictic,year,2170
+325.txt,deictic,Thursday,116
+327.txt,deictic,fall,1315
+328.txt,deictic,year,301
+328.txt,deictic,year,1289
+329.txt,deictic,year,575
+329.txt,deictic,year,882
+329.txt,deictic,year,1863
+329.txt,deictic,fall,107
+329.txt,deictic,fall,304
+329.txt,deictic,fall,1463
+330.txt,deictic,last week,350
+330.txt,deictic,week,764
+330.txt,deictic,Sunday,167
+330.txt,deictic,Sunday,786
+331.txt,deictic,Year,27
+331.txt,deictic,week,467
+331.txt,deictic,week,668
+331.txt,deictic,Year,684
+331.txt,deictic,Thursday,316
+331.txt,deictic,Thursday,855
+331.txt,deictic,Thursday,1343
+332.txt,deictic,Last week,146
+332.txt,deictic,year,721
+332.txt,deictic,year,815
+332.txt,deictic,Today,872
+332.txt,deictic,year,1154
+332.txt,deictic,year,1660
+332.txt,deictic,Tuesday,908
+333.txt,deictic,year,271
+333.txt,deictic,week,306
+333.txt,deictic,Year,379
+333.txt,deictic,fall,579
+334.txt,deictic,last year,1628
+334.txt,deictic,last November,725
+334.txt,deictic,Monday,76
+334.txt,deictic,Monday,1957
+335.txt,deictic,previous day,327
+335.txt,deictic,last year,469
+335.txt,deictic,year,1029
+335.txt,deictic,year,1229
+335.txt,deictic,last year,1978
+335.txt,deictic,fall,835
+335.txt,deictic,fall,1337
+335.txt,deictic,Thursday,2152
+335.txt,deictic,Friday,266
+335.txt,deictic,Friday,1257
+336.txt,deictic,year,656
+336.txt,deictic,year,850
+337.txt,deictic,previous year,653
+337.txt,deictic,previous year,876
+337.txt,deictic,year,1073
+337.txt,deictic,year,1429
+337.txt,deictic,year,1454
+338.txt,deictic,next year,73
+338.txt,deictic,next year,570
+339.txt,deictic,year,271
+339.txt,deictic,year,275
+339.txt,deictic,year,657
+339.txt,deictic,year,661
+339.txt,deictic,last quarter,774
+339.txt,deictic,fall,629
+340.txt,deictic,Thursday,76
+340.txt,deictic,Thursday,1273
+341.txt,deictic,year,1618
+341.txt,deictic,Last year,2151
+341.txt,deictic,Monday,854
+342.txt,deictic,year,144
+342.txt,deictic,year,463
+342.txt,deictic,year,703
+342.txt,deictic,fall,196
+342.txt,deictic,fall,642
+343.txt,deictic,last year,441
+343.txt,deictic,year,933
+343.txt,deictic,Tuesday,2478
+343.txt,deictic,Thursday,2110
+343.txt,deictic,Thursday,2619
+343.txt,deictic,Friday,78
+344.txt,deictic,year,857
+345.txt,deictic,year,1716
+346.txt,deictic,year,782
+347.txt,deictic,last year,831
+347.txt,deictic,today,1059
+348.txt,deictic,next year,585
+352.txt,deictic,week,287
+352.txt,deictic,week,323
+352.txt,deictic,week,393
+352.txt,deictic,autumn,409
+353.txt,deictic,year,584
+353.txt,deictic,fall,401
+353.txt,deictic,summer,984
+354.txt,deictic,week,641
+354.txt,deictic,year,1687
+355.txt,deictic,week,436
+355.txt,deictic,yesterday,1067
+355.txt,deictic,fall,983
+355.txt,deictic,Thursday,736
+355.txt,deictic,Thursday,853
+355.txt,deictic,Friday,97
+355.txt,deictic,Friday,668
+356.txt,deictic,year,65
+356.txt,deictic,year,212
+356.txt,deictic,fall,706
+357.txt,deictic,last month,1223
+357.txt,deictic,Monday,197
+358.txt,deictic,last year,2631
+358.txt,deictic,Wednesday,1384
+358.txt,deictic,Thursday,156
+358.txt,deictic,Thursday,329
+358.txt,deictic,Sunday,1278
+358.txt,deictic,Sunday,2155
+360.txt,deictic,Friday,3119
+360.txt,deictic,Sunday,872
+361.txt,deictic,last year,561
+361.txt,deictic,year,1436
+361.txt,deictic,next year,1506
+361.txt,deictic,year,1736
+361.txt,deictic,Tuesday,367
+361.txt,deictic,Tuesday,734
+361.txt,deictic,Tuesday,1929
+362.txt,deictic,year,220
+362.txt,deictic,year,254
+362.txt,deictic,year,576
+362.txt,deictic,year,869
+362.txt,deictic,year,964
+362.txt,deictic,fall,238
+362.txt,deictic,Monday,451
+363.txt,deictic,year,1345
+363.txt,deictic,year,1624
+363.txt,deictic,Monday,1722
+363.txt,deictic,Thursday,580
+364.txt,deictic,year,1564
+364.txt,deictic,year,2410
+364.txt,deictic,fall,841
+364.txt,deictic,fall,1471
+364.txt,deictic,fall,1826
+365.txt,deictic,last year,765
+366.txt,deictic,last year,160
+366.txt,deictic,Thursday,838
+367.txt,simple,2001-2003,157
+367.txt,deictic,last year,260
+368.txt,deictic,last year,103
+368.txt,deictic,last year,156
+368.txt,deictic,Last year,546
+368.txt,deictic,last week,954
+368.txt,deictic,fall,843
+369.txt,deictic,Thursday,91
+370.txt,deictic,last year,304
+371.txt,deictic,year,964
+371.txt,deictic,year,1232
+372.txt,deictic,last year,474
+372.txt,deictic,year,790
+372.txt,deictic,last March,1724
+373.txt,deictic,year,610
+373.txt,deictic,last January,1167
+373.txt,deictic,fall,360
+373.txt,deictic,fall,847
+374.txt,deictic,year,957
+374.txt,deictic,year,1266
+374.txt,deictic,year,1904
+375.txt,deictic,last year,543
+375.txt,deictic,fall,564
+376.txt,deictic,next month,967
+376.txt,deictic,year,1151
+377.txt,deictic,last April,1867
+377.txt,deictic,Monday,258
+377.txt,deictic,Wednesday,770
+377.txt,deictic,Thursday,368
+378.txt,deictic,week,762
+378.txt,deictic,year,825
+378.txt,deictic,fall,10
+378.txt,deictic,Monday,547
+378.txt,deictic,Tuesday,96
+379.txt,deictic,last year,1216
+380.txt,deictic,year,94
+380.txt,deictic,fall,687
+381.txt,deictic,year,250
+381.txt,deictic,fall,759
+382.txt,deictic,last quarter,403
+382.txt,deictic,year,838
+382.txt,deictic,year,1064
+382.txt,deictic,year,1703
+382.txt,deictic,fall,17
+382.txt,deictic,fall,690
+382.txt,deictic,fall,1319
+382.txt,deictic,fall,1565
+383.txt,deictic,Today,1461
+384.txt,deictic,year,969
+384.txt,deictic,year,2431
+384.txt,deictic,Today,3204
+384.txt,deictic,year,3272
+384.txt,deictic,year,3290
+384.txt,deictic,year,3305
+384.txt,deictic,year,3933
+384.txt,deictic,Friday,3776
+385.txt,deictic,year,1324
+386.txt,deictic,year,321
+386.txt,deictic,last year,1035
+388.txt,deictic,last year,428
+388.txt,deictic,summer,835
+389.txt,deictic,week,1038
+389.txt,deictic,last year,1171
+389.txt,deictic,Tuesday,83
+390.txt,deictic,week,837
+390.txt,deictic,Tuesday,1770
+391.txt,deictic,last year,338
+391.txt,deictic,week,1041
+391.txt,deictic,last year,1263
+391.txt,deictic,week,1288
+391.txt,deictic,week,1900
+391.txt,deictic,spring,285
+391.txt,deictic,Tuesday,1333
+391.txt,deictic,Sunday,1690
+393.txt,deictic,year,176
+393.txt,deictic,last quarter,184
+393.txt,deictic,year,1731
+393.txt,deictic,fall,549
+393.txt,deictic,fall,1595
+393.txt,deictic,Thursday,1862
+394.txt,deictic,previous quarter,233
+395.txt,deictic,year,276
+395.txt,deictic,year,716
+395.txt,deictic,year,1123
+397.txt,deictic,year,476
+397.txt,deictic,year,1011
+397.txt,deictic,year,1269
+397.txt,deictic,last month,1474
+397.txt,deictic,year,1505
+397.txt,deictic,fall,1338
+398.txt,deictic,year,503
+398.txt,deictic,last year,684
+398.txt,deictic,last year,1062
+398.txt,deictic,fall,1522
+398.txt,deictic,fall,1553
+399.txt,deictic,year,1982
+399.txt,deictic,next Tuesday,1608
+400.txt,deictic,year,262
+400.txt,deictic,next year,432
+400.txt,deictic,year,921
+400.txt,deictic,year,1260
+400.txt,deictic,fall,1066
+401.txt,deictic,year,1217
+401.txt,deictic,last year,1420
+401.txt,deictic,Tuesday,203
+402.txt,deictic,last year,299
+402.txt,deictic,year,537
+402.txt,deictic,year,999
+402.txt,deictic,last year,1365
+403.txt,deictic,year,157
+403.txt,deictic,year,1406
+403.txt,deictic,year,1509
+403.txt,deictic,year,1698
+403.txt,deictic,Friday,514
+404.txt,deictic,year,1250
+405.txt,deictic,last quarter,123
+405.txt,deictic,year,690
+405.txt,deictic,year,735
+405.txt,deictic,Friday,524
+405.txt,deictic,Friday,597
+406.txt,deictic,year,216
+406.txt,deictic,year,358
+407.txt,deictic,week,99
+407.txt,deictic,week,445
+407.txt,deictic,last year,593
+407.txt,deictic,fall,1031
+407.txt,deictic,Tuesday,1134
+407.txt,deictic,Thursday,776
+408.txt,deictic,year,1227
+408.txt,deictic,last November,1454
+408.txt,deictic,Monday,501
+408.txt,deictic,Wednesday,923
+409.txt,deictic,year,360
+409.txt,deictic,year,544
+409.txt,deictic,year,892
+410.txt,simple,12 February 2005,1322
+410.txt,deictic,Day,737
+411.txt,deictic,year,71
+411.txt,deictic,last year,553
+411.txt,deictic,year,872
+411.txt,deictic,Last year,3279
+412.txt,deictic,Day,267
+412.txt,deictic,year,454
+412.txt,deictic,Day,850
+412.txt,deictic,last month,1174
+412.txt,deictic,last year,1279
+412.txt,deictic,last week,1285
+412.txt,deictic,year,1903
+412.txt,deictic,last September,1517
+414.txt,deictic,year,128
+414.txt,deictic,year,1019
+414.txt,deictic,year,1047
+414.txt,deictic,year,1092
+414.txt,deictic,week,1253
+414.txt,deictic,Last month,1808
+414.txt,deictic,year,1875
+414.txt,deictic,last October,1689
+415.txt,deictic,year,105
+415.txt,deictic,last year,253
+415.txt,deictic,year,426
+415.txt,deictic,year,650
+415.txt,deictic,year,1225
+415.txt,deictic,year,1284
+415.txt,deictic,year,1382
+415.txt,deictic,year,1698
+415.txt,deictic,fall,426
+416.txt,deictic,last September,2320
+416.txt,deictic,summer,2068
+416.txt,deictic,Monday,2458
+417.txt,deictic,year,249
+417.txt,deictic,Day,884
+417.txt,deictic,year,1180
+417.txt,deictic,Friday,155
+418.txt,deictic,next year,94
+419.txt,deictic,year,443
+419.txt,deictic,year,1775
+419.txt,deictic,last year,2387
+420.txt,deictic,year,670
+420.txt,deictic,year,2040
+420.txt,deictic,week,2764
+420.txt,deictic,year,2893
+420.txt,deictic,year,2969
+420.txt,deictic,year,3086
+420.txt,deictic,Sunday,137
+421.txt,deictic,Monday,389
+421.txt,deictic,Thursday,752
+421.txt,deictic,Sunday,1748
+422.txt,deictic,year,40
+422.txt,deictic,year,103
+422.txt,deictic,previous year,232
+422.txt,deictic,year,556
+422.txt,deictic,year,629
+422.txt,deictic,Last year,842
+422.txt,deictic,year,893
+422.txt,deictic,year,1490
+422.txt,deictic,year,1633
+422.txt,deictic,year,1853
+422.txt,deictic,year,2544
+423.txt,deictic,year,94
+423.txt,deictic,Last week,642
+424.txt,deictic,last month,535
+424.txt,deictic,Thursday,1172
+425.txt,deictic,year,1124
+425.txt,deictic,Sunday,1386
+426.txt,simple,13 February 2003,1090
+426.txt,deictic,year,514
+426.txt,deictic,week,977
+426.txt,deictic,fall,270
+426.txt,deictic,Monday,2711
+426.txt,deictic,Tuesday,400
+427.txt,deictic,year,182
+427.txt,deictic,year,352
+428.txt,deictic,year,450
+429.txt,deictic,last year,618
+429.txt,deictic,Last year,740
+429.txt,deictic,Summer,507
+429.txt,deictic,Thursday,289
+429.txt,deictic,Sunday,869
+430.txt,deictic,week,271
+430.txt,deictic,week,344
+430.txt,deictic,week,938
+430.txt,deictic,week,1080
+430.txt,deictic,week,1189
+430.txt,deictic,Last week,1236
+430.txt,deictic,week,1421
+431.txt,deictic,year,287
+431.txt,deictic,year,798
+431.txt,deictic,last year,913
+431.txt,deictic,last November,1104
+431.txt,deictic,Friday,603
+434.txt,deictic,last month,294
+434.txt,deictic,summer,946
+434.txt,deictic,Tuesday,211
+436.txt,simple,4 February 2005,275
+436.txt,deictic,year,354
+436.txt,deictic,year,671
+436.txt,deictic,last week,691
+436.txt,deictic,year,1371
+436.txt,deictic,year,1988
+436.txt,deictic,Saturday,397
+437.txt,deictic,last year,413
+437.txt,deictic,year,1199
+437.txt,deictic,year,1520
+437.txt,deictic,Thursday,165
+437.txt,deictic,Thursday,651
+438.txt,deictic,week,1056
+438.txt,deictic,last year,1090
+438.txt,deictic,fall,231
+438.txt,deictic,summer,1176
+438.txt,deictic,summer,1355
+439.txt,deictic,year,2109
+440.txt,deictic,year,495
+440.txt,deictic,week,1425
+440.txt,deictic,year,1836
+440.txt,deictic,Tuesday,178
+440.txt,deictic,Sunday,479
+440.txt,deictic,Sunday,1498
+440.txt,deictic,Sunday,1786
+441.txt,deictic,week,1405
+442.txt,deictic,Day,0
+442.txt,deictic,Day,43
+442.txt,deictic,year,143
+442.txt,deictic,Day,634
+442.txt,deictic,Day,1085
+442.txt,deictic,year,1138
+444.txt,deictic,year,733
+444.txt,deictic,Spring,155
+444.txt,deictic,Wednesday,541
+445.txt,deictic,last year,299
+445.txt,deictic,year,954
+446.txt,deictic,next year,417
+446.txt,deictic,week,522
+447.txt,simple,12 March 1993,635
+447.txt,deictic,year,765
+447.txt,deictic,year,1618
+447.txt,deictic,Friday,261
+447.txt,deictic,Friday,299
+447.txt,deictic,Friday,480
+448.txt,deictic,year,334
+448.txt,deictic,Sunday,609
+449.txt,deictic,next month,133
+449.txt,deictic,Year,434
+449.txt,deictic,year,485
+449.txt,deictic,year,495
+449.txt,deictic,year,665
+449.txt,deictic,year,752
+449.txt,deictic,Day,938
+449.txt,deictic,Day,1170
+450.txt,simple,3 February 2005,1211
+450.txt,deictic,year,448
+450.txt,deictic,year,1111
+451.txt,deictic,year,27
+451.txt,deictic,year,122
+451.txt,deictic,fall,359
+452.txt,deictic,year,583
+452.txt,deictic,last week,996
+452.txt,deictic,today,1458
+452.txt,deictic,year,1769
+452.txt,deictic,today,1908
+453.txt,deictic,year,1439
+453.txt,deictic,last July,393
+453.txt,deictic,Wednesday,1871
+454.txt,deictic,week,237
+454.txt,deictic,Friday,695
+455.txt,simple,1 February 1995,132
+455.txt,deictic,year,4
+455.txt,deictic,year,114
+455.txt,deictic,week,2599
+455.txt,deictic,year,2783
+456.txt,deictic,year,338
+456.txt,deictic,Summer,703
+456.txt,deictic,Sunday,224
+457.txt,deictic,year,1788
+457.txt,deictic,Saturday,581
+457.txt,deictic,Saturday,2911
+457.txt,deictic,Saturday,3152
+458.txt,deictic,year,509
+458.txt,deictic,last March,628
+458.txt,deictic,last June,207
+459.txt,deictic,week,137
+460.txt,deictic,year,184
+460.txt,deictic,Last year,287
+460.txt,deictic,year,559
+460.txt,deictic,year,574
+460.txt,deictic,year,627
+460.txt,deictic,last year,1175
+460.txt,deictic,last year,1777
+460.txt,deictic,year,1926
+461.txt,deictic,year,705
+461.txt,deictic,Monday,614
+462.txt,deictic,year,256
+462.txt,deictic,year,296
+462.txt,deictic,week,790
+462.txt,deictic,year,1054
+462.txt,deictic,year,1158
+462.txt,deictic,Tuesday,240
+462.txt,deictic,Friday,1618
+463.txt,deictic,Day,662
+463.txt,deictic,Friday,623
+464.txt,deictic,year,288
+464.txt,deictic,year,687
+465.txt,deictic,year,990
+465.txt,deictic,year,1177
+465.txt,deictic,Monday,1100
+466.txt,deictic,year,215
+467.txt,deictic,year,1099
+467.txt,deictic,year,1355
+467.txt,deictic,next July,824
+467.txt,deictic,Tuesday,325
+468.txt,deictic,year,55
+468.txt,deictic,year,843
+468.txt,deictic,next year,1288
+468.txt,deictic,Thursday,99
+469.txt,deictic,year,640
+469.txt,deictic,year,1889
+470.txt,deictic,last year,157
+470.txt,deictic,last month,373
+470.txt,deictic,year,741
+470.txt,deictic,year,745
+470.txt,deictic,last year,1096
+470.txt,deictic,last July,303
+471.txt,deictic,year,625
+471.txt,deictic,year,3076
+471.txt,deictic,year,3188
+471.txt,deictic,year,3784
+471.txt,deictic,year,3933
+471.txt,deictic,fall,1728
+472.txt,deictic,year,184
+472.txt,deictic,Last year,287
+472.txt,deictic,year,559
+472.txt,deictic,year,574
+472.txt,deictic,year,627
+472.txt,deictic,last year,1175
+472.txt,deictic,last year,1777
+472.txt,deictic,year,1926
+473.txt,deictic,next month,111
+473.txt,deictic,year,147
+473.txt,deictic,Spring,868
+474.txt,deictic,Thursday,2021
+474.txt,deictic,Saturday,271
+475.txt,deictic,year,1008
+475.txt,deictic,fall,2259
+476.txt,deictic,year,92
+476.txt,deictic,year,207
+476.txt,deictic,Day,415
+476.txt,deictic,week,566
+476.txt,deictic,year,965
+476.txt,deictic,Friday,1307
+476.txt,deictic,Saturday,816
+476.txt,deictic,Sunday,855
+477.txt,deictic,year,158
+477.txt,deictic,year,784
+477.txt,deictic,last October,375
+477.txt,deictic,Wednesday,125
+478.txt,deictic,week,1184
+478.txt,deictic,Friday,260
+478.txt,deictic,Friday,1064
+479.txt,deictic,year,987
+480.txt,deictic,year,1158
+480.txt,deictic,Friday,138
+480.txt,deictic,Friday,285
+480.txt,deictic,Friday,405
+480.txt,deictic,Saturday,88
+481.txt,deictic,year,689
+481.txt,deictic,Day,1359
+481.txt,deictic,Friday,210
+482.txt,deictic,year,816
+482.txt,deictic,week,1639
+483.txt,deictic,year,1040
+483.txt,deictic,Summer,1204
+484.txt,deictic,year,1221
+484.txt,deictic,Wednesday,454
+485.txt,deictic,next month,229
+485.txt,deictic,Year,599
+485.txt,deictic,Thursday,712
+486.txt,deictic,year,1225
+486.txt,deictic,year,2222
+486.txt,deictic,year,3000
+486.txt,deictic,winter,397
+486.txt,deictic,Saturday,89
+487.txt,deictic,year,876
+487.txt,deictic,week,1568
+487.txt,deictic,year,2164
+487.txt,deictic,fall,2856
+488.txt,deictic,week,335
+488.txt,deictic,year,2077
+488.txt,deictic,year,2572
+488.txt,deictic,year,2823
+488.txt,deictic,today,3066
+489.txt,deictic,year,2050
+489.txt,deictic,year,2536
+489.txt,deictic,Tomorrow,3156
+490.txt,deictic,last month,376
+490.txt,deictic,week,593
+491.txt,deictic,fall,1694
+491.txt,deictic,Wednesday,463
+491.txt,deictic,Friday,297
+491.txt,deictic,Friday,1428
+492.txt,deictic,year,733
+492.txt,deictic,Spring,155
+492.txt,deictic,Wednesday,541
+493.txt,deictic,year,779
+493.txt,deictic,year,1115
+493.txt,deictic,next week,1168
+494.txt,deictic,last May,605
+494.txt,deictic,Summer,338
+494.txt,deictic,Summer,935
+494.txt,deictic,Summer,1243
+494.txt,deictic,Tuesday,1050
+495.txt,deictic,last year,437
+495.txt,deictic,Last year,1123
+495.txt,deictic,last year,1237
+496.txt,deictic,week,112
+496.txt,deictic,week,299
+496.txt,deictic,Next week,318
+496.txt,deictic,week,1011
+496.txt,deictic,week,1235
+496.txt,deictic,year,1326
+497.txt,deictic,last year,1064
+497.txt,deictic,Sunday,913
+498.txt,deictic,week,133
+498.txt,deictic,week,1023
+498.txt,deictic,Friday,901
+499.txt,deictic,year,506
+499.txt,deictic,year,1151
+500.txt,deictic,year,509
+500.txt,deictic,next year,571
+501.txt,deictic,year,201
+501.txt,deictic,year,718
+501.txt,deictic,today,2018
+501.txt,deictic,year,6810
+501.txt,deictic,year,7164
+501.txt,deictic,Tomorrow,8058
+501.txt,deictic,today,8071
+501.txt,deictic,year,8254
+501.txt,deictic,today,8851
+501.txt,deictic,today,9993
+501.txt,deictic,year,10019
+501.txt,deictic,today,13416
+501.txt,deictic,Fall,11674
+501.txt,deictic,Friday,111
+503.txt,deictic,year,828
+504.txt,deictic,year,837
+505.txt,deictic,week,323
+505.txt,deictic,week,964
+505.txt,deictic,last week,1095
+505.txt,deictic,previous week,1327
+506.txt,deictic,last year,3188
+507.txt,deictic,year,675
+507.txt,deictic,year,870
+507.txt,deictic,Saturday,197
+507.txt,deictic,Saturday,522
+508.txt,deictic,Year,1063
+509.txt,deictic,year,186
+510.txt,deictic,week,151
+510.txt,deictic,last year,576
+510.txt,deictic,week,1261
+510.txt,deictic,last week,1422
+511.txt,deictic,year,179
+511.txt,deictic,last week,599
+511.txt,deictic,Summer,908
+512.txt,deictic,year,766
+512.txt,deictic,year,957
+512.txt,deictic,year,1677
+513.txt,deictic,last year,284
+513.txt,deictic,week,405
+513.txt,deictic,year,524
+513.txt,deictic,year,906
+514.txt,deictic,week,138
+514.txt,deictic,week,172
+514.txt,deictic,Day,306
+514.txt,deictic,week,701
+514.txt,deictic,year,709
+514.txt,deictic,Year,863
+514.txt,deictic,Year,908
+514.txt,deictic,Day,911
+514.txt,deictic,Year,957
+514.txt,deictic,Year,1083
+514.txt,deictic,Day,1086
+514.txt,deictic,week,1222
+514.txt,deictic,year,1231
+514.txt,deictic,week,1238
+514.txt,deictic,week,1321
+514.txt,deictic,last year,1325
+514.txt,deictic,last week,1360
+514.txt,deictic,fall,1247
+515.txt,deictic,today,650
+516.txt,simple,7 March 1985,698
+516.txt,deictic,week,748
+516.txt,deictic,year,792
+516.txt,deictic,year,811
+516.txt,deictic,Spring,326
+517.txt,deictic,Monday,399
+517.txt,deictic,Monday,2124
+517.txt,deictic,Monday,2527
+518.txt,deictic,next year,496
+518.txt,deictic,Tomorrow,814
+518.txt,deictic,year,848
+518.txt,deictic,Tuesday,157
+519.txt,deictic,year,86
+520.txt,deictic,year,153
+520.txt,deictic,fall,1342
+520.txt,deictic,Saturday,280
+520.txt,deictic,Saturday,1299
+521.txt,deictic,year,117
+521.txt,deictic,Tuesday,763
+522.txt,deictic,year,28
+522.txt,deictic,year,132
+522.txt,deictic,next month,490
+522.txt,deictic,year,920
+522.txt,deictic,next month,1056
+522.txt,deictic,year,1523
+523.txt,deictic,week,200
+523.txt,deictic,week,777
+523.txt,deictic,next week,877
+523.txt,deictic,Saturday,117
+523.txt,deictic,Sunday,474
+525.txt,deictic,Day,756
+525.txt,deictic,next week,1299
+525.txt,deictic,Day,1488
+526.txt,deictic,year,589
+526.txt,deictic,year,785
+527.txt,deictic,last year,317
+527.txt,deictic,last year,745
+528.txt,deictic,week,609
+528.txt,deictic,next month,1002
+528.txt,deictic,Last Saturday,296
+529.txt,deictic,Thursday,465
+530.txt,deictic,year,130
+530.txt,deictic,year,141
+530.txt,deictic,year,270
+530.txt,deictic,Saturday,75
+530.txt,deictic,Saturday,667
+530.txt,deictic,Saturday,850
+531.txt,deictic,year,463
+531.txt,deictic,Fall,893
+531.txt,deictic,Friday,1021
+531.txt,deictic,Saturday,243
+532.txt,deictic,week,1490
+532.txt,deictic,Monday,581
+532.txt,deictic,Monday,1022
+532.txt,deictic,Friday,196
+532.txt,deictic,Friday,1273
+534.txt,deictic,Tuesday,134
+536.txt,deictic,Wednesday,220
+537.txt,deictic,last week,1312
+537.txt,deictic,Last week,1368
+537.txt,deictic,Tuesday,223
+538.txt,deictic,next year,73
+539.txt,deictic,year,555
+539.txt,deictic,year,2327
+539.txt,deictic,last year,2405
+539.txt,deictic,year,2661
+539.txt,deictic,Sunday,142
+540.txt,deictic,year,654
+540.txt,deictic,year,706
+540.txt,deictic,last year,1334
+540.txt,deictic,year,1976
+540.txt,deictic,today,2086
+540.txt,deictic,Tuesday,127
+541.txt,deictic,year,796
+541.txt,deictic,Winter,1807
+541.txt,deictic,Monday,330
+542.txt,deictic,year,145
+542.txt,deictic,week,247
+542.txt,deictic,week,880
+542.txt,deictic,next week,980
+542.txt,deictic,week,1228
+542.txt,deictic,Day,1464
+542.txt,deictic,Day,1674
+542.txt,deictic,Saturday,560
+543.txt,deictic,year,92
+543.txt,deictic,year,1388
+544.txt,deictic,year,116
+544.txt,deictic,year,418
+544.txt,deictic,year,532
+544.txt,deictic,week,729
+544.txt,deictic,Monday,150
+544.txt,deictic,Sunday,460
+545.txt,deictic,year,64
+545.txt,deictic,year,881
+545.txt,deictic,year,1576
+546.txt,deictic,Day,965
+546.txt,deictic,Today,966
+547.txt,deictic,Day,140
+547.txt,deictic,Day,270
+547.txt,deictic,week,616
+547.txt,deictic,year,625
+547.txt,deictic,week,655
+547.txt,deictic,week,785
+547.txt,deictic,last year,871
+547.txt,deictic,last week,962
+547.txt,deictic,Day,1174
+547.txt,deictic,Day,1322
+547.txt,deictic,fall,606
+547.txt,deictic,fall,652
+548.txt,deictic,next year,856
+548.txt,deictic,last July,260
+548.txt,deictic,Saturday,71
+548.txt,deictic,Saturday,379
+549.txt,deictic,year,87
+549.txt,deictic,next year,1148
+550.txt,deictic,last week,402
+550.txt,deictic,next week,817
+550.txt,deictic,week,923
+550.txt,deictic,Friday,259
+551.txt,deictic,year,90
+551.txt,deictic,year,1202
+551.txt,deictic,last year,2505
+551.txt,deictic,year,2959
+551.txt,deictic,last year,3025
+552.txt,deictic,year,633
+552.txt,deictic,year,660
+552.txt,deictic,Fall,1194
+553.txt,deictic,Last year,507
+553.txt,deictic,Monday,215
+554.txt,deictic,year,167
+554.txt,deictic,year,436
+555.txt,deictic,last year,503
+555.txt,deictic,last year,770
+556.txt,deictic,last year,239
+556.txt,deictic,week,318
+556.txt,deictic,last year,492
+556.txt,deictic,Last year,495
+556.txt,deictic,year,1650
+556.txt,deictic,fall,1410
+557.txt,deictic,next month,114
+557.txt,deictic,Day,237
+557.txt,deictic,year,386
+557.txt,deictic,Last week,569
+557.txt,deictic,year,959
+557.txt,deictic,year,1016
+557.txt,deictic,year,1039
+558.txt,deictic,year,125
+558.txt,deictic,year,632
+558.txt,deictic,year,3606
+558.txt,deictic,fall,2557
+559.txt,deictic,year,296
+559.txt,deictic,Sunday,357
+560.txt,deictic,year,50
+560.txt,deictic,year,1745
+560.txt,deictic,yesterday,3353
+560.txt,deictic,year,3896
+560.txt,deictic,last year,4095
+560.txt,deictic,year,9068
+561.txt,deictic,next year,94
+562.txt,deictic,year,449
+562.txt,deictic,week,764
+562.txt,deictic,year,1802
+562.txt,deictic,week,2235
+562.txt,deictic,Sunday,105
+562.txt,deictic,Sunday,2339
+563.txt,deictic,week,683
+563.txt,deictic,today,905
+563.txt,deictic,Wednesday,495
+564.txt,simple,11 September 2001,569
+564.txt,deictic,today,1084
+564.txt,deictic,year,1404
+565.txt,deictic,week,136
+565.txt,deictic,year,765
+565.txt,deictic,week,877
+565.txt,deictic,last week,967
+565.txt,deictic,year,1175
+565.txt,deictic,week,1243
+565.txt,deictic,Last May,990
+566.txt,deictic,year,1242
+566.txt,deictic,Wednesday,634
+567.txt,deictic,last year,157
+567.txt,deictic,last month,364
+567.txt,deictic,year,733
+567.txt,deictic,year,737
+567.txt,deictic,last year,1088
+567.txt,deictic,last July,306
+568.txt,deictic,Last week,278
+568.txt,deictic,week,1259
+568.txt,deictic,week,1345
+568.txt,deictic,year,1402
+568.txt,deictic,week,1481
+568.txt,deictic,fall,1407
+569.txt,deictic,year,763
+569.txt,deictic,Wednesday,234
+570.txt,deictic,year,1208
+570.txt,deictic,year,1329
+570.txt,deictic,week,1821
+570.txt,deictic,Saturday,1046
+571.txt,deictic,Day,301
+571.txt,deictic,Last year,516
+571.txt,deictic,week,537
+571.txt,deictic,Day,682
+571.txt,deictic,year,702
+571.txt,deictic,last year,747
+571.txt,deictic,year,778
+571.txt,deictic,week,1154
+571.txt,deictic,Day,1326
+571.txt,deictic,year,1394
+572.txt,deictic,year,132
+572.txt,deictic,year,1254
+573.txt,deictic,last year,75
+573.txt,deictic,last year,548
+573.txt,deictic,last year,937
+573.txt,deictic,previous year,1149
+573.txt,deictic,year,1224
+574.txt,deictic,week,3496
+574.txt,deictic,Winter,3327
+575.txt,deictic,Week,1098
+575.txt,deictic,year,2107
+575.txt,deictic,year,3361
+575.txt,deictic,year,3485
+575.txt,deictic,year,3583
+575.txt,deictic,Thursday,1594
+576.txt,deictic,year,467
+576.txt,deictic,year,624
+576.txt,deictic,today,662
+576.txt,deictic,year,2625
+576.txt,deictic,last year,3735
+576.txt,deictic,year,4022
+576.txt,deictic,week,4100
+576.txt,deictic,year,4298
+576.txt,deictic,year,4669
+576.txt,deictic,year,4908
+576.txt,deictic,year,5405
+576.txt,deictic,year,5594
+576.txt,deictic,year,5671
+576.txt,deictic,year,5759
+576.txt,deictic,year,6101
+576.txt,deictic,year,6376
+576.txt,deictic,year,6415
+576.txt,deictic,year,6617
+576.txt,deictic,year,6810
+576.txt,deictic,year,7066
+576.txt,deictic,today,7589
+576.txt,deictic,year,8845
+576.txt,deictic,year,9120
+576.txt,deictic,year,10070
+576.txt,deictic,year,10420
+576.txt,deictic,year,10516
+576.txt,deictic,year,10598
+576.txt,deictic,year,11097
+576.txt,deictic,year,11343
+576.txt,deictic,year,11511
+576.txt,deictic,year,11991
+576.txt,deictic,year,12110
+576.txt,deictic,year,12181
+576.txt,deictic,year,12448
+576.txt,deictic,today,12586
+576.txt,deictic,year,12793
+576.txt,deictic,year,13224
+576.txt,deictic,today,13390
+576.txt,deictic,year,13824
+576.txt,deictic,year,14808
+576.txt,deictic,year,15162
+576.txt,deictic,year,15225
+576.txt,deictic,year,15921
+576.txt,deictic,year,16188
+576.txt,deictic,year,16785
+576.txt,deictic,year,17250
+576.txt,deictic,year,18011
+576.txt,deictic,year,18753
+576.txt,deictic,Fall,5017
+576.txt,deictic,fall,9709
+576.txt,deictic,summer,9841
+576.txt,deictic,Monday,5055
+576.txt,deictic,Wednesday,3273
+576.txt,deictic,Thursday,3994
+577.txt,deictic,year,890
+577.txt,deictic,Monday,1090
+578.txt,deictic,year,609
+578.txt,deictic,spring,1170
+578.txt,deictic,Monday,834
+579.txt,deictic,year,395
+579.txt,deictic,Monday,872
+579.txt,deictic,Wednesday,1011
+579.txt,deictic,Friday,164
+579.txt,deictic,Sunday,1254
+580.txt,deictic,year,1203
+580.txt,deictic,year,1324
+580.txt,deictic,week,1816
+580.txt,deictic,Saturday,1041
+581.txt,deictic,Monday,223
+581.txt,deictic,Monday,389
+581.txt,deictic,Monday,1122
+581.txt,deictic,Friday,935
+581.txt,deictic,Friday,1193
+582.txt,deictic,year,387
+582.txt,deictic,previous year,502
+583.txt,deictic,year,599
+583.txt,deictic,Friday,89
+583.txt,deictic,Friday,787
+584.txt,deictic,year,525
+584.txt,deictic,next year,1019
+584.txt,deictic,fall,1209
+585.txt,deictic,last year,912
+585.txt,deictic,year,945
+585.txt,deictic,last year,1119
+585.txt,deictic,Last year,1121
+586.txt,deictic,Year,544
+586.txt,deictic,Year,1028
+587.txt,deictic,week,864
+587.txt,deictic,week,1333
+587.txt,deictic,next year,1471
+587.txt,deictic,next year,1544
+587.txt,deictic,today,2298
+587.txt,deictic,Tuesday,117
+587.txt,deictic,Tuesday,243
+587.txt,deictic,Wednesday,298
+587.txt,deictic,Thursday,337
+587.txt,deictic,Thursday,947
+587.txt,deictic,Saturday,1317
+588.txt,deictic,year,1617
+588.txt,deictic,year,2002
+588.txt,deictic,year,2923
+588.txt,deictic,Monday,302
+588.txt,deictic,Monday,1133
+588.txt,deictic,Tuesday,1831
+588.txt,deictic,Sunday,3124
+590.txt,deictic,year,1915
+591.txt,deictic,Year,544
+591.txt,deictic,Year,1028
+592.txt,deictic,year,1447
+592.txt,deictic,Monday,216
+592.txt,deictic,Monday,457
+592.txt,deictic,Monday,1158
+592.txt,deictic,Tuesday,269
+592.txt,deictic,Tuesday,464
+592.txt,deictic,Wednesday,982
+593.txt,deictic,year,87
+593.txt,deictic,year,124
+593.txt,deictic,year,282
+593.txt,deictic,year,441
+594.txt,deictic,year,68
+594.txt,deictic,year,476
+594.txt,deictic,Last year,1408
+594.txt,deictic,Sunday,409
+595.txt,deictic,year,1065
+595.txt,deictic,Year,1316
+595.txt,deictic,Year,1951
+596.txt,deictic,year,932
+596.txt,deictic,Wednesday,468
+598.txt,deictic,week,130
+598.txt,deictic,year,859
+598.txt,deictic,year,959
+598.txt,deictic,Day,1001
+598.txt,deictic,week,1002
+598.txt,deictic,last year,1023
+599.txt,deictic,Before Sunday,1416
+600.txt,deictic,week,1192
+600.txt,deictic,Saturday,601
+601.txt,deictic,year,73
+601.txt,deictic,year,481
+601.txt,deictic,Last year,1413
+601.txt,deictic,Sunday,414
+602.txt,deictic,year,21
+602.txt,deictic,year,107
+602.txt,deictic,year,690
+603.txt,deictic,last week,243
+603.txt,deictic,year,328
+603.txt,deictic,year,390
+603.txt,deictic,year,513
+603.txt,deictic,fall,572
+604.txt,deictic,year,344
+604.txt,deictic,year,602
+604.txt,deictic,year,1008
+604.txt,deictic,Saturday,420
+605.txt,deictic,year,867
+605.txt,deictic,year,1026
+606.txt,deictic,year,258
+606.txt,deictic,last year,464
+606.txt,deictic,last year,1064
+606.txt,deictic,year,1144
+607.txt,deictic,year,873
+607.txt,deictic,summer,1302
+608.txt,deictic,Day,267
+608.txt,deictic,year,454
+608.txt,deictic,Day,850
+608.txt,deictic,last month,1174
+608.txt,deictic,last year,1279
+608.txt,deictic,last week,1285
+608.txt,deictic,year,1903
+608.txt,deictic,last September,1517
+609.txt,deictic,next year,103
+609.txt,deictic,next year,540
+609.txt,deictic,year,1722
+611.txt,deictic,week,1513
+611.txt,deictic,last September,367
+611.txt,deictic,autumn,692
+612.txt,deictic,year,507
+612.txt,deictic,fall,862
+613.txt,simple,4 February 2005,275
+613.txt,deictic,year,354
+613.txt,deictic,year,671
+613.txt,deictic,last week,691
+613.txt,deictic,year,1371
+613.txt,deictic,year,1988
+613.txt,deictic,Saturday,397
+614.txt,deictic,week,1729
+614.txt,deictic,year,2037
+614.txt,deictic,Friday,132
+614.txt,deictic,Sunday,644
+614.txt,deictic,Sunday,1986
+615.txt,deictic,year,512
+615.txt,deictic,year,1042
+615.txt,deictic,Week,1338
+615.txt,deictic,summer,89
+615.txt,deictic,summer,789
+615.txt,deictic,Friday,1126
+615.txt,deictic,Saturday,1156
+615.txt,deictic,Sunday,1210
+615.txt,deictic,Sunday,1295
+616.txt,deictic,week,78
+616.txt,deictic,Wednesday,460
+617.txt,deictic,year,226
+617.txt,deictic,today,318
+617.txt,deictic,year,684
+617.txt,deictic,today,1034
+617.txt,deictic,week,4718
+617.txt,deictic,year,5495
+617.txt,deictic,year,6021
+617.txt,deictic,Monday,1648
+617.txt,deictic,Wednesday,1658
+617.txt,deictic,Thursday,1613
+617.txt,deictic,before Sunday,1668
+618.txt,deictic,year,132
+618.txt,deictic,year,1254
+619.txt,deictic,last year,503
+619.txt,deictic,last year,770
+621.txt,deictic,week,913
+621.txt,deictic,week,1079
+621.txt,deictic,year,1235
+621.txt,deictic,fall,720
+621.txt,deictic,Friday,1891
+622.txt,deictic,year,137
+622.txt,deictic,fall,916
+623.txt,deictic,year,1120
+623.txt,deictic,year,1518
+623.txt,deictic,last April,1580
+624.txt,deictic,year,155
+624.txt,deictic,Day,474
+624.txt,deictic,Day,534
+624.txt,deictic,Day,678
+624.txt,deictic,year,915
+624.txt,deictic,Day,1269
+625.txt,deictic,year,500
+625.txt,deictic,year,799
+625.txt,deictic,year,1173
+626.txt,simple,5 April 1920,256
+626.txt,deictic,year,1081
+626.txt,deictic,year,1363
+626.txt,deictic,year,1759
+626.txt,deictic,year,1823
+626.txt,deictic,year,2611
+626.txt,deictic,year,3418
+626.txt,deictic,Wednesday,3543
+627.txt,deictic,year,124
+627.txt,deictic,last month,211
+627.txt,deictic,year,470
+627.txt,deictic,Tuesday,275
+628.txt,deictic,week,352
+628.txt,deictic,year,719
+628.txt,deictic,last year,731
+628.txt,deictic,year,766
+628.txt,deictic,Wednesday,991
+629.txt,deictic,year,371
+629.txt,deictic,year,694
+629.txt,deictic,year,1248
+629.txt,deictic,Thursday,165
+629.txt,deictic,Thursday,871
+630.txt,deictic,Sunday,1450
+631.txt,deictic,Sunday,1156
+632.txt,deictic,year,592
+632.txt,deictic,Friday,961
+632.txt,deictic,Saturday,362
+632.txt,deictic,Saturday,869
+633.txt,deictic,year,816
+633.txt,deictic,year,1417
+633.txt,deictic,year,1496
+633.txt,deictic,year,1810
+633.txt,deictic,last January,654
+634.txt,deictic,Day,177
+634.txt,deictic,year,680
+634.txt,deictic,Day,1393
+634.txt,deictic,year,1585
+634.txt,deictic,year,1593
+634.txt,deictic,year,1849
+634.txt,deictic,Last year,2357
+634.txt,deictic,summer,393
+634.txt,deictic,summer,1839
+635.txt,deictic,year,55
+636.txt,deictic,year,112
+636.txt,deictic,Saturday,370
+637.txt,deictic,year,207
+637.txt,deictic,week,425
+637.txt,deictic,week,1491
+637.txt,deictic,year,1883
+638.txt,deictic,year,383
+638.txt,deictic,fall,2596
+639.txt,deictic,next year,143
+639.txt,deictic,year,629
+639.txt,deictic,year,782
+639.txt,deictic,Last year,911
+640.txt,deictic,next year,2226
+641.txt,deictic,Monday,221
+641.txt,deictic,Monday,1016
+642.txt,deictic,year,721
+644.txt,deictic,year,261
+644.txt,deictic,year,937
+645.txt,deictic,last year,534
+645.txt,deictic,week,812
+645.txt,deictic,next year,1179
+645.txt,deictic,Spring,1184
+645.txt,deictic,Friday,114
+645.txt,deictic,Friday,846
+645.txt,deictic,Sunday,125
+645.txt,deictic,Sunday,1932
+646.txt,deictic,year,601
+646.txt,deictic,year,1756
+646.txt,deictic,Summer,2630
+646.txt,deictic,Wednesday,518
+646.txt,deictic,Saturday,61
+646.txt,deictic,Saturday,759
+646.txt,deictic,Saturday,2276
+647.txt,deictic,year,190
+648.txt,deictic,week,271
+648.txt,deictic,week,344
+648.txt,deictic,week,938
+648.txt,deictic,week,1080
+648.txt,deictic,week,1189
+648.txt,deictic,Last week,1236
+648.txt,deictic,week,1421
+649.txt,deictic,Monday,1921
+649.txt,deictic,Friday,246
+649.txt,deictic,Friday,725
+649.txt,deictic,Sunday,1902
+650.txt,deictic,year,812
+650.txt,deictic,Wednesday,168
+651.txt,deictic,year,732
+651.txt,deictic,last November,436
+652.txt,deictic,year,280
+652.txt,deictic,Day,564
+652.txt,deictic,year,815
+653.txt,deictic,year,937
+653.txt,deictic,Wednesday,1691
+654.txt,deictic,year,1029
+655.txt,deictic,year,863
+655.txt,deictic,year,1590
+655.txt,deictic,Sunday,150
+656.txt,deictic,week,320
+656.txt,deictic,last week,612
+656.txt,deictic,Day,1247
+657.txt,deictic,week,111
+657.txt,deictic,year,147
+657.txt,deictic,week,252
+657.txt,deictic,week,351
+657.txt,deictic,week,378
+657.txt,deictic,week,699
+657.txt,deictic,last year,975
+657.txt,deictic,fall,943
+658.txt,deictic,year,2433
+659.txt,deictic,Week,249
+659.txt,deictic,year,389
+659.txt,deictic,Week,637
+659.txt,deictic,last September,760
+660.txt,deictic,week,129
+660.txt,deictic,week,493
+660.txt,deictic,last year,494
+660.txt,deictic,Monday,583
+660.txt,deictic,Thursday,701
+661.txt,deictic,year,196
+661.txt,deictic,year,597
+661.txt,deictic,year,1033
+661.txt,deictic,Friday,96
+662.txt,deictic,Day,569
+662.txt,deictic,year,1066
+662.txt,deictic,Monday,250
+663.txt,deictic,year,76
+664.txt,deictic,week,221
+665.txt,deictic,Day,174
+665.txt,deictic,Day,846
+665.txt,deictic,Friday,412
+666.txt,deictic,Fall,741
+666.txt,deictic,Monday,138
+667.txt,simple,27 February 2005,482
+667.txt,deictic,year,85
+667.txt,deictic,year,127
+667.txt,deictic,year,1039
+667.txt,deictic,year,1470
+668.txt,deictic,Spring,55
+668.txt,deictic,Spring,307
+668.txt,deictic,Tuesday,1482
+669.txt,deictic,yesterday,1163
+669.txt,deictic,Tuesday,357
+669.txt,deictic,Sunday,463
+670.txt,deictic,Week,961
+670.txt,deictic,year,1537
+670.txt,deictic,Sunday,486
+671.txt,deictic,year,342
+671.txt,deictic,week,795
+671.txt,deictic,year,1451
+672.txt,deictic,year,94
+672.txt,deictic,year,2961
+673.txt,deictic,year,111
+673.txt,deictic,week,767
+673.txt,deictic,week,782
+673.txt,deictic,Tuesday,273
+673.txt,deictic,Sunday,100
+673.txt,deictic,Sunday,537
+674.txt,deictic,year,680
+674.txt,deictic,Saturday,351
+674.txt,deictic,Sunday,133
+675.txt,deictic,year,893
+675.txt,deictic,today,1449
+675.txt,deictic,Wednesday,709
+676.txt,deictic,week,212
+676.txt,deictic,last week,370
+676.txt,deictic,week,882
+677.txt,deictic,Wednesday,1211
+678.txt,deictic,year,264
+678.txt,deictic,year,1079
+678.txt,deictic,last year,1197
+678.txt,deictic,Thursday,456
+679.txt,deictic,Last month,442
+679.txt,deictic,year,781
+679.txt,deictic,week,926
+679.txt,deictic,week,1273
+679.txt,deictic,week,1446
+679.txt,deictic,year,1689
+679.txt,deictic,fall,1218
+680.txt,deictic,year,165
+680.txt,deictic,year,1033
+680.txt,deictic,year,1377
+680.txt,deictic,Friday,549
+681.txt,deictic,week,2492
+681.txt,deictic,Year,3175
+681.txt,deictic,Summer,2946
+681.txt,deictic,Saturday,623
+682.txt,deictic,Sunday,473
+683.txt,deictic,Day,653
+683.txt,deictic,year,729
+683.txt,deictic,year,757
+683.txt,deictic,year,789
+683.txt,deictic,year,910
+683.txt,deictic,year,1001
+683.txt,deictic,year,1057
+683.txt,deictic,week,1136
+684.txt,deictic,year,648
+684.txt,deictic,last year,943
+684.txt,deictic,last year,1001
+684.txt,deictic,last year,1231
+684.txt,deictic,year,1357
+684.txt,deictic,last year,1787
+684.txt,deictic,Sunday,190
+684.txt,deictic,Sunday,1349
+685.txt,deictic,next year,850
+685.txt,deictic,year,2005
+685.txt,deictic,before December,371
+685.txt,deictic,Thursday,1162
+686.txt,deictic,year,166
+686.txt,deictic,year,439
+686.txt,deictic,year,771
+686.txt,deictic,year,849
+686.txt,deictic,last year,997
+686.txt,deictic,year,1045
+687.txt,deictic,year,50
+687.txt,deictic,year,838
+687.txt,deictic,next year,1283
+687.txt,deictic,Thursday,94
+688.txt,simple,"May 19, 2006",1334
+689.txt,deictic,week,18
+689.txt,deictic,week,121
+689.txt,deictic,last week,549
+689.txt,deictic,Friday,200
+689.txt,deictic,Sunday,210
+690.txt,deictic,year,840
+691.txt,deictic,year,872
+691.txt,deictic,Summer,1538
+691.txt,deictic,Tuesday,1902
+691.txt,deictic,Sunday,680
+692.txt,deictic,last week,467
+693.txt,deictic,year,808
+693.txt,deictic,year,911
+693.txt,deictic,Sunday,204
+694.txt,deictic,year,148
+694.txt,deictic,year,1294
+695.txt,deictic,year,502
+695.txt,deictic,year,1199
+695.txt,deictic,Tuesday,1655
+696.txt,deictic,last year,75
+696.txt,deictic,last year,548
+696.txt,deictic,last year,937
+696.txt,deictic,previous year,1149
+696.txt,deictic,year,1224
+697.txt,deictic,year,937
+697.txt,deictic,Wednesday,1691
+699.txt,deictic,year,1240
+699.txt,deictic,Friday,453
+699.txt,deictic,Saturday,485
+700.txt,deictic,year,522
+701.txt,deictic,year,447
+702.txt,deictic,year,228
+702.txt,deictic,last year,597
+702.txt,deictic,year,743
+702.txt,deictic,Last month,1231
+702.txt,deictic,summer,1226
+703.txt,simple,27 March 2004,524
+703.txt,deictic,last year,1348
+703.txt,deictic,Spring,559
+704.txt,deictic,year,681
+704.txt,deictic,Week,771
+706.txt,deictic,year,1025
+706.txt,deictic,summer,1327
+707.txt,deictic,year,91
+708.txt,deictic,last week,889
+708.txt,deictic,Thursday,171
+709.txt,deictic,week,681
+709.txt,deictic,week,918
+710.txt,simple,2 March 2005,476
+710.txt,deictic,year,525
+710.txt,deictic,last year,546
+710.txt,deictic,year,624
+710.txt,deictic,Day,954
+710.txt,deictic,Today,955
+711.txt,simple,1965-2003,2120
+711.txt,deictic,year,831
+711.txt,deictic,Last year,931
+711.txt,deictic,year,1168
+711.txt,deictic,year,1779
+711.txt,deictic,Wednesday,337
+712.txt,deictic,year,149
+712.txt,deictic,last October,1156
+713.txt,deictic,year,176
+713.txt,deictic,year,312
+715.txt,deictic,year,690
+715.txt,deictic,Saturday,408
+715.txt,deictic,Sunday,145
+716.txt,simple,"May 19, 2006",1334
+717.txt,deictic,week,512
+718.txt,deictic,year,1960
+718.txt,deictic,next year,1964
+719.txt,deictic,week,1401
+719.txt,deictic,last week,1882
+719.txt,deictic,last June,698
+719.txt,deictic,last June,2110
+719.txt,deictic,Thursday,994
+720.txt,deictic,year,2367
+721.txt,deictic,year,2854
+721.txt,deictic,year,4104
+721.txt,deictic,next year,4209
+722.txt,deictic,Tuesday,316
+722.txt,deictic,Tuesday,1347
+723.txt,deictic,Today,2293
+723.txt,deictic,year,2976
+723.txt,deictic,Monday,1060
+723.txt,deictic,Tuesday,766
+723.txt,deictic,Tuesday,2295
+723.txt,deictic,Sunday,1513
+724.txt,deictic,week,514
+724.txt,deictic,last month,516
+724.txt,deictic,fall,604
+724.txt,deictic,Sunday,1146
+725.txt,deictic,year,792
+726.txt,deictic,last week,1623
+726.txt,deictic,year,1687
+726.txt,deictic,Tuesday,2228
+727.txt,deictic,year,1208
+727.txt,deictic,Sunday,725
+727.txt,deictic,Sunday,3078
+728.txt,deictic,year,597
+728.txt,deictic,Today,704
+728.txt,deictic,week,1997
+728.txt,deictic,Today,2934
+728.txt,deictic,fall,2577
+728.txt,deictic,Tuesday,391
+729.txt,deictic,year,191
+729.txt,deictic,year,1463
+730.txt,deictic,year,208
+730.txt,deictic,year,1717
+730.txt,deictic,next week,2181
+730.txt,deictic,fall,2502
+731.txt,deictic,next week,299
+731.txt,deictic,week,463
+731.txt,deictic,week,625
+731.txt,deictic,year,3221
+731.txt,deictic,last December,1675
+731.txt,deictic,Friday,710
+732.txt,deictic,week,332
+732.txt,deictic,next week,506
+732.txt,deictic,last week,1457
+732.txt,deictic,year,1832
+732.txt,deictic,last week,2138
+732.txt,deictic,spring,224
+732.txt,deictic,after Saturday,576
+733.txt,deictic,week,761
+733.txt,deictic,last week,1365
+733.txt,deictic,last week,7234
+733.txt,deictic,Day,10371
+733.txt,deictic,today,10512
+733.txt,deictic,year,12881
+733.txt,deictic,last June,1602
+733.txt,deictic,fall,8581
+733.txt,deictic,summer,11769
+733.txt,deictic,Thursday,895
+734.txt,deictic,last month,842
+735.txt,deictic,Monday,896
+736.txt,deictic,year,766
+736.txt,deictic,year,2237
+736.txt,deictic,Monday,1379
+737.txt,deictic,Monday,2646
+737.txt,deictic,Saturday,1657
+737.txt,deictic,Sunday,558
+738.txt,deictic,week,504
+738.txt,deictic,Monday,564
+738.txt,deictic,Monday,2173
+738.txt,deictic,Saturday,2410
+738.txt,deictic,Sunday,958
+738.txt,deictic,Sunday,1785
+739.txt,deictic,Monday,270
+739.txt,deictic,Tuesday,2260
+740.txt,deictic,week,165
+740.txt,deictic,week,1333
+740.txt,deictic,Friday,1408
+741.txt,deictic,today,1574
+741.txt,deictic,year,1880
+741.txt,deictic,Monday,801
+741.txt,deictic,Monday,1688
+741.txt,deictic,Saturday,679
+742.txt,deictic,year,627
+742.txt,deictic,Friday,1401
+742.txt,deictic,Sunday,333
+742.txt,deictic,Sunday,956
+743.txt,deictic,year,332
+743.txt,deictic,last year,517
+743.txt,deictic,week,817
+743.txt,deictic,last year,2606
+743.txt,deictic,year,2849
+743.txt,deictic,year,2997
+743.txt,deictic,last July,2256
+743.txt,deictic,last November,2886
+743.txt,deictic,Tuesday,124
+743.txt,deictic,Tuesday,907
+744.txt,deictic,Tuesday,1520
+744.txt,deictic,Thursday,1028
+745.txt,deictic,Today,963
+745.txt,deictic,Sunday,2291
+746.txt,deictic,next week,952
+746.txt,deictic,year,1948
+746.txt,deictic,year,1985
+746.txt,deictic,year,2153
+747.txt,deictic,year,147
+748.txt,deictic,week,1341
+748.txt,deictic,year,1395
+749.txt,deictic,week,765
+749.txt,deictic,last week,1374
+749.txt,deictic,year,4495
+749.txt,deictic,last June,1620
+749.txt,deictic,summer,3371
+749.txt,deictic,Thursday,842
+750.txt,deictic,year,272
+751.txt,deictic,today,1695
+752.txt,deictic,year,589
+752.txt,deictic,next year,1941
+752.txt,deictic,year,1992
+752.txt,deictic,Thursday,154
+753.txt,deictic,Today,1564
+753.txt,deictic,yesterday,1827
+753.txt,deictic,Monday,758
+753.txt,deictic,Monday,2557
+753.txt,deictic,Tuesday,2052
+754.txt,deictic,year,1029
+754.txt,deictic,last week,1161
+754.txt,deictic,Today,1574
+754.txt,deictic,tomorrow,2324
+754.txt,deictic,Year,2401
+754.txt,deictic,Monday,95
+754.txt,deictic,Monday,2184
+754.txt,deictic,Thursday,281
+754.txt,deictic,Sunday,1998
+755.txt,deictic,Today,265
+755.txt,deictic,Year,710
+757.txt,deictic,next year,579
+757.txt,deictic,year,653
+757.txt,deictic,Thursday,282
+758.txt,deictic,week,1274
+758.txt,deictic,Monday,502
+758.txt,deictic,Friday,547
+758.txt,deictic,Sunday,637
+759.txt,deictic,year,235
+760.txt,deictic,year,153
+760.txt,deictic,year,177
+760.txt,deictic,year,499
+760.txt,deictic,Sunday,1886
+760.txt,deictic,Sunday,2841
+761.txt,deictic,week,252
+761.txt,deictic,year,505
+761.txt,deictic,Sunday,277
+763.txt,deictic,last year,177
+764.txt,deictic,year,2239
+765.txt,deictic,year,849
+765.txt,deictic,today,1508
+765.txt,deictic,week,1781
+765.txt,deictic,Friday,286
+766.txt,deictic,next year,2048
+766.txt,deictic,Monday,643
+767.txt,deictic,week,586
+767.txt,deictic,year,2298
+767.txt,deictic,Monday,1105
+768.txt,deictic,week,62
+768.txt,deictic,week,372
+768.txt,deictic,Monday,85
+769.txt,deictic,Today,527
+769.txt,deictic,next year,1633
+769.txt,deictic,Thursday,229
+770.txt,deictic,Today,1184
+770.txt,deictic,year,1848
+770.txt,deictic,Today,2465
+770.txt,deictic,fall,2419
+771.txt,deictic,last year,804
+771.txt,deictic,year,1811
+771.txt,deictic,autumn,2333
+772.txt,deictic,last day,76
+772.txt,deictic,year,769
+772.txt,deictic,Wednesday,443
+772.txt,deictic,Wednesday,1815
+772.txt,deictic,Thursday,282
+772.txt,deictic,Friday,356
+772.txt,deictic,Saturday,2093
+773.txt,deictic,year,308
+773.txt,deictic,year,2004
+773.txt,deictic,year,2144
+774.txt,deictic,year,1829
+774.txt,deictic,year,1886
+776.txt,deictic,year,1092
+776.txt,deictic,year,1096
+776.txt,deictic,Today,2083
+776.txt,deictic,yesterday,2176
+776.txt,deictic,week,2521
+776.txt,deictic,Wednesday,1899
+776.txt,deictic,Wednesday,2191
+776.txt,deictic,Thursday,1636
+777.txt,deictic,Today,714
+778.txt,deictic,last year,219
+778.txt,deictic,year,574
+778.txt,deictic,year,727
+779.txt,deictic,year,1886
+780.txt,deictic,Friday,757
+780.txt,deictic,Friday,2593
+781.txt,deictic,today,474
+781.txt,deictic,tomorrow,488
+781.txt,deictic,year,792
+781.txt,deictic,year,1049
+781.txt,deictic,year,1339
+781.txt,deictic,year,1373
+782.txt,deictic,week,461
+782.txt,deictic,next month,2285
+783.txt,deictic,last week,951
+783.txt,deictic,summer,854
+783.txt,deictic,Thursday,254
+783.txt,deictic,Thursday,1112
+784.txt,deictic,today,1105
+784.txt,deictic,week,1831
+784.txt,deictic,next month,1940
+784.txt,deictic,week,2007
+784.txt,deictic,year,2345
+784.txt,deictic,year,3088
+784.txt,deictic,next year,3199
+784.txt,deictic,fall,3090
+785.txt,deictic,Next year,35
+785.txt,deictic,next week,631
+785.txt,deictic,Today,702
+785.txt,deictic,year,1144
+785.txt,deictic,year,1502
+785.txt,deictic,next year,1638
+785.txt,deictic,year,1675
+785.txt,deictic,week,2238
+785.txt,deictic,year,2479
+785.txt,deictic,year,2630
+785.txt,deictic,Wednesday,1932
+786.txt,deictic,today,1994
+786.txt,deictic,week,3401
+786.txt,deictic,spring,178
+786.txt,deictic,spring,1329
+786.txt,deictic,Friday,2958
+786.txt,deictic,Friday,3632
+786.txt,deictic,Saturday,983
+786.txt,deictic,Sunday,1463
+787.txt,deictic,year,343
+787.txt,deictic,year,1013
+787.txt,deictic,Monday,1061
+787.txt,deictic,Tuesday,220
+787.txt,deictic,Sunday,432
+788.txt,deictic,year,410
+788.txt,deictic,year,1414
+789.txt,deictic,year,468
+789.txt,deictic,year,1640
+789.txt,deictic,year,2710
+789.txt,deictic,last week,2765
+790.txt,deictic,year,1838
+790.txt,deictic,Wednesday,600
+790.txt,deictic,Thursday,1162
+790.txt,deictic,Friday,1376
+791.txt,simple,11 September 2001,699
+792.txt,deictic,week,515
+792.txt,deictic,Wednesday,174
+792.txt,deictic,Sunday,604
+793.txt,deictic,week,1353
+793.txt,deictic,last month,2064
+793.txt,deictic,year,2245
+793.txt,deictic,year,2557
+793.txt,deictic,last March,2186
+794.txt,deictic,year,152
+794.txt,deictic,year,2162
+795.txt,deictic,year,539
+795.txt,deictic,today,2204
+795.txt,deictic,year,2266
+795.txt,deictic,Monday,141
+795.txt,deictic,Sunday,1100
+796.txt,deictic,week,24
+796.txt,deictic,week,111
+796.txt,deictic,year,312
+796.txt,deictic,last month,3099
+796.txt,deictic,year,3232
+796.txt,deictic,last year,3411
+796.txt,deictic,Tuesday,171
+797.txt,deictic,year,2030
+797.txt,deictic,year,2495
+797.txt,deictic,year,2618
+797.txt,deictic,Tuesday,2705
+798.txt,deictic,year,549
+799.txt,deictic,tomorrow,426
+799.txt,deictic,week,964
+799.txt,deictic,last October,1038
+801.txt,deictic,year,1528
+801.txt,deictic,Wednesday,1570
+802.txt,deictic,year,1449
+802.txt,deictic,year,1488
+802.txt,deictic,year,3024
+802.txt,deictic,Monday,344
+802.txt,deictic,Monday,2030
+802.txt,deictic,Tuesday,2436
+803.txt,deictic,Thursday,273
+804.txt,deictic,week,104
+804.txt,deictic,week,941
+804.txt,deictic,Monday,1350
+804.txt,deictic,Tuesday,795
+804.txt,deictic,Tuesday,1743
+805.txt,deictic,week,166
+805.txt,deictic,year,945
+805.txt,deictic,Wednesday,1044
+805.txt,deictic,Wednesday,2474
+805.txt,deictic,Thursday,254
+805.txt,deictic,next Thursday,2534
+806.txt,deictic,fall,1546
+807.txt,deictic,Wednesday,478
+808.txt,deictic,Sunday,2027
+810.txt,deictic,last week,223
+810.txt,deictic,year,1448
+812.txt,deictic,Thursday,482
+813.txt,deictic,Last month,2707
+814.txt,deictic,Next month,512
+814.txt,deictic,Wednesday,238
+815.txt,deictic,week,2654
+815.txt,deictic,Monday,2809
+815.txt,deictic,Tuesday,2336
+815.txt,deictic,Wednesday,1414
+816.txt,deictic,next year,476
+816.txt,deictic,Wednesday,491
+816.txt,deictic,Wednesday,767
+816.txt,deictic,Thursday,980
+818.txt,deictic,week,2122
+818.txt,deictic,Tuesday,2149
+818.txt,deictic,Wednesday,614
+819.txt,deictic,next week,162
+820.txt,deictic,last month,517
+820.txt,deictic,Today,1088
+820.txt,deictic,year,1678
+820.txt,deictic,year,2344
+820.txt,deictic,next month,2612
+820.txt,deictic,Wednesday,2599
+820.txt,deictic,Thursday,1059
+821.txt,deictic,Last week,740
+821.txt,deictic,next month,901
+821.txt,deictic,Friday,1123
+821.txt,deictic,Sunday,603
+821.txt,deictic,Sunday,1072
+822.txt,deictic,year,1561
+822.txt,deictic,year,1920
+822.txt,deictic,year,2043
+822.txt,deictic,fall,231
+822.txt,deictic,spring,355
+822.txt,deictic,Saturday,2193
+823.txt,deictic,year,657
+823.txt,deictic,year,1000
+823.txt,deictic,year,1408
+823.txt,deictic,week,2122
+823.txt,deictic,Tuesday,293
+824.txt,deictic,Day,616
+824.txt,deictic,Today,732
+824.txt,deictic,week,1158
+824.txt,deictic,Day,1819
+824.txt,deictic,last week,2182
+824.txt,deictic,week,2531
+824.txt,deictic,Tuesday,1726
+824.txt,deictic,Wednesday,3502
+824.txt,deictic,Thursday,2673
+824.txt,deictic,Friday,2686
+826.txt,deictic,last year,376
+826.txt,deictic,year,508
+826.txt,deictic,year,644
+826.txt,deictic,year,771
+826.txt,deictic,week,1572
+826.txt,deictic,week,2334
+826.txt,deictic,Thursday,140
+826.txt,deictic,Thursday,575
+827.txt,deictic,week,221
+827.txt,deictic,next week,1198
+827.txt,deictic,week,1609
+827.txt,deictic,week,1762
+828.txt,deictic,Day,549
+828.txt,deictic,year,748
+828.txt,deictic,next year,2481
+828.txt,deictic,Friday,1101
+828.txt,deictic,Friday,2001
+829.txt,deictic,year,214
+829.txt,deictic,year,737
+829.txt,deictic,year,1008
+829.txt,deictic,winter,16
+829.txt,deictic,winter,219
+829.txt,deictic,winter,257
+829.txt,deictic,winter,418
+829.txt,deictic,winter,694
+832.txt,deictic,next year,3084
+833.txt,deictic,Friday,1325
+833.txt,deictic,Saturday,497
+834.txt,deictic,year,1528
+834.txt,deictic,last year,1688
+835.txt,deictic,next May,996
+836.txt,deictic,next week,980
+836.txt,deictic,next Monday,497
+836.txt,deictic,Monday,1608
+837.txt,deictic,year,671
+838.txt,deictic,last year,571
+838.txt,deictic,Wednesday,459
+838.txt,deictic,Wednesday,938
+839.txt,deictic,Wednesday,1743
+840.txt,deictic,year,373
+841.txt,deictic,year,893
+842.txt,deictic,next week,523
+842.txt,deictic,last month,1676
+842.txt,deictic,spring,79
+842.txt,deictic,Thursday,1865
+842.txt,deictic,Friday,1470
+844.txt,deictic,year,335
+844.txt,deictic,year,1056
+844.txt,deictic,summer,980
+845.txt,deictic,spring,270
+845.txt,deictic,fall,2538
+845.txt,deictic,fall,2774
+845.txt,deictic,Wednesday,179
+845.txt,deictic,Wednesday,2885
+846.txt,deictic,Tuesday,200
+847.txt,simple,7 March 2003,3106
+847.txt,simple,17 March 2003,3300
+847.txt,deictic,today,1737
+847.txt,deictic,week,2981
+848.txt,deictic,last year,1504
+849.txt,deictic,Today,962
+849.txt,deictic,year,1053
+849.txt,deictic,year,1914
+849.txt,deictic,Last year,2106
+849.txt,deictic,year,2493
+850.txt,deictic,next year,998
+850.txt,deictic,year,1125
+850.txt,deictic,Sunday,280
+850.txt,deictic,Sunday,690
+850.txt,deictic,Sunday,2305
+852.txt,deictic,year,1080
+854.txt,simple,7 March 2003,3534
+854.txt,simple,17 March 2003,3727
+854.txt,deictic,Last week,1198
+854.txt,deictic,today,2260
+856.txt,deictic,Today,1053
+856.txt,deictic,fall,1774
+856.txt,deictic,Friday,254
+856.txt,deictic,Saturday,321
+856.txt,deictic,Saturday,552
+857.txt,deictic,week,1682
+857.txt,deictic,fall,711
+857.txt,deictic,fall,2008
+857.txt,deictic,Tuesday,1117
+857.txt,deictic,Wednesday,221
+858.txt,deictic,Monday,470
+859.txt,deictic,year,1054
+859.txt,deictic,Today,1299
+859.txt,deictic,year,1910
+859.txt,deictic,Tuesday,2393
+859.txt,deictic,Sunday,465
+860.txt,deictic,year,2000
+860.txt,deictic,Monday,1087
+860.txt,deictic,Monday,2176
+861.txt,deictic,week,282
+861.txt,deictic,year,952
+861.txt,deictic,Tuesday,966
+862.txt,deictic,week,2813
+863.txt,deictic,next week,631
+863.txt,deictic,last week,2486
+863.txt,deictic,Monday,276
+864.txt,deictic,year,160
+866.txt,deictic,last week,248
+866.txt,deictic,year,478
+866.txt,deictic,Year,1833
+866.txt,deictic,last week,2114
+866.txt,deictic,last Thursday,1678
+867.txt,deictic,Today,531
+867.txt,deictic,Wednesday,148
+868.txt,deictic,Thursday,804
+868.txt,deictic,Thursday,2357
+869.txt,simple,"11 September, 2001",315
+870.txt,deictic,Wednesday,128
+871.txt,simple,"27 October, 1920",641
+871.txt,deictic,year,545
+871.txt,deictic,year,961
+872.txt,deictic,year,605
+872.txt,deictic,Today,712
+872.txt,deictic,week,2000
+872.txt,deictic,Today,2937
+872.txt,deictic,fall,2580
+872.txt,deictic,Tuesday,399
+873.txt,deictic,Today,655
+873.txt,deictic,year,1047
+873.txt,deictic,last week,1550
+873.txt,deictic,Monday,1521
+875.txt,deictic,week,131
+875.txt,deictic,week,347
+875.txt,deictic,week,825
+875.txt,deictic,last week,1470
+875.txt,deictic,year,1845
+875.txt,deictic,last week,2151
+875.txt,deictic,spring,243
+876.txt,deictic,year,2255
+876.txt,deictic,year,2988
+876.txt,deictic,last July,646
+878.txt,deictic,year,643
+878.txt,deictic,year,729
+878.txt,deictic,year,2534
+878.txt,deictic,next May,864
+878.txt,deictic,Monday,1384
+878.txt,deictic,next Monday,1852
+878.txt,deictic,Thursday,559
+878.txt,deictic,Sunday,892
+879.txt,deictic,week,360
+879.txt,deictic,last year,1384
+879.txt,deictic,week,1444
+879.txt,deictic,week,1623
+879.txt,deictic,last year,2173
+879.txt,deictic,week,2651
+879.txt,deictic,Today,2812
+880.txt,deictic,year,605
+881.txt,deictic,week,606
+881.txt,deictic,last year,917
+881.txt,deictic,Today,1183
+881.txt,deictic,Today,2060
+881.txt,deictic,last October,1732
+882.txt,deictic,Today,1034
+882.txt,deictic,Year,1686
+882.txt,deictic,Thursday,2419
+883.txt,deictic,week,131
+883.txt,deictic,week,347
+883.txt,deictic,week,825
+883.txt,deictic,last week,1470
+883.txt,deictic,year,1845
+883.txt,deictic,last week,2151
+883.txt,deictic,spring,243
+884.txt,deictic,week,792
+884.txt,deictic,last October,632
+884.txt,deictic,Monday,191
+886.txt,deictic,last week,1642
+886.txt,deictic,spring,2148
+886.txt,deictic,Thursday,532
+886.txt,deictic,Thursday,1989
+887.txt,deictic,Today,1456
+887.txt,deictic,Today,2741
+888.txt,deictic,year,168
+888.txt,deictic,last week,703
+888.txt,deictic,Thursday,341
+889.txt,deictic,last week,2422
+889.txt,deictic,Tuesday,525
+891.txt,deictic,Monday,1446
+892.txt,deictic,last year,1236
+892.txt,deictic,year,1442
+892.txt,deictic,year,1578
+892.txt,deictic,year,2726
+893.txt,deictic,Day,101
+893.txt,deictic,Year,110
+893.txt,deictic,Day,113
+893.txt,deictic,Day,230
+893.txt,deictic,year,460
+893.txt,deictic,year,550
+893.txt,deictic,Day,569
+893.txt,deictic,Year,577
+893.txt,deictic,Day,580
+893.txt,deictic,Day,934
+893.txt,deictic,Year,943
+893.txt,deictic,Day,946
+893.txt,deictic,Year,1373
+893.txt,deictic,Day,1376
+894.txt,deictic,Year,726
+894.txt,deictic,year,1691
+894.txt,deictic,year,1896
+894.txt,deictic,year,2508
+894.txt,deictic,last month,3218
+894.txt,deictic,fall,2941
+894.txt,deictic,Wednesday,1419
+895.txt,deictic,year,1203
+896.txt,deictic,Day,1578
+896.txt,deictic,week,2471
+897.txt,deictic,year,1007
+897.txt,deictic,year,1106
+897.txt,deictic,year,1312
+897.txt,deictic,last year,1383
+897.txt,deictic,year,2282
+897.txt,deictic,year,2305
+897.txt,deictic,summer,239
+898.txt,deictic,year,816
+900.txt,deictic,year,254
+900.txt,deictic,year,311
+900.txt,deictic,year,545
+900.txt,deictic,year,717
+900.txt,deictic,year,1481
+900.txt,deictic,Thursday,137
+901.txt,deictic,Wednesday,484
+903.txt,deictic,Last week,2187
+903.txt,deictic,Wednesday,498
+903.txt,deictic,Thursday,114
+904.txt,deictic,Last month,1190
+904.txt,deictic,Next Friday,914
+905.txt,deictic,week,246
+905.txt,deictic,week,1540
+905.txt,deictic,Saturday,1295
+906.txt,deictic,year,2380
+906.txt,deictic,next year,2442
+906.txt,deictic,fall,1243
+907.txt,deictic,year,351
+908.txt,deictic,Today,1666
+908.txt,deictic,last year,2738
+909.txt,deictic,Today,845
+909.txt,deictic,last June,1378
+909.txt,deictic,summer,1692
+909.txt,deictic,Thursday,2770
+910.txt,deictic,Today,956
+910.txt,deictic,Sunday,2284
+911.txt,deictic,year,357
+911.txt,deictic,fall,254
+912.txt,deictic,year,188
+912.txt,deictic,week,773
+914.txt,deictic,year,1183
+914.txt,deictic,year,1874
+914.txt,deictic,Saturday,367
+915.txt,deictic,year,1618
+916.txt,deictic,Friday,91
+917.txt,deictic,last month,1762
+918.txt,deictic,next week,91
+918.txt,deictic,next week,1455
+919.txt,deictic,year,267
+919.txt,deictic,year,902
+919.txt,deictic,year,925
+921.txt,deictic,Today,1844
+921.txt,deictic,Thursday,1595
+922.txt,deictic,week,279
+922.txt,deictic,week,351
+922.txt,deictic,Monday,135
+922.txt,deictic,Monday,443
+923.txt,deictic,year,980
+923.txt,deictic,year,1094
+924.txt,deictic,year,549
+925.txt,deictic,year,708
+925.txt,deictic,year,1040
+925.txt,deictic,year,2535
+925.txt,deictic,year,2615
+926.txt,deictic,last year,1540
+926.txt,deictic,Monday,2310
+926.txt,deictic,Tuesday,1062
+927.txt,deictic,Last month,993
+928.txt,deictic,last year,4713
+929.txt,deictic,next month,2434
+929.txt,deictic,year,3842
+929.txt,deictic,Wednesday,1114
+929.txt,deictic,Thursday,4567
+930.txt,deictic,year,97
+930.txt,deictic,year,1193
+930.txt,deictic,year,1349
+930.txt,deictic,Wednesday,634
+931.txt,deictic,last year,257
+931.txt,deictic,year,1004
+931.txt,deictic,Monday,2937
+932.txt,deictic,week,95
+932.txt,deictic,year,195
+932.txt,deictic,week,371
+932.txt,deictic,week,976
+932.txt,deictic,next year,1433
+933.txt,simple,2007-2008,1086
+933.txt,deictic,year,2379
+933.txt,deictic,spring,148
+933.txt,deictic,fall,527
+933.txt,deictic,Friday,1870
+933.txt,deictic,Friday,2121
+934.txt,deictic,Day,275
+934.txt,deictic,week,1181
+935.txt,deictic,Today,551
+935.txt,deictic,year,918
+935.txt,deictic,year,1673
+935.txt,deictic,year,1685
+935.txt,deictic,week,1937
+935.txt,deictic,today,2537
+935.txt,deictic,today,3090
+935.txt,deictic,today,3377
+935.txt,deictic,spring,216
+936.txt,deictic,year,502
+936.txt,deictic,year,802
+936.txt,deictic,year,862
+936.txt,deictic,autumn,62
+936.txt,deictic,spring,421
+936.txt,deictic,autumn,890
+937.txt,deictic,year,222
+937.txt,deictic,year,1171
+937.txt,deictic,year,1286
+937.txt,deictic,Today,2521
+937.txt,deictic,year,2935
+937.txt,deictic,Fall,1842
+937.txt,deictic,Fall,2031
+939.txt,deictic,week,588
+939.txt,deictic,week,1645
+939.txt,deictic,week,1927
+939.txt,deictic,week,2434
+939.txt,deictic,spring,663
+939.txt,deictic,Monday,2376
+939.txt,deictic,Sunday,827
+940.txt,simple,17 October 2000,746
+940.txt,deictic,year,723
+941.txt,deictic,year,892
+941.txt,deictic,week,1862
+941.txt,deictic,last year,2382
+941.txt,deictic,last week,3080
+941.txt,deictic,fall,2666
+941.txt,deictic,Monday,843
+942.txt,deictic,week,379
+942.txt,deictic,year,615
+942.txt,deictic,Today,1066
+942.txt,deictic,week,2189
+942.txt,deictic,autumn,2688
+943.txt,deictic,week,179
+943.txt,deictic,week,1640
+943.txt,deictic,year,2222
+943.txt,deictic,Thursday,1606
+944.txt,deictic,week,942
+944.txt,deictic,year,2980
+944.txt,deictic,before June,732
+944.txt,deictic,Monday,760
+945.txt,deictic,last year,1230
+945.txt,deictic,Monday,548
+946.txt,deictic,year,262
+946.txt,deictic,year,396
+946.txt,deictic,year,1381
+946.txt,deictic,last year,1422
+947.txt,deictic,year,325
+947.txt,deictic,year,445
+947.txt,deictic,Today,1240
+947.txt,deictic,Tuesday,2041
+950.txt,deictic,last week,840
+950.txt,deictic,Monday,2210
+950.txt,deictic,Friday,2534
+950.txt,deictic,Saturday,2544
+951.txt,deictic,year,506
+951.txt,deictic,Tuesday,518
+952.txt,deictic,Year,226
+952.txt,deictic,year,682
+952.txt,deictic,Day,828
+952.txt,deictic,last week,925
+952.txt,deictic,today,1794
+953.txt,deictic,week,1412
+953.txt,deictic,week,2671
+953.txt,deictic,fall,1263
+953.txt,deictic,fall,2165
+953.txt,deictic,Monday,1275
+953.txt,deictic,Tuesday,1589
+953.txt,deictic,last Wednesday,944
+954.txt,deictic,Today,1330
+954.txt,deictic,year,2042
+954.txt,deictic,Today,2624
+954.txt,deictic,next Monday,2129
+954.txt,deictic,Tuesday,581
+954.txt,deictic,Wednesday,455
+954.txt,deictic,Wednesday,2106
+955.txt,deictic,year,2196
+955.txt,deictic,year,2402
+955.txt,deictic,autumn,3329
+957.txt,deictic,week,2642
+958.txt,deictic,year,410
+959.txt,deictic,year,549
+960.txt,simple,2007-2013,1053
+962.txt,deictic,year,1208
+962.txt,deictic,Sunday,725
+962.txt,deictic,Sunday,3078
+963.txt,deictic,year,227
+963.txt,deictic,year,761
+963.txt,deictic,week,1069
+963.txt,deictic,year,2540
+963.txt,deictic,year,2544
+963.txt,deictic,year,2776
+963.txt,deictic,Monday,1727
+964.txt,deictic,Today,527
+964.txt,deictic,next year,1633
+964.txt,deictic,Thursday,229
+965.txt,deictic,last October,1323
+966.txt,deictic,year,299
+966.txt,deictic,year,403
+966.txt,deictic,Wednesday,1955
+967.txt,deictic,week,106
+967.txt,deictic,next month,1572
+967.txt,deictic,Tuesday,2450
+967.txt,deictic,Saturday,812
+967.txt,deictic,Sunday,938
+968.txt,deictic,Today,2166
+968.txt,deictic,Monday,1559
+969.txt,deictic,year,254
+970.txt,deictic,year,272
+972.txt,simple,"25 August, 1938",1231
+972.txt,deictic,year,736
+972.txt,deictic,year,824
+972.txt,deictic,week,1321
+972.txt,deictic,year,1428
+972.txt,deictic,year,1445
+972.txt,deictic,year,2092
+972.txt,deictic,year,2285
+972.txt,deictic,year,5644
+972.txt,deictic,year,5687
+972.txt,deictic,today,5776
+972.txt,deictic,today,8985
+972.txt,deictic,year,9430
+972.txt,deictic,today,14426
+972.txt,deictic,today,14787
+972.txt,deictic,year,15524
+972.txt,deictic,year,19999
+972.txt,deictic,today,20656
+972.txt,deictic,year,24102
+972.txt,deictic,winter,1862
+973.txt,deictic,Today,1281
+974.txt,deictic,Wednesday,2737
+975.txt,deictic,Today,1934
+975.txt,deictic,spring,88
+975.txt,deictic,Friday,1055
+975.txt,deictic,Friday,2254
+975.txt,deictic,Saturday,1555
+975.txt,deictic,Saturday,1945
+977.txt,deictic,Today,1456
+977.txt,deictic,Today,2741
+979.txt,deictic,Monday,777
+979.txt,deictic,Tuesday,1351
+979.txt,deictic,last Friday,114
+980.txt,deictic,Next month,522
+980.txt,deictic,Wednesday,244
+981.txt,deictic,year,1661
+981.txt,deictic,spring,211
+981.txt,deictic,Friday,1152
+981.txt,deictic,Friday,1403
+982.txt,deictic,Year,183
+982.txt,deictic,Year,605
+983.txt,deictic,year,1315
+984.txt,deictic,next week,1319
+984.txt,deictic,Today,2249
+984.txt,deictic,Monday,1861
+985.txt,deictic,year,752
+985.txt,deictic,previous month,1013
+985.txt,deictic,year,1078
+985.txt,deictic,year,2484
+985.txt,deictic,year,3279
+985.txt,deictic,Monday,2706
+986.txt,deictic,year,414
+987.txt,simple,"30 July, 2002",3268
+987.txt,deictic,year,2961
+987.txt,deictic,Thursday,1499
+988.txt,deictic,Thursday,1320
+989.txt,deictic,year,510
+989.txt,deictic,year,810
+989.txt,deictic,year,870
+989.txt,deictic,autumn,70
+989.txt,deictic,spring,429
+989.txt,deictic,autumn,898
+990.txt,deictic,year,685
+990.txt,deictic,spring,1594
+992.txt,deictic,last week,1633
+992.txt,deictic,spring,2139
+992.txt,deictic,Thursday,523
+992.txt,deictic,Thursday,1980
+993.txt,deictic,Day,1197
+994.txt,deictic,year,319
+994.txt,deictic,year,441
+994.txt,deictic,Sunday,1418
+996.txt,deictic,Year,132
+996.txt,deictic,Year,486
+996.txt,deictic,year,1917
+997.txt,deictic,last year,1264
+997.txt,deictic,year,2078
+997.txt,deictic,Monday,943
+997.txt,deictic,Wednesday,1303
+998.txt,simple,"20 May, 2000",834
+998.txt,deictic,year,116
+998.txt,deictic,year,383
+998.txt,deictic,year,599
+998.txt,deictic,year,906
+999.txt,deictic,last week,296
+1000.txt,deictic,year,2864
+1000.txt,deictic,Wednesday,672
+1001.txt,deictic,last week,1034
+1002.txt,deictic,week,588
+1002.txt,deictic,week,1645
+1002.txt,deictic,week,1927
+1002.txt,deictic,week,2434
+1002.txt,deictic,spring,663
+1002.txt,deictic,Monday,2376
+1002.txt,deictic,Sunday,827
+1003.txt,deictic,Friday,1867
+1004.txt,deictic,last year,952
+1005.txt,deictic,Next week,1172
+1005.txt,deictic,Fall,767
+1005.txt,deictic,next Sunday,109
+1006.txt,deictic,week,1131
+1006.txt,deictic,week,2289
+1006.txt,deictic,Monday,2789
+1007.txt,deictic,year,573
+1007.txt,deictic,week,1592
+1007.txt,deictic,Wednesday,431
+1008.txt,deictic,Today,2528
+1008.txt,deictic,fall,1975
+1010.txt,deictic,week,277
+1010.txt,deictic,week,1316
+1011.txt,deictic,year,1598
+1011.txt,deictic,year,1663
+1011.txt,deictic,year,3428
+1011.txt,deictic,Friday,279
+1013.txt,deictic,last year,2056
+1013.txt,deictic,spring,2008
+1014.txt,deictic,year,2391
+1014.txt,deictic,year,2609
+1014.txt,deictic,Monday,589
+1015.txt,deictic,next week,980
+1015.txt,deictic,next Monday,497
+1015.txt,deictic,Monday,1608
+1016.txt,deictic,year,820
+1017.txt,deictic,Today,551
+1017.txt,deictic,year,916
+1018.txt,deictic,year,1572
+1019.txt,deictic,week,305
+1019.txt,deictic,Tuesday,982
+1019.txt,deictic,Tuesday,1916
+1019.txt,deictic,Sunday,867
+1020.txt,deictic,year,634
+1020.txt,deictic,year,917
+1020.txt,deictic,Year,1103
+1020.txt,deictic,Sunday,234
+1020.txt,deictic,Sunday,245
+1022.txt,deictic,year,1362
+1022.txt,deictic,year,1773
+1022.txt,deictic,year,2252
+1022.txt,deictic,Thursday,2192
+1023.txt,deictic,week,3202
+1023.txt,deictic,week,3446
+1023.txt,deictic,year,3458
+1023.txt,deictic,spring,265
+1024.txt,simple,11 September 2001,477
+1024.txt,deictic,year,1548
+1024.txt,deictic,year,1647
+1024.txt,deictic,year,2870
+1024.txt,deictic,Wednesday,78
+1025.txt,deictic,year,1212
+1026.txt,deictic,Monday,522
+1026.txt,deictic,Tuesday,2991
+1027.txt,deictic,Today,1281
+1028.txt,deictic,year,320
+1028.txt,deictic,Last week,2808
+1028.txt,deictic,Monday,596
+1029.txt,deictic,year,193
+1029.txt,deictic,week,2192
+1029.txt,deictic,Wednesday,866
+1030.txt,deictic,year,1149
+1030.txt,deictic,week,1569
+1030.txt,deictic,Monday,1247
+1031.txt,deictic,last year,1829
+1031.txt,deictic,last September,263
+1031.txt,deictic,Tuesday,1079
+1031.txt,deictic,Wednesday,3865
+1032.txt,deictic,year,2673
+1032.txt,deictic,year,2747
+1032.txt,deictic,Tuesday,948
+1033.txt,deictic,year,2706
+1033.txt,deictic,year,2742
+1033.txt,deictic,Saturday,903
+1033.txt,deictic,Saturday,2077
+1034.txt,deictic,Today,968
+1034.txt,deictic,week,1261
+1034.txt,deictic,next Monday,753
+1035.txt,deictic,year,1223
+1035.txt,deictic,year,2684
+1035.txt,deictic,Thursday,777
+1036.txt,deictic,week,141
+1036.txt,deictic,Today,618
+1036.txt,deictic,year,3145
+1036.txt,deictic,year,3567
+1036.txt,deictic,week,3905
+1036.txt,deictic,spring,383
+1036.txt,deictic,Monday,1194
+1036.txt,deictic,Wednesday,703
+1037.txt,deictic,week,265
+1038.txt,deictic,Day,2508
+1039.txt,deictic,Year,230
+1039.txt,deictic,year,686
+1039.txt,deictic,Day,832
+1039.txt,deictic,last week,929
+1039.txt,deictic,today,1798
+1040.txt,deictic,week,242
+1040.txt,deictic,year,876
+1040.txt,deictic,week,1357
+1040.txt,deictic,week,1752
+1040.txt,deictic,year,2205
+1041.txt,deictic,week,2663
+1041.txt,deictic,Monday,1010
+1042.txt,deictic,winter,1572
+1042.txt,deictic,Sunday,1210
+1043.txt,deictic,week,265
+1044.txt,deictic,year,373
+1045.txt,deictic,year,972
+1045.txt,deictic,Wednesday,566
+1045.txt,deictic,Sunday,327
+1045.txt,deictic,Sunday,813
+1045.txt,deictic,Sunday,1570
+1046.txt,deictic,next month,1473
+1047.txt,deictic,year,345
+1047.txt,deictic,year,565
+1047.txt,deictic,week,1137
+1047.txt,deictic,last year,2710
+1047.txt,deictic,last year,2927
+1047.txt,deictic,year,3131
+1047.txt,deictic,Monday,3087
+1048.txt,simple,20 February 1951,813
+1048.txt,deictic,year,366
+1048.txt,deictic,year,1616
+1048.txt,deictic,week,2468
+1048.txt,deictic,year,2623
+1048.txt,deictic,week,3026
+1048.txt,deictic,year,3043
+1048.txt,deictic,year,3209
+1048.txt,deictic,last June,297
+1048.txt,deictic,spring,5059
+1049.txt,deictic,week,127
+1049.txt,deictic,year,348
+1049.txt,deictic,week,1144
+1049.txt,deictic,year,1639
+1049.txt,deictic,year,2230
+1049.txt,deictic,week,2344
+1049.txt,deictic,year,2654
+1049.txt,deictic,year,2780
+1050.txt,deictic,Today,328
+1050.txt,deictic,Today,641
+1050.txt,deictic,Today,1158
+1050.txt,deictic,last year,2644
+1051.txt,simple,7 March 2003,2112
+1051.txt,simple,17 March 2003,2314
+1051.txt,simple,March 17 2003,3214
+1051.txt,deictic,week,2002
+1051.txt,deictic,Thursday,3096
+1051.txt,deictic,Friday,1186
+1052.txt,deictic,year,200
+1052.txt,deictic,year,1185
+1052.txt,deictic,week,2152
+1052.txt,deictic,summer,574
+1052.txt,deictic,Sunday,2180
+1053.txt,deictic,year,885
+1053.txt,deictic,Wednesday,694
+1054.txt,deictic,last August,1057
+1054.txt,deictic,Thursday,1709
+1054.txt,deictic,Saturday,218
+1055.txt,deictic,year,234
+1055.txt,deictic,year,1520
+1055.txt,deictic,spring,592
+1056.txt,deictic,year,157
+1056.txt,deictic,last year,284
+1056.txt,deictic,Sunday,133
+1057.txt,deictic,year,728
+1057.txt,deictic,today,1622
+1057.txt,deictic,this November,1306
+1057.txt,deictic,autumn,536
+1057.txt,deictic,autumn,1238
+1057.txt,deictic,autumn,1369
+1057.txt,deictic,Saturday,126
+1057.txt,deictic,Saturday,1656
+1058.txt,deictic,year,170
+1058.txt,deictic,year,1002
+1059.txt,deictic,year,628
+1059.txt,deictic,Saturday,72
+1061.txt,deictic,next year,136
+1061.txt,deictic,week,1400
+1061.txt,deictic,summer,294
+1062.txt,deictic,last year,289
+1063.txt,deictic,today,428
+1063.txt,deictic,today,449
+1063.txt,deictic,year,529
+1063.txt,deictic,year,1084
+1063.txt,deictic,year,1234
+1063.txt,deictic,year,1345
+1063.txt,deictic,week,2295
+1064.txt,deictic,fall,664
+1065.txt,deictic,year,694
+1065.txt,deictic,year,759
+1066.txt,deictic,last week,823
+1067.txt,deictic,year,144
+1067.txt,deictic,Monday,254
+1067.txt,deictic,Tuesday,702
+1068.txt,deictic,before Wednesday,71
+1068.txt,deictic,Sunday,710
+1070.txt,deictic,year,989
+1070.txt,deictic,year,1256
+1070.txt,deictic,year,1445
+1070.txt,deictic,week,2261
+1070.txt,deictic,year,2315
+1070.txt,deictic,year,2665
+1070.txt,deictic,year,2855
+1070.txt,deictic,year,2986
+1070.txt,deictic,year,3913
+1070.txt,deictic,year,4181
+1070.txt,deictic,year,4556
+1070.txt,deictic,winter,2932
+1071.txt,deictic,week,84
+1071.txt,deictic,week,1069
+1071.txt,deictic,week,1961
+1071.txt,deictic,Tuesday,268
+1071.txt,deictic,Friday,1439
+1071.txt,deictic,Sunday,524
+1072.txt,deictic,week,622
+1072.txt,deictic,Wednesday,1842
+1075.txt,deictic,year,1560
+1075.txt,deictic,next year,1657
+1075.txt,deictic,year,1683
+1075.txt,deictic,year,1778
+1075.txt,deictic,last year,1831
+1075.txt,deictic,year,2049
+1075.txt,deictic,spring,2701
+1076.txt,deictic,year,2015
+1076.txt,deictic,Winter,1323
+1077.txt,deictic,year,226
+1077.txt,deictic,week,255
+1077.txt,deictic,year,372
+1077.txt,deictic,year,684
+1077.txt,deictic,last August,505
+1077.txt,deictic,summer,776
+1077.txt,deictic,winter,1117
+1078.txt,deictic,next month,555
+1078.txt,deictic,last year,586
+1078.txt,deictic,year,1475
+1078.txt,deictic,summer,157
+1078.txt,deictic,Saturday,198
+1078.txt,deictic,Saturday,1120
+1078.txt,deictic,Saturday,1836
+1078.txt,deictic,Saturday,2593
+1079.txt,deictic,year,1208
+1080.txt,deictic,year,541
+1080.txt,deictic,year,765
+1080.txt,deictic,year,833
+1080.txt,deictic,year,1177
+1080.txt,deictic,year,1313
+1080.txt,deictic,week,1368
+1080.txt,deictic,week,1501
+1080.txt,deictic,Wednesday,174
+1080.txt,deictic,Friday,278
+1081.txt,deictic,year,528
+1081.txt,deictic,Friday,161
+1081.txt,deictic,Sunday,843
+1082.txt,deictic,last year,670
+1082.txt,deictic,year,759
+1082.txt,deictic,last year,933
+1082.txt,deictic,year,1205
+1083.txt,simple,"14 May, 1870",263
+1083.txt,deictic,year,1458
+1083.txt,deictic,year,3112
+1083.txt,deictic,year,9396
+1083.txt,deictic,Spring,3952
+1085.txt,deictic,last year,191
+1085.txt,deictic,last March,1054
+1086.txt,deictic,week,1000
+1086.txt,deictic,Last month,1542
+1086.txt,deictic,summer,150
+1086.txt,deictic,Thursday,716
+1088.txt,deictic,year,406
+1088.txt,deictic,last October,436
+1089.txt,deictic,week,369
+1089.txt,deictic,week,432
+1089.txt,deictic,year,775
+1089.txt,deictic,Sunday,1083
+1089.txt,deictic,Sunday,1202
+1090.txt,deictic,next month,93
+1090.txt,deictic,last week,804
+1090.txt,deictic,year,1400
+1090.txt,deictic,year,1951
+1090.txt,deictic,Tuesday,1224
+1091.txt,deictic,year,138
+1091.txt,deictic,week,199
+1091.txt,deictic,year,225
+1091.txt,deictic,week,682
+1091.txt,deictic,week,784
+1091.txt,deictic,week,1172
+1091.txt,deictic,Thursday,1051
+1091.txt,deictic,Saturday,89
+1092.txt,deictic,year,1070
+1092.txt,deictic,year,1123
+1092.txt,deictic,year,1160
+1092.txt,deictic,Tuesday,178
+1093.txt,deictic,Tuesday,824
+1093.txt,deictic,Wednesday,587
+1094.txt,deictic,Saturday,51
+1095.txt,deictic,year,1133
+1095.txt,deictic,Friday,506
+1095.txt,deictic,Friday,921
+1096.txt,deictic,week,364
+1096.txt,deictic,year,1052
+1096.txt,deictic,last year,1207
+1097.txt,deictic,Today,1158
+1098.txt,deictic,year,357
+1098.txt,deictic,last year,565
+1099.txt,deictic,year,274
+1099.txt,deictic,Monday,770
+1099.txt,deictic,Saturday,2050
+1100.txt,deictic,week,362
+1103.txt,deictic,year,147
+1103.txt,deictic,week,329
+1103.txt,deictic,week,547
+1103.txt,deictic,week,842
+1103.txt,deictic,week,1173
+1103.txt,deictic,week,1277
+1103.txt,deictic,Monday,283
+1103.txt,deictic,Saturday,241
+1105.txt,deictic,year,197
+1105.txt,deictic,last year,259
+1105.txt,deictic,today,693
+1105.txt,deictic,Wednesday,495
+1106.txt,deictic,year,1329
+1107.txt,deictic,last week,491
+1107.txt,deictic,week,881
+1107.txt,deictic,year,1207
+1108.txt,deictic,year,376
+1108.txt,deictic,autumn,921
+1108.txt,deictic,Wednesday,312
+1108.txt,deictic,Friday,414
+1108.txt,deictic,Saturday,784
+1108.txt,deictic,Saturday,1609
+1108.txt,deictic,Saturday,1941
+1109.txt,deictic,last year,5702
+1109.txt,deictic,summer,1079
+1109.txt,deictic,summer,2217
+1109.txt,deictic,summer,2405
+1109.txt,deictic,summer,2434
+1109.txt,deictic,summer,2633
+1109.txt,deictic,summer,5137
+1110.txt,deictic,week,128
+1110.txt,deictic,week,424
+1110.txt,deictic,week,437
+1110.txt,deictic,Thursday,293
+1111.txt,deictic,week,756
+1112.txt,deictic,year,1671
+1112.txt,deictic,summer,340
+1112.txt,deictic,Saturday,21
+1114.txt,deictic,year,188
+1114.txt,deictic,year,1393
+1115.txt,deictic,Sunday,1538
+1116.txt,deictic,last year,914
+1116.txt,deictic,year,924
+1117.txt,deictic,year,197
+1117.txt,deictic,tomorrow,589
+1118.txt,deictic,previous week,1068
+1119.txt,deictic,year,2024
+1119.txt,deictic,Sunday,122
+1120.txt,deictic,year,902
+1121.txt,deictic,last week,228
+1121.txt,deictic,year,564
+1121.txt,deictic,year,655
+1121.txt,deictic,year,891
+1122.txt,deictic,week,1050
+1122.txt,deictic,year,1274
+1122.txt,deictic,last Sunday,204
+1123.txt,deictic,year,97
+1123.txt,deictic,year,144
+1123.txt,deictic,year,490
+1123.txt,deictic,year,894
+1123.txt,deictic,year,1517
+1123.txt,deictic,last August,882
+1124.txt,deictic,week,1057
+1124.txt,deictic,last Saturday,971
+1126.txt,deictic,Saturday,164
+1126.txt,deictic,Saturday,510
+1127.txt,deictic,year,184
+1127.txt,deictic,next month,644
+1127.txt,deictic,summer,730
+1129.txt,deictic,fall,6
+1129.txt,deictic,Friday,155
+1130.txt,deictic,year,346
+1130.txt,deictic,week,1442
+1130.txt,deictic,Monday,162
+1130.txt,deictic,Saturday,228
+1131.txt,deictic,week,511
+1131.txt,deictic,Sunday,111
+1132.txt,deictic,next week,116
+1132.txt,deictic,last year,606
+1132.txt,deictic,year,726
+1132.txt,deictic,year,1549
+1132.txt,deictic,last year,1677
+1132.txt,deictic,year,2149
+1132.txt,deictic,last year,2349
+1132.txt,deictic,year,2884
+1132.txt,deictic,Thursday,2845
+1133.txt,deictic,year,873
+1133.txt,deictic,year,1755
+1133.txt,deictic,Friday,1086
+1134.txt,deictic,Monday,240
+1134.txt,deictic,Sunday,2267
+1136.txt,deictic,year,507
+1136.txt,deictic,year,1671
+1136.txt,deictic,Saturday,2256
+1137.txt,deictic,week,367
+1137.txt,deictic,year,1055
+1137.txt,deictic,last year,1210
+1138.txt,deictic,next week,642
+1138.txt,deictic,week,812
+1138.txt,deictic,previous year,878
+1138.txt,deictic,week,1236
+1138.txt,deictic,year,1335
+1138.txt,deictic,year,2114
+1138.txt,deictic,Sunday,105
+1138.txt,deictic,Sunday,425
+1139.txt,deictic,year,130
+1139.txt,deictic,year,1001
+1139.txt,deictic,Monday,218
+1139.txt,deictic,Tuesday,351
+1139.txt,deictic,Sunday,632
+1140.txt,deictic,year,144
+1140.txt,deictic,summer,544
+1141.txt,deictic,year,616
+1142.txt,deictic,next month,544
+1142.txt,deictic,last year,575
+1142.txt,deictic,year,1464
+1142.txt,deictic,summer,146
+1142.txt,deictic,Saturday,187
+1142.txt,deictic,Saturday,1109
+1142.txt,deictic,Saturday,1825
+1142.txt,deictic,Saturday,2582
+1143.txt,deictic,week,311
+1143.txt,deictic,week,674
+1143.txt,deictic,Friday,240
+1143.txt,deictic,Sunday,880
+1144.txt,deictic,year,746
+1144.txt,deictic,week,1172
+1145.txt,deictic,last year,690
+1145.txt,deictic,year,1514
+1145.txt,deictic,year,1835
+1145.txt,deictic,week,2021
+1145.txt,deictic,last August,1127
+1146.txt,deictic,year,109
+1146.txt,deictic,week,230
+1146.txt,deictic,year,1300
+1146.txt,deictic,year,2283
+1146.txt,deictic,year,2366
+1146.txt,deictic,fall,628
+1147.txt,deictic,Tuesday,888
+1148.txt,deictic,next week,88
+1148.txt,deictic,year,676
+1148.txt,deictic,year,800
+1148.txt,deictic,next week,988
+1149.txt,deictic,last week,282
+1149.txt,deictic,year,1229
+1150.txt,deictic,week,107
+1150.txt,deictic,year,386
+1150.txt,deictic,year,746
+1150.txt,deictic,last week,1117
+1150.txt,deictic,year,1197
+1150.txt,deictic,Friday,836
+1150.txt,deictic,Sunday,448
+1152.txt,deictic,week,2315
+1153.txt,deictic,year,757
+1154.txt,deictic,year,779
+1154.txt,deictic,week,840
+1154.txt,deictic,week,1256
+1154.txt,deictic,week,2933
+1154.txt,deictic,spring,133
+1154.txt,deictic,Sunday,75
+1154.txt,deictic,last Sunday,1481
+1154.txt,deictic,last Sunday,1820
+1154.txt,deictic,this Sunday,2246
+1155.txt,deictic,year,78
+1155.txt,deictic,year,222
+1155.txt,deictic,Sunday,99
+1155.txt,deictic,Sunday,855
+1156.txt,deictic,week,625
+1156.txt,deictic,last year,1209
+1156.txt,deictic,today,2130
+1156.txt,deictic,Wednesday,1333
+1157.txt,deictic,week,284
+1157.txt,deictic,week,1272
+1157.txt,deictic,week,1401
+1157.txt,deictic,Wednesday,1741
+1158.txt,deictic,Day,549
+1158.txt,deictic,Saturday,124
+1158.txt,deictic,Saturday,520
+1159.txt,deictic,year,235
+1159.txt,deictic,year,799
+1159.txt,deictic,year,1673
+1159.txt,deictic,fall,397
+1160.txt,deictic,year,274
+1161.txt,deictic,Saturday,424
+1161.txt,deictic,Sunday,225
+1162.txt,deictic,year,182
+1162.txt,deictic,year,710
+1163.txt,deictic,week,1349
+1164.txt,deictic,last year,147
+1164.txt,deictic,year,1316
+1164.txt,deictic,Saturday,48
+1165.txt,deictic,Tuesday,597
+1165.txt,deictic,Tuesday,755
+1165.txt,deictic,Sunday,123
+1165.txt,deictic,Sunday,449
+1166.txt,deictic,week,272
+1166.txt,deictic,Sunday,117
+1167.txt,deictic,year,643
+1167.txt,deictic,week,2015
+1167.txt,deictic,Last June,523
+1169.txt,deictic,fall,442
+1170.txt,deictic,last year,277
+1170.txt,deictic,year,463
+1170.txt,deictic,last year,518
+1170.txt,deictic,year,1579
+1170.txt,deictic,week,1717
+1170.txt,deictic,year,1726
+1170.txt,deictic,year,1824
+1170.txt,deictic,year,2015
+1171.txt,deictic,last week,527
+1171.txt,deictic,fall,649
+1172.txt,deictic,next week,1600
+1173.txt,deictic,year,156
+1173.txt,deictic,year,470
+1173.txt,deictic,last year,605
+1173.txt,deictic,year,718
+1174.txt,deictic,last week,542
+1174.txt,deictic,year,2169
+1174.txt,deictic,week,2260
+1174.txt,deictic,year,2279
+1175.txt,deictic,year,507
+1175.txt,deictic,week,1041
+1175.txt,deictic,week,1046
+1176.txt,deictic,year,1424
+1176.txt,deictic,week,1799
+1176.txt,deictic,year,2091
+1176.txt,deictic,next week,2383
+1176.txt,deictic,year,2390
+1176.txt,deictic,next week,2479
+1176.txt,deictic,fall,478
+1177.txt,deictic,last month,238
+1177.txt,deictic,year,521
+1177.txt,deictic,year,730
+1177.txt,deictic,Friday,1132
+1177.txt,deictic,Saturday,1168
+1178.txt,deictic,week,439
+1178.txt,deictic,week,1721
+1178.txt,deictic,year,2830
+1178.txt,deictic,Saturday,890
+1178.txt,deictic,Sunday,568
+1179.txt,deictic,year,157
+1179.txt,deictic,year,280
+1179.txt,deictic,Day,350
+1179.txt,deictic,week,817
+1179.txt,deictic,year,1369
+1179.txt,deictic,year,1624
+1179.txt,deictic,summer,948
+1180.txt,deictic,week,285
+1180.txt,deictic,week,698
+1180.txt,deictic,year,702
+1180.txt,deictic,week,1979
+1180.txt,deictic,year,1982
+1180.txt,deictic,next year,2266
+1180.txt,deictic,week,2325
+1180.txt,deictic,winter,247
+1181.txt,deictic,year,127
+1181.txt,deictic,year,403
+1182.txt,deictic,next year,329
+1182.txt,deictic,year,365
+1182.txt,deictic,year,487
+1182.txt,deictic,year,1928
+1182.txt,deictic,next year,1981
+1183.txt,deictic,Wednesday,162
+1184.txt,deictic,year,723
+1184.txt,deictic,year,1097
+1184.txt,deictic,summer,679
+1185.txt,deictic,week,76
+1185.txt,deictic,week,359
+1185.txt,deictic,year,477
+1185.txt,deictic,last week,769
+1185.txt,deictic,summer,1269
+1185.txt,deictic,Saturday,799
+1186.txt,deictic,week,2010
+1186.txt,deictic,week,2375
+1186.txt,deictic,Sunday,58
+1186.txt,deictic,Sunday,765
+1188.txt,deictic,year,396
+1188.txt,deictic,week,794
+1188.txt,deictic,week,802
+1189.txt,deictic,week,226
+1189.txt,deictic,week,1366
+1189.txt,deictic,week,2584
+1189.txt,deictic,autumn,833
+1189.txt,deictic,Thursday,1635
+1189.txt,deictic,Friday,175
+1190.txt,deictic,next year,207
+1190.txt,deictic,year,742
+1190.txt,deictic,year,759
+1190.txt,deictic,year,1209
+1191.txt,deictic,year,225
+1191.txt,deictic,year,363
+1191.txt,deictic,summer,510
+1191.txt,deictic,summer,948
+1191.txt,deictic,Saturday,309
+1192.txt,deictic,last week,563
+1192.txt,deictic,week,634
+1192.txt,deictic,Today,655
+1192.txt,deictic,Thursday,103
+1194.txt,deictic,Year,206
+1194.txt,deictic,year,509
+1194.txt,deictic,Year,702
+1196.txt,deictic,Day,687
+1196.txt,deictic,Friday,33
+1197.txt,deictic,week,88
+1197.txt,deictic,last year,263
+1197.txt,deictic,year,650
+1198.txt,deictic,Wednesday,869
+1198.txt,deictic,Saturday,318
+1198.txt,deictic,Sunday,133
+1199.txt,deictic,Tuesday,103
+1199.txt,deictic,last Saturday,149
+1200.txt,deictic,year,448
+1200.txt,deictic,year,603
+1200.txt,deictic,year,1675
+1200.txt,deictic,fall,1573
+1201.txt,deictic,year,329
+1201.txt,deictic,year,857
+1201.txt,deictic,summer,773
+1202.txt,deictic,year,100
+1202.txt,deictic,next March,1164
+1202.txt,deictic,summer,343
+1203.txt,deictic,next month,101
+1203.txt,deictic,year,196
+1203.txt,deictic,week,404
+1203.txt,deictic,year,611
+1203.txt,deictic,last Saturday,344
+1203.txt,deictic,last Saturday,654
+1204.txt,deictic,Winter,633
+1204.txt,deictic,Winter,1282
+1204.txt,deictic,Winter,2482
+1205.txt,deictic,last year,565
+1205.txt,deictic,week,598
+1205.txt,deictic,week,1114
+1206.txt,deictic,year,848
+1206.txt,deictic,summer,614
+1207.txt,deictic,last month,339
+1207.txt,deictic,year,670
+1207.txt,deictic,year,886
+1208.txt,deictic,last week,205
+1208.txt,deictic,Last week,686
+1208.txt,deictic,week,822
+1208.txt,deictic,week,1101
+1208.txt,deictic,year,1146
+1208.txt,deictic,autumn,896
+1208.txt,deictic,Sunday,266
+1209.txt,deictic,year,169
+1209.txt,deictic,last month,363
+1209.txt,deictic,year,1071
+1209.txt,deictic,Tuesday,152
+1209.txt,deictic,Tuesday,1677
+1210.txt,deictic,week,801
+1210.txt,deictic,Monday,855
+1211.txt,deictic,last week,540
+1211.txt,deictic,year,1383
+1211.txt,deictic,week,1629
+1213.txt,deictic,year,150
+1213.txt,deictic,last year,215
+1213.txt,deictic,last year,639
+1213.txt,deictic,week,724
+1213.txt,deictic,year,907
+1214.txt,deictic,year,1305
+1215.txt,deictic,week,349
+1215.txt,deictic,Tuesday,2200
+1215.txt,deictic,Sunday,267
+1216.txt,deictic,year,182
+1216.txt,deictic,last year,739
+1216.txt,deictic,Year,784
+1216.txt,deictic,year,869
+1216.txt,deictic,Saturday,164
+1217.txt,deictic,week,299
+1217.txt,deictic,next month,1184
+1218.txt,deictic,next week,1376
+1218.txt,deictic,next week,1565
+1218.txt,deictic,today,1772
+1219.txt,deictic,year,396
+1219.txt,deictic,year,665
+1219.txt,deictic,summer,648
+1219.txt,deictic,Sunday,79
+1219.txt,deictic,Sunday,256
+1220.txt,deictic,summer,1640
+1223.txt,deictic,year,230
+1223.txt,deictic,tomorrow,467
+1223.txt,deictic,year,1252
+1223.txt,deictic,week,1324
+1223.txt,deictic,Wednesday,242
+1224.txt,deictic,year,399
+1224.txt,deictic,summer,13
+1224.txt,deictic,summer,109
+1224.txt,deictic,summer,359
+1225.txt,deictic,year,261
+1225.txt,deictic,year,497
+1226.txt,deictic,Tuesday,636
+1231.txt,deictic,year,249
+1231.txt,deictic,year,1677
+1231.txt,deictic,year,1902
+1231.txt,deictic,year,2287
+1231.txt,deictic,winter,437
+1231.txt,deictic,Thursday,306
+1232.txt,deictic,Sunday,944
+1233.txt,deictic,last year,371
+1233.txt,deictic,last year,837
+1233.txt,deictic,year,1012
+1233.txt,deictic,last year,1100
+1235.txt,deictic,year,833
+1235.txt,deictic,year,1254
+1235.txt,deictic,today,1500
+1235.txt,deictic,year,1862
+1235.txt,deictic,year,1989
+1235.txt,deictic,week,2133
+1235.txt,deictic,Friday,870
+1235.txt,deictic,Saturday,1012
+1236.txt,deictic,Day,542
+1237.txt,deictic,year,69
+1237.txt,deictic,year,174
+1237.txt,deictic,year,303
+1237.txt,deictic,year,438
+1237.txt,deictic,year,530
+1237.txt,deictic,week,875
+1237.txt,deictic,next year,972
+1237.txt,deictic,Monday,130
+1238.txt,deictic,year,649
+1238.txt,deictic,year,822
+1238.txt,deictic,Wednesday,160
+1239.txt,deictic,year,761
+1239.txt,deictic,next year,784
+1240.txt,deictic,week,746
+1240.txt,deictic,Wednesday,205
+1240.txt,deictic,Sunday,566
+1241.txt,deictic,today,431
+1241.txt,deictic,today,452
+1241.txt,deictic,year,532
+1241.txt,deictic,year,1087
+1241.txt,deictic,year,1237
+1241.txt,deictic,year,1348
+1241.txt,deictic,week,2298
+1242.txt,deictic,week,83
+1242.txt,deictic,week,294
+1242.txt,deictic,next week,426
+1243.txt,deictic,year,997
+1243.txt,deictic,summer,424
+1244.txt,deictic,year,169
+1244.txt,deictic,next week,1794
+1244.txt,deictic,last October,631
+1244.txt,deictic,Tuesday,525
+1246.txt,deictic,year,2046
+1246.txt,deictic,summer,2523
+1246.txt,deictic,Saturday,81
+1246.txt,deictic,Saturday,1967
+1247.txt,deictic,last month,1098
+1248.txt,deictic,week,75
+1248.txt,deictic,year,210
+1248.txt,deictic,year,842
+1249.txt,deictic,last year,317
+1250.txt,deictic,year,477
+1250.txt,deictic,year,719
+1250.txt,deictic,week,1678
+1250.txt,deictic,last year,2695
+1250.txt,deictic,autumn,934
+1250.txt,deictic,summer,1114
+1250.txt,deictic,Saturday,165
+1250.txt,deictic,Saturday,1786
+1251.txt,deictic,year,2
+1251.txt,deictic,year,74
+1251.txt,deictic,year,256
+1251.txt,deictic,year,602
+1251.txt,deictic,year,680
+1251.txt,deictic,year,906
+1251.txt,deictic,year,2646
+1251.txt,deictic,next June,1800
+1251.txt,deictic,autumn,644
+1251.txt,deictic,summer,1144
+1252.txt,deictic,year,568
+1252.txt,deictic,year,1127
+1252.txt,deictic,Wednesday,140
+1252.txt,deictic,Wednesday,2602
+1253.txt,deictic,Thursday,946
+1254.txt,deictic,last month,460
+1254.txt,deictic,Sunday,164
+1255.txt,deictic,Friday,36
+1255.txt,deictic,Friday,390
+1255.txt,deictic,Friday,432
+1256.txt,deictic,year,628
+1256.txt,deictic,Saturday,72
+1257.txt,deictic,year,186
+1257.txt,deictic,week,616
+1257.txt,deictic,week,732
+1257.txt,deictic,year,1344
+1258.txt,deictic,next month,91
+1258.txt,deictic,year,568
+1258.txt,deictic,last year,772
+1259.txt,deictic,year,1180
+1259.txt,deictic,last day,1574
+1259.txt,deictic,summer,12
+1259.txt,deictic,summer,72
+1259.txt,deictic,summer,212
+1259.txt,deictic,summer,1475
+1260.txt,deictic,year,432
+1260.txt,deictic,Wednesday,1118
+1261.txt,deictic,last November,895
+1261.txt,deictic,Friday,332
+1261.txt,deictic,Friday,451
+1261.txt,deictic,Saturday,88
+1262.txt,deictic,year,186
+1262.txt,deictic,week,543
+1262.txt,deictic,year,1750
+1262.txt,deictic,next month,1917
+1262.txt,deictic,year,2606
+1262.txt,deictic,year,3287
+1262.txt,deictic,year,3520
+1262.txt,deictic,week,4284
+1263.txt,deictic,next May,551
+1264.txt,deictic,year,680
+1264.txt,deictic,year,1884
+1264.txt,deictic,Tuesday,1701
+1266.txt,deictic,week,942
+1266.txt,deictic,year,2084
+1266.txt,deictic,year,2125
+1266.txt,deictic,Wednesday,246
+1266.txt,deictic,Wednesday,1739
+1266.txt,deictic,Saturday,1683
+1267.txt,simple,12 June 2004,2218
+1267.txt,deictic,next year,431
+1267.txt,deictic,next year,557
+1267.txt,deictic,year,1434
+1267.txt,deictic,year,2009
+1267.txt,deictic,Saturday,907
+1268.txt,deictic,year,2219
+1268.txt,deictic,last year,2943
+1269.txt,deictic,last year,1859
+1269.txt,deictic,summer,997
+1270.txt,deictic,year,861
+1270.txt,deictic,Wednesday,271
+1270.txt,deictic,Sunday,904
+1271.txt,deictic,next year,134
+1271.txt,deictic,week,1398
+1271.txt,deictic,summer,292
+1272.txt,deictic,year,109
+1272.txt,deictic,year,225
+1272.txt,deictic,year,453
+1272.txt,deictic,last year,511
+1272.txt,deictic,summer,212
+1272.txt,deictic,fall,533
+1273.txt,deictic,year,194
+1273.txt,deictic,last week,250
+1273.txt,deictic,last week,645
+1276.txt,deictic,week,426
+1276.txt,deictic,Sunday,260
+1277.txt,deictic,year,619
+1277.txt,deictic,week,3600
+1278.txt,deictic,year,89
+1278.txt,deictic,year,311
+1279.txt,deictic,Wednesday,547
+1280.txt,deictic,tomorrow,1499
+1280.txt,deictic,Monday,837
+1280.txt,deictic,Tuesday,1329
+1280.txt,deictic,Sunday,135
+1281.txt,deictic,last month,1003
+1281.txt,deictic,week,1450
+1281.txt,deictic,Saturday,471
+1282.txt,deictic,last year,156
+1282.txt,deictic,year,1266
+1283.txt,deictic,tomorrow,554
+1283.txt,deictic,year,807
+1283.txt,deictic,year,1036
+1283.txt,deictic,year,1103
+1283.txt,deictic,Friday,888
+1283.txt,deictic,Friday,1561
+1283.txt,deictic,Saturday,98
+1283.txt,deictic,Sunday,387
+1284.txt,deictic,summer,230
+1285.txt,deictic,last week,906
+1285.txt,deictic,last November,1086
+1285.txt,deictic,Saturday,92
+1286.txt,deictic,last year,399
+1286.txt,deictic,last week,563
+1286.txt,deictic,last Friday,1154
+1286.txt,deictic,Sunday,165
+1287.txt,deictic,fall,712
+1287.txt,deictic,Monday,591
+1288.txt,deictic,Monday,196
+1289.txt,deictic,year,331
+1289.txt,deictic,summer,365
+1289.txt,deictic,summer,613
+1289.txt,deictic,Wednesday,445
+1291.txt,deictic,week,1046
+1291.txt,deictic,week,1059
+1291.txt,deictic,year,1162
+1291.txt,deictic,Spring,312
+1291.txt,deictic,Spring,493
+1291.txt,deictic,Friday,2084
+1292.txt,deictic,Wednesday,168
+1293.txt,deictic,Tuesday,888
+1294.txt,deictic,next month,85
+1294.txt,deictic,year,190
+1294.txt,deictic,last year,531
+1294.txt,deictic,Saturday,182
+1295.txt,deictic,next week,91
+1295.txt,deictic,year,791
+1295.txt,deictic,year,841
+1295.txt,deictic,week,1050
+1295.txt,deictic,year,1312
+1295.txt,deictic,Saturday,1484
+1295.txt,deictic,Saturday,1649
+1296.txt,deictic,year,383
+1296.txt,deictic,year,636
+1297.txt,deictic,next week,123
+1297.txt,deictic,week,290
+1297.txt,deictic,next week,476
+1297.txt,deictic,Friday,739
+1297.txt,deictic,Saturday,194
+1298.txt,deictic,summer,161
+1298.txt,deictic,Monday,1130
+1298.txt,deictic,Saturday,719
+1299.txt,deictic,year,528
+1299.txt,deictic,Sunday,388
+1300.txt,deictic,week,122
+1300.txt,deictic,year,182
+1300.txt,deictic,week,220
+1300.txt,deictic,year,483
+1300.txt,deictic,year,1102
+1300.txt,deictic,last week,1855
+1300.txt,deictic,year,2404
+1300.txt,deictic,week,2512
+1300.txt,deictic,last August,1163
+1300.txt,deictic,last August,2695
+1300.txt,deictic,summer,2610
+1301.txt,deictic,week,1166
+1301.txt,deictic,Wednesday,246
+1301.txt,deictic,Wednesday,1245
+1301.txt,deictic,Saturday,626
+1301.txt,deictic,Saturday,1010
+1301.txt,deictic,Sunday,130
+1302.txt,deictic,year,184
+1302.txt,deictic,last month,248
+1302.txt,deictic,week,647
+1302.txt,deictic,summer,590
+1303.txt,deictic,week,564
+1303.txt,deictic,week,908
+1303.txt,deictic,year,1364
+1303.txt,deictic,Saturday,800
+1303.txt,deictic,Saturday,917
+1304.txt,deictic,year,244
+1304.txt,deictic,Sunday,866
+1305.txt,simple,16 January 2002,3223
+1305.txt,simple,13 January 1999,3401
+1305.txt,deictic,year,1354
+1305.txt,deictic,Day,2211
+1305.txt,deictic,year,3297
+1305.txt,deictic,year,3508
+1305.txt,deictic,year,3630
+1305.txt,deictic,Tuesday,39
+1305.txt,deictic,Wednesday,2068
+1305.txt,deictic,Saturday,2314
+1307.txt,deictic,year,81
+1307.txt,deictic,year,428
+1307.txt,deictic,next year,1215
+1307.txt,deictic,next March,1888
+1307.txt,deictic,summer,577
+1308.txt,deictic,next month,301
+1308.txt,deictic,previous day,597
+1308.txt,deictic,week,710
+1308.txt,deictic,year,1339
+1308.txt,deictic,year,1414
+1308.txt,deictic,Friday,1373
+1308.txt,deictic,Sunday,128
+1308.txt,deictic,Sunday,589
+1309.txt,deictic,Saturday,449
+1309.txt,deictic,Sunday,91
+1310.txt,deictic,year,157
+1310.txt,deictic,week,249
+1310.txt,deictic,last week,609
+1310.txt,deictic,next month,651
+1310.txt,deictic,year,778
+1310.txt,deictic,Thursday,516
+1311.txt,deictic,year,282
+1311.txt,deictic,year,336
+1312.txt,deictic,week,813
+1312.txt,deictic,week,1209
+1312.txt,deictic,week,1306
+1312.txt,deictic,before Friday,1246
+1313.txt,deictic,year,402
+1313.txt,deictic,week,746
+1314.txt,deictic,Saturday,170
+1314.txt,deictic,Saturday,474
+1314.txt,deictic,Sunday,205
+1315.txt,deictic,last week,60
+1315.txt,deictic,week,876
+1315.txt,deictic,week,2461
+1315.txt,deictic,year,2663
+1315.txt,deictic,Wednesday,1201
+1315.txt,deictic,Thursday,1360
+1315.txt,deictic,Friday,1525
+1315.txt,deictic,Saturday,1824
+1315.txt,deictic,Sunday,2456
+1316.txt,deictic,year,1276
+1316.txt,deictic,year,1413
+1316.txt,deictic,summer,1247
+1317.txt,deictic,week,373
+1317.txt,deictic,next week,397
+1318.txt,deictic,last week,599
+1318.txt,deictic,year,1758
+1318.txt,deictic,week,1954
+1318.txt,deictic,Saturday,120
+1320.txt,deictic,last week,270
+1320.txt,deictic,year,576
+1320.txt,deictic,next Tuesday,1297
+1321.txt,deictic,year,749
+1322.txt,deictic,year,2027
+1322.txt,deictic,Sunday,126
+1323.txt,deictic,year,817
+1323.txt,deictic,year,1759
+1323.txt,deictic,summer,167
+1323.txt,deictic,summer,1013
+1323.txt,deictic,fall,1626
+1323.txt,deictic,Sunday,276
+1323.txt,deictic,Sunday,1115
+1324.txt,deictic,year,549
+1324.txt,deictic,last September,1224
+1324.txt,deictic,last November,1747
+1324.txt,deictic,Wednesday,1106
+1324.txt,deictic,Saturday,162
+1325.txt,deictic,last month,1098
+1326.txt,deictic,year,188
+1326.txt,deictic,last year,520
+1327.txt,deictic,last week,1132
+1327.txt,deictic,Sunday,144
+1329.txt,deictic,last month,274
+1329.txt,deictic,year,2085
+1329.txt,deictic,last December,912
+1329.txt,deictic,summer,1765
+1330.txt,deictic,year,150
+1330.txt,deictic,Wednesday,637
+1330.txt,deictic,Wednesday,685
+1331.txt,deictic,year,119
+1331.txt,deictic,last month,617
+1331.txt,deictic,summer,878
+1332.txt,deictic,Friday,368
+1333.txt,deictic,Tuesday,1755
+1333.txt,deictic,Wednesday,71
+1334.txt,deictic,year,131
+1334.txt,deictic,year,219
+1334.txt,deictic,year,676
+1334.txt,deictic,last Sunday,627
+1335.txt,deictic,week,294
+1335.txt,deictic,summer,204
+1335.txt,deictic,after Saturday,1344
+1335.txt,deictic,Sunday,3049
+1336.txt,deictic,year,402
+1337.txt,deictic,year,150
+1337.txt,deictic,year,499
+1337.txt,deictic,year,505
+1337.txt,deictic,Tuesday,191
+1337.txt,deictic,Sunday,1577
+1338.txt,deictic,year,465
+1338.txt,deictic,year,730
+1339.txt,deictic,year,1694
+1339.txt,deictic,Saturday,523
+1339.txt,deictic,after Saturday,733
+1340.txt,deictic,year,421
+1340.txt,deictic,last year,525
+1340.txt,deictic,week,1054
+1340.txt,deictic,Wednesday,1505
+1340.txt,deictic,Saturday,1399
+1341.txt,deictic,week,109
+1341.txt,deictic,year,150
+1341.txt,deictic,yesterday,334
+1341.txt,deictic,Tuesday,137
+1342.txt,deictic,year,154
+1342.txt,deictic,year,360
+1343.txt,deictic,week,253
+1343.txt,deictic,Year,768
+1343.txt,deictic,year,940
+1343.txt,deictic,year,1273
+1344.txt,deictic,last year,164
+1344.txt,deictic,year,968
+1344.txt,deictic,Sunday,1686
+1345.txt,deictic,year,1524
+1345.txt,deictic,Wednesday,62
+1345.txt,deictic,Wednesday,415
+1345.txt,deictic,Wednesday,2883
+1345.txt,deictic,Thursday,133
+1346.txt,deictic,next week,82
+1346.txt,deictic,year,173
+1346.txt,deictic,next week,362
+1347.txt,deictic,year,138
+1347.txt,deictic,year,407
+1347.txt,deictic,Sunday,171
+1348.txt,deictic,week,2561
+1348.txt,deictic,Spring,1232
+1348.txt,deictic,Spring,1616
+1348.txt,deictic,Spring,1857
+1348.txt,deictic,Spring,2984
+1349.txt,deictic,last year,312
+1350.txt,deictic,year,1218
+1351.txt,deictic,year,157
+1351.txt,deictic,year,397
+1351.txt,deictic,week,682
+1351.txt,deictic,year,716
+1352.txt,deictic,year,40
+1352.txt,deictic,today,380
+1352.txt,deictic,year,712
+1352.txt,deictic,last week,896
+1352.txt,deictic,Next year,2786
+1353.txt,deictic,year,250
+1354.txt,deictic,year,451
+1354.txt,deictic,next week,864
+1354.txt,deictic,week,2484
+1354.txt,deictic,year,2502
+1354.txt,deictic,autumn,228
+1354.txt,deictic,autumn,1475
+1354.txt,deictic,Sunday,723
+1355.txt,deictic,year,93
+1355.txt,deictic,year,467
+1355.txt,deictic,year,3585
+1356.txt,deictic,last year,5693
+1356.txt,deictic,summer,1070
+1356.txt,deictic,summer,2208
+1356.txt,deictic,summer,2396
+1356.txt,deictic,summer,2425
+1356.txt,deictic,summer,2624
+1356.txt,deictic,summer,5128
+1357.txt,deictic,year,403
+1357.txt,deictic,Thursday,93
+1358.txt,deictic,year,92
+1358.txt,deictic,year,1118
+1358.txt,deictic,next month,1402
+1358.txt,deictic,summer,166
+1358.txt,deictic,Thursday,119
+1358.txt,deictic,Thursday,695
+1358.txt,deictic,before Sunday,1532
+1359.txt,deictic,year,624
+1359.txt,deictic,year,1030
+1359.txt,deictic,Saturday,124
+1360.txt,deictic,fall,900
+1360.txt,deictic,Saturday,854
+1360.txt,deictic,Sunday,396
+1361.txt,deictic,year,383
+1361.txt,deictic,summer,176
+1361.txt,deictic,Tuesday,282
+1361.txt,deictic,Wednesday,115
+1362.txt,deictic,last year,679
+1363.txt,deictic,year,1989
+1363.txt,deictic,Wednesday,130
+1363.txt,deictic,Saturday,564
+1364.txt,deictic,year,239
+1364.txt,deictic,week,271
+1364.txt,deictic,Tuesday,687
+1365.txt,deictic,year,360
+1365.txt,deictic,week,420
+1365.txt,deictic,year,2506
+1365.txt,deictic,summer,406
+1365.txt,deictic,Sunday,715
+1366.txt,deictic,year,522
+1366.txt,deictic,Tuesday,599
+1366.txt,deictic,Saturday,174
+1366.txt,deictic,Sunday,859
+1366.txt,deictic,Sunday,1441
+1367.txt,deictic,year,197
+1367.txt,deictic,year,284
+1367.txt,deictic,week,372
+1367.txt,deictic,week,754
+1367.txt,deictic,fall,1696
+1368.txt,deictic,year,187
+1368.txt,deictic,year,286
+1369.txt,deictic,Monday,378
+1369.txt,deictic,Wednesday,158
+1370.txt,deictic,week,820
+1370.txt,deictic,week,2150
+1370.txt,deictic,Saturday,344
+1370.txt,deictic,Sunday,611
+1371.txt,deictic,year,784
+1371.txt,deictic,year,1078
+1372.txt,deictic,last week,222
+1372.txt,deictic,week,837
+1372.txt,deictic,Wednesday,900
+1373.txt,deictic,Wednesday,215
+1375.txt,deictic,year,784
+1375.txt,deictic,year,2018
+1375.txt,deictic,Sunday,129
+1376.txt,deictic,year,773
+1376.txt,deictic,Last year,1314
+1377.txt,deictic,Sunday,609
+1378.txt,deictic,week,226
+1378.txt,deictic,week,2136
+1378.txt,deictic,year,2314
+1378.txt,deictic,last week,2431
+1379.txt,deictic,year,507
+1381.txt,deictic,year,690
+1381.txt,deictic,year,771
+1382.txt,deictic,next week,478
+1382.txt,deictic,last week,857
+1382.txt,deictic,Saturday,264
+1382.txt,deictic,Saturday,1798
+1382.txt,deictic,Saturday,2097
+1382.txt,deictic,Sunday,410
+1383.txt,deictic,week,76
+1383.txt,deictic,year,533
+1383.txt,deictic,week,772
+1383.txt,deictic,week,991
+1385.txt,deictic,Thursday,104
+1386.txt,deictic,year,216
+1386.txt,deictic,next month,249
+1386.txt,deictic,next week,1541
+1386.txt,deictic,Friday,1226
+1386.txt,deictic,last Saturday,1164
+1386.txt,deictic,Sunday,1416
+1387.txt,deictic,year,840
+1387.txt,deictic,year,888
+1387.txt,deictic,week,1698
+1387.txt,deictic,fall,1229
+1388.txt,deictic,week,724
+1388.txt,deictic,fall,204
+1389.txt,deictic,Year,211
+1389.txt,deictic,year,309
+1389.txt,deictic,year,341
+1389.txt,deictic,week,606
+1389.txt,deictic,week,626
+1389.txt,deictic,Tuesday,283
+1389.txt,deictic,Wednesday,295
+1390.txt,deictic,week,853
+1390.txt,deictic,Monday,636
+1390.txt,deictic,Tuesday,684
+1390.txt,deictic,Wednesday,79
+1391.txt,deictic,year,1438
+1391.txt,deictic,Saturday,467
+1391.txt,deictic,Sunday,1097
+1392.txt,deictic,Wednesday,1197
+1393.txt,deictic,Tuesday,541
+1393.txt,deictic,Friday,203
+1394.txt,deictic,week,1548
+1394.txt,deictic,Last week,2148
+1395.txt,deictic,week,526
+1395.txt,deictic,last December,680
+1395.txt,deictic,Wednesday,402
+1395.txt,deictic,Friday,184
+1395.txt,deictic,Sunday,86
+1396.txt,deictic,year,95
+1396.txt,deictic,week,161
+1396.txt,deictic,year,1174
+1396.txt,deictic,year,1717
+1396.txt,deictic,next week,2119
+1396.txt,deictic,Saturday,2094
+1397.txt,deictic,year,855
+1397.txt,deictic,summer,539
+1397.txt,deictic,summer,1061
+1398.txt,deictic,Year,84
+1398.txt,deictic,year,1594
+1399.txt,deictic,year,246
+1399.txt,deictic,week,1354
+1399.txt,deictic,Saturday,1425
+1400.txt,deictic,Year,444
+1400.txt,deictic,year,733
+1400.txt,deictic,week,824
+1400.txt,deictic,Year,1748
+1400.txt,deictic,year,2614
+1400.txt,deictic,Last April,28
+1400.txt,deictic,summer,2531
+1401.txt,deictic,year,803
+1401.txt,deictic,Tuesday,93
+1401.txt,deictic,Tuesday,1382
+1402.txt,deictic,last year,3014
+1403.txt,deictic,week,143
+1403.txt,deictic,week,544
+1403.txt,deictic,week,695
+1403.txt,deictic,winter,610
+1403.txt,deictic,Friday,1177
+1403.txt,deictic,Saturday,1030
+1405.txt,deictic,year,179
+1405.txt,deictic,year,1458
+1405.txt,deictic,year,1555
+1405.txt,deictic,year,1672
+1405.txt,deictic,Wednesday,954
+1406.txt,deictic,week,126
+1406.txt,deictic,year,543
+1406.txt,deictic,week,1251
+1406.txt,deictic,year,2079
+1406.txt,deictic,summer,585
+1406.txt,deictic,summer,2132
+1406.txt,deictic,Tuesday,188
+1406.txt,deictic,Sunday,276
+1407.txt,deictic,year,42
+1407.txt,deictic,year,686
+1407.txt,deictic,last year,1557
+1407.txt,deictic,last year,1667
+1407.txt,deictic,Tuesday,1524
+1407.txt,deictic,Wednesday,1433
+1409.txt,deictic,Last week,507
+1409.txt,deictic,next Monday,1083
+1409.txt,deictic,Tuesday,1601
+1409.txt,deictic,Saturday,107
+1410.txt,deictic,last year,35
+1410.txt,deictic,year,419
+1410.txt,deictic,year,496
+1410.txt,deictic,next year,1979
+1410.txt,deictic,year,2034
+1410.txt,deictic,year,2160
+1410.txt,deictic,year,2757
+1410.txt,deictic,year,2913
+1410.txt,deictic,year,3144
+1410.txt,deictic,year,3714
+1411.txt,deictic,year,342
+1411.txt,deictic,next month,534
+1411.txt,deictic,year,2921
+1411.txt,deictic,next month,2947
+1411.txt,deictic,year,3415
+1411.txt,deictic,Tuesday,3561
+1411.txt,deictic,Sunday,2353
+1413.txt,deictic,year,991
+1413.txt,deictic,next week,1187
+1413.txt,deictic,fall,6
+1413.txt,deictic,Friday,167
+1414.txt,deictic,year,359
+1414.txt,deictic,Sunday,377
+1415.txt,deictic,summer,663
+1417.txt,deictic,last week,145
+1417.txt,deictic,summer,1549
+1418.txt,deictic,today,1306
+1418.txt,deictic,Year,2274
+1418.txt,deictic,week,2340
+1418.txt,deictic,week,2386
+1418.txt,deictic,winter,133
+1418.txt,deictic,winter,451
+1418.txt,deictic,winter,1234
+1418.txt,deictic,winter,1452
+1418.txt,deictic,winter,2620
+1418.txt,deictic,winter,2772
+1418.txt,deictic,Tuesday,372
+1419.txt,deictic,year,169
+1421.txt,deictic,year,330
+1421.txt,deictic,year,1179
+1421.txt,deictic,year,1450
+1421.txt,deictic,last year,1610
+1421.txt,deictic,last week,1942
+1421.txt,deictic,week,2015
+1421.txt,deictic,last year,2451
+1421.txt,deictic,Saturday,300
+1421.txt,deictic,last Saturday,877
+1421.txt,deictic,Sunday,139
+1421.txt,deictic,Sunday,1543
+1422.txt,deictic,last year,535
+1422.txt,deictic,today,657
+1422.txt,deictic,week,1269
+1422.txt,deictic,Saturday,115
+1423.txt,deictic,week,2343
+1423.txt,deictic,yesterday,2749
+1423.txt,deictic,today,2779
+1423.txt,deictic,year,2968
+1423.txt,deictic,Sunday,3268
+1425.txt,deictic,year,1109
+1425.txt,deictic,week,1561
+1425.txt,deictic,year,1932
+1425.txt,deictic,Tuesday,2526
+1426.txt,deictic,year,142
+1426.txt,deictic,last year,173
+1426.txt,deictic,year,199
+1426.txt,deictic,week,508
+1426.txt,deictic,year,715
+1426.txt,deictic,winter,257
+1427.txt,deictic,year,92
+1427.txt,deictic,year,466
+1427.txt,deictic,year,3584
+1428.txt,deictic,year,134
+1428.txt,deictic,year,149
+1428.txt,deictic,year,344
+1428.txt,deictic,next month,384
+1428.txt,deictic,summer,204
+1430.txt,deictic,year,97
+1430.txt,deictic,last year,672
+1430.txt,deictic,Tuesday,170
+1431.txt,deictic,next month,385
+1431.txt,deictic,year,987
+1431.txt,deictic,Saturday,1005
+1432.txt,deictic,year,803
+1432.txt,deictic,year,1515
+1432.txt,deictic,Last October,518
+1432.txt,deictic,Tuesday,254
+1433.txt,deictic,year,1753
+1433.txt,deictic,Friday,120
+1434.txt,deictic,next month,1185
+1434.txt,deictic,year,1308
+1436.txt,deictic,year,422
+1436.txt,deictic,year,981
+1437.txt,deictic,today,2193
+1437.txt,deictic,week,2279
+1438.txt,deictic,week,281
+1438.txt,deictic,year,1132
+1438.txt,deictic,Sunday,1005
+1439.txt,deictic,year,561
+1439.txt,deictic,year,1292
+1439.txt,deictic,Saturday,149
+1439.txt,deictic,Saturday,1345
+1440.txt,deictic,last week,217
+1440.txt,deictic,year,438
+1440.txt,deictic,last week,552
+1440.txt,deictic,last week,863
+1440.txt,deictic,week,1220
+1440.txt,deictic,Friday,323
+1441.txt,deictic,year,771
+1441.txt,deictic,last year,1078
+1442.txt,deictic,week,140
+1442.txt,deictic,week,249
+1442.txt,deictic,week,318
+1442.txt,deictic,year,504
+1442.txt,deictic,week,848
+1442.txt,deictic,next month,987
+1442.txt,deictic,summer,680
+1442.txt,deictic,Monday,240
+1443.txt,deictic,last week,780
+1443.txt,deictic,last week,1352
+1443.txt,deictic,year,1468
+1443.txt,deictic,last June,585
+1443.txt,deictic,last Saturday,212
+1444.txt,deictic,Sunday,449
+1444.txt,deictic,Sunday,2310
+1445.txt,deictic,year,142
+1445.txt,deictic,today,1469
+1445.txt,deictic,year,1684
+1445.txt,deictic,year,1738
+1445.txt,deictic,week,2440
+1445.txt,deictic,autumn,2348
+1446.txt,deictic,Day,11
+1446.txt,deictic,Day,64
+1446.txt,deictic,Day,108
+1446.txt,deictic,Day,506
+1446.txt,deictic,summer,552
+1446.txt,deictic,before Saturday,693
+1447.txt,deictic,year,974
+1447.txt,deictic,week,1170
+1447.txt,deictic,year,1579
+1447.txt,deictic,Saturday,46
+1448.txt,deictic,summer,168
+1448.txt,deictic,Friday,423
+1448.txt,deictic,Friday,1364
+1449.txt,deictic,year,148
+1449.txt,deictic,year,229
+1449.txt,deictic,year,342
+1449.txt,deictic,year,368
+1449.txt,deictic,last year,572
+1449.txt,deictic,year,677
+1449.txt,deictic,last year,1454
+1449.txt,deictic,last year,1587
+1450.txt,deictic,year,551
+1451.txt,deictic,year,353
+1452.txt,deictic,year,621
+1452.txt,deictic,summer,97
+1452.txt,deictic,this Sunday,1187
+1454.txt,deictic,next month,154
+1454.txt,deictic,year,1029
+1454.txt,deictic,Friday,951
+1456.txt,deictic,last week,611
+1456.txt,deictic,Saturday,136
+1457.txt,deictic,year,71
+1457.txt,deictic,year,302
+1457.txt,deictic,year,1337
+1457.txt,deictic,year,1832
+1457.txt,deictic,year,4089
+1458.txt,simple,"1 May, 2002",1607
+1458.txt,deictic,Saturday,1381
+1458.txt,deictic,Sunday,98
+1459.txt,deictic,week,1233
+1459.txt,deictic,Saturday,238
+1459.txt,deictic,Saturday,1400
+1461.txt,deictic,week,614
+1461.txt,deictic,Tuesday,2424
+1462.txt,deictic,year,420
+1464.txt,deictic,fall,1413
+1465.txt,deictic,last year,1709
+1465.txt,deictic,fall,684
+1465.txt,deictic,fall,1624
+1466.txt,deictic,week,568
+1466.txt,deictic,Saturday,121
+1467.txt,deictic,year,1929
+1468.txt,deictic,last year,280
+1468.txt,deictic,year,560
+1469.txt,deictic,next month,95
+1470.txt,deictic,year,545
+1470.txt,deictic,week,1205
+1470.txt,deictic,week,1359
+1471.txt,deictic,Day,2813
+1472.txt,deictic,next year,436
+1472.txt,deictic,next year,743
+1474.txt,deictic,Last year,2285
+1474.txt,deictic,before November,2500
+1475.txt,deictic,year,308
+1475.txt,deictic,next year,506
+1475.txt,deictic,year,1033
+1475.txt,deictic,year,1299
+1475.txt,deictic,year,1400
+1476.txt,deictic,year,331
+1476.txt,deictic,today,2454
+1477.txt,deictic,year,687
+1477.txt,deictic,before November,279
+1478.txt,deictic,week,137
+1481.txt,deictic,year,100
+1482.txt,deictic,year,580
+1482.txt,deictic,year,649
+1482.txt,deictic,year,2890
+1484.txt,deictic,year,1833
+1484.txt,deictic,last year,3385
+1484.txt,deictic,year,4002
+1484.txt,deictic,summer,1084
+1485.txt,deictic,year,225
+1485.txt,deictic,last year,741
+1485.txt,deictic,next year,1104
+1485.txt,deictic,last year,2118
+1485.txt,deictic,Monday,139
+1486.txt,deictic,summer,1197
+1487.txt,deictic,year,102
+1487.txt,deictic,today,1758
+1488.txt,deictic,before February,1905
+1489.txt,deictic,year,359
+1489.txt,deictic,week,615
+1490.txt,deictic,year,660
+1490.txt,deictic,week,1499
+1491.txt,deictic,last year,663
+1492.txt,deictic,week,989
+1492.txt,deictic,year,2059
+1492.txt,deictic,Last year,2235
+1493.txt,deictic,week,2023
+1495.txt,deictic,year,2384
+1495.txt,deictic,today,3774
+1495.txt,deictic,week,5163
+1495.txt,deictic,year,7260
+1495.txt,deictic,today,8687
+1496.txt,deictic,year,94
+1496.txt,deictic,year,928
+1496.txt,deictic,year,1004
+1496.txt,deictic,Day,1642
+1496.txt,deictic,Today,1643
+1496.txt,deictic,Tuesday,1991
+1498.txt,deictic,Today,3985
+1498.txt,deictic,Tomorrow,4026
+1499.txt,deictic,year,261
+1499.txt,deictic,year,715
+1499.txt,deictic,year,840
+1499.txt,deictic,year,1403
+1499.txt,deictic,year,2025
+1499.txt,deictic,Year,2101
+1499.txt,deictic,year,2105
+1500.txt,deictic,week,1117
+1501.txt,deictic,year,362
+1501.txt,deictic,summer,684
+1501.txt,deictic,summer,973
+1502.txt,deictic,week,132
+1502.txt,deictic,week,403
+1502.txt,deictic,last week,569
+1502.txt,deictic,next week,670
+1502.txt,deictic,last week,762
+1502.txt,deictic,week,1047
+1502.txt,deictic,week,1269
+1502.txt,deictic,year,1628
+1502.txt,deictic,last week,2016
+1504.txt,deictic,last week,267
+1504.txt,deictic,last year,2393
+1504.txt,deictic,year,2640
+1504.txt,deictic,last year,2666
+1504.txt,deictic,today,3408
+1504.txt,deictic,today,4263
+1504.txt,deictic,summer,3144
+1505.txt,deictic,year,1186
+1505.txt,deictic,Last year,1425
+1506.txt,deictic,year,2810
+1506.txt,deictic,Last week,2911
+1506.txt,deictic,next year,3196
+1506.txt,deictic,Monday,3137
+1506.txt,deictic,Wednesday,436
+1506.txt,deictic,Wednesday,614
+1507.txt,deictic,Thursday,3335
+1509.txt,deictic,year,2059
+1510.txt,deictic,last week,1511
+1510.txt,deictic,next month,3194
+1510.txt,deictic,today,3724
+1510.txt,deictic,year,4595
+1510.txt,deictic,last year,4667
+1510.txt,deictic,fall,4514
+1512.txt,deictic,week,90
+1512.txt,deictic,week,171
+1512.txt,deictic,last week,403
+1512.txt,deictic,Today,1730
+1512.txt,deictic,Today,2491
+1512.txt,deictic,week,3056
+1512.txt,deictic,Tuesday,2743
+1512.txt,deictic,Friday,2540
+1512.txt,deictic,before Friday,2640
+1513.txt,deictic,year,802
+1513.txt,deictic,year,1479
+1513.txt,deictic,year,2468
+1513.txt,deictic,year,2836
+1515.txt,deictic,year,760
+1515.txt,deictic,today,1194
+1517.txt,deictic,week,3650
+1517.txt,deictic,Autumn,1975
+1518.txt,deictic,year,259
+1518.txt,deictic,year,2780
+1518.txt,deictic,week,3471
+1518.txt,deictic,fall,832
+1519.txt,deictic,year,455
+1519.txt,deictic,last week,628
+1519.txt,deictic,next year,2858
+1519.txt,deictic,year,3049
+1519.txt,deictic,fall,429
+1520.txt,deictic,week,621
+1520.txt,deictic,year,2750
+1520.txt,deictic,Wednesday,1136
+1522.txt,deictic,week,3467
+1522.txt,deictic,year,5564
+1522.txt,deictic,today,6991
+1523.txt,deictic,year,581
+1523.txt,deictic,year,834
+1524.txt,deictic,today,968
+1524.txt,deictic,today,5756
+1525.txt,deictic,year,247
+1526.txt,deictic,year,1796
+1528.txt,deictic,today,106
+1528.txt,deictic,year,286
+1528.txt,deictic,year,369
+1529.txt,deictic,year,2994
+1529.txt,deictic,last week,3523
+1530.txt,deictic,year,587
+1530.txt,deictic,last year,639
+1532.txt,deictic,week,137
+1533.txt,deictic,previous year,854
+1533.txt,deictic,last year,1089
+1534.txt,deictic,year,356
+1534.txt,deictic,week,612
+1535.txt,deictic,last October,1677
+1536.txt,deictic,year,3821
+1537.txt,deictic,spring,1660
+1538.txt,deictic,year,228
+1538.txt,deictic,last year,264
+1538.txt,deictic,year,590
+1538.txt,deictic,next year,1007
+1539.txt,deictic,last month,995
+1539.txt,deictic,week,2425
+1539.txt,deictic,last month,2960
+1541.txt,deictic,last week,455
+1541.txt,deictic,year,1067
+1541.txt,deictic,year,2720
+1542.txt,deictic,week,198
+1542.txt,deictic,week,658
+1543.txt,deictic,year,166
+1543.txt,deictic,year,282
+1543.txt,deictic,year,514
+1543.txt,deictic,year,1317
+1543.txt,deictic,last year,2515
+1543.txt,deictic,year,3410
+1543.txt,deictic,last year,3496
+1544.txt,deictic,year,863
+1544.txt,deictic,year,4355
+1545.txt,deictic,year,308
+1545.txt,deictic,next year,506
+1545.txt,deictic,year,1033
+1545.txt,deictic,year,1299
+1545.txt,deictic,year,1400
+1546.txt,deictic,next year,970
+1546.txt,deictic,last year,1697
+1546.txt,deictic,year,2602
+1546.txt,deictic,fall,2664
+1548.txt,simple,23 October 2003,283
+1548.txt,simple,13 January 2004,362
+1548.txt,deictic,week,1518
+1548.txt,deictic,year,1666
+1549.txt,deictic,year,842
+1549.txt,deictic,year,1390
+1549.txt,deictic,next year,2349
+1550.txt,deictic,year,782
+1550.txt,deictic,summer,352
+1550.txt,deictic,summer,2082
+1552.txt,deictic,year,3850
+1552.txt,deictic,year,4114
+1552.txt,deictic,fall,1702
+1553.txt,deictic,year,1179
+1553.txt,deictic,year,1562
+1553.txt,deictic,last year,2183
+1554.txt,deictic,week,1591
+1555.txt,deictic,previous year,854
+1555.txt,deictic,last year,1089
+1558.txt,deictic,year,2810
+1558.txt,deictic,Last week,2911
+1558.txt,deictic,next year,3196
+1558.txt,deictic,Monday,3137
+1558.txt,deictic,Wednesday,436
+1558.txt,deictic,Wednesday,614
+1559.txt,deictic,year,554
+1559.txt,deictic,fall,1434
+1560.txt,deictic,year,633
+1560.txt,deictic,today,1161
+1560.txt,deictic,next year,1597
+1560.txt,deictic,today,2058
+1560.txt,deictic,Thursday,326
+1561.txt,deictic,year,528
+1561.txt,deictic,year,992
+1561.txt,deictic,year,1662
+1561.txt,deictic,week,2040
+1561.txt,deictic,Friday,1981
+1562.txt,deictic,week,2888
+1563.txt,deictic,year,782
+1563.txt,deictic,summer,352
+1563.txt,deictic,summer,2082
+1564.txt,deictic,next year,160
+1565.txt,deictic,week,242
+1565.txt,deictic,Saturday,110
+1566.txt,deictic,year,288
+1566.txt,deictic,last year,379
+1566.txt,deictic,year,618
+1566.txt,deictic,Next year,1173
+1566.txt,deictic,fall,406
+1566.txt,deictic,spring,1412
+1567.txt,deictic,year,2756
+1567.txt,deictic,Tuesday,2820
+1568.txt,deictic,last year,84
+1568.txt,deictic,year,2289
+1569.txt,deictic,year,554
+1569.txt,deictic,fall,1434
+1571.txt,deictic,year,149
+1571.txt,deictic,year,929
+1571.txt,deictic,year,2104
+1571.txt,deictic,year,2544
+1572.txt,deictic,year,1963
+1572.txt,deictic,year,2206
+1572.txt,deictic,year,3214
+1572.txt,deictic,year,3668
+1572.txt,deictic,summer,1854
+1572.txt,deictic,autumn,2545
+1574.txt,deictic,year,263
+1574.txt,deictic,year,717
+1574.txt,deictic,year,842
+1574.txt,deictic,year,1405
+1574.txt,deictic,year,2027
+1574.txt,deictic,Year,2103
+1574.txt,deictic,year,2107
+1575.txt,deictic,week,1265
+1575.txt,deictic,Tuesday,1436
+1576.txt,deictic,year,633
+1576.txt,deictic,today,1161
+1576.txt,deictic,next year,1597
+1576.txt,deictic,today,2058
+1576.txt,deictic,Thursday,326
+1577.txt,deictic,week,136
+1577.txt,deictic,year,1331
+1580.txt,deictic,year,420
+1581.txt,deictic,last year,1600
+1581.txt,deictic,summer,1702
+1583.txt,deictic,year,2046
+1584.txt,deictic,year,508
+1584.txt,deictic,year,1879
+1584.txt,deictic,year,2710
+1584.txt,deictic,year,2775
+1584.txt,deictic,year,2857
+1584.txt,deictic,year,2911
+1585.txt,deictic,year,3047
+1587.txt,deictic,Last week,2421
+1587.txt,deictic,last September,2405
+1588.txt,deictic,last year,124
+1588.txt,deictic,next month,2508
+1590.txt,deictic,Friday,583
+1590.txt,deictic,Saturday,594
+1591.txt,deictic,year,815
+1593.txt,deictic,last year,1576
+1593.txt,deictic,week,1781
+1593.txt,deictic,year,2114
+1593.txt,deictic,next year,3139
+1593.txt,deictic,year,3232
+1593.txt,deictic,year,3815
+1594.txt,deictic,next year,382
+1594.txt,deictic,year,488
+1594.txt,deictic,year,706
+1594.txt,deictic,Sunday,165
+1595.txt,deictic,year,836
+1596.txt,deictic,year,773
+1597.txt,deictic,year,259
+1597.txt,deictic,year,2780
+1597.txt,deictic,week,3471
+1597.txt,deictic,fall,832
+1598.txt,deictic,last year,418
+1598.txt,deictic,week,817
+1598.txt,deictic,last year,2929
+1598.txt,deictic,year,3142
+1598.txt,deictic,week,3224
+1599.txt,deictic,year,1808
+1599.txt,deictic,year,1852
+1599.txt,deictic,year,2115
+1599.txt,deictic,year,4804
+1600.txt,deictic,year,174
+1600.txt,deictic,year,452
+1600.txt,deictic,year,859
+1600.txt,deictic,year,1023
+1600.txt,deictic,year,1142
+1600.txt,deictic,year,1449
+1600.txt,deictic,year,2646
+1600.txt,deictic,Sunday,211
+1601.txt,deictic,year,280
+1601.txt,deictic,year,1041
+1601.txt,deictic,year,1809
+1603.txt,deictic,year,1824
+1604.txt,deictic,today,1183
+1604.txt,deictic,last month,1930
+1604.txt,deictic,Monday,1811
+1605.txt,deictic,year,1491
+1605.txt,deictic,week,2727
+1605.txt,deictic,Friday,3071
+1606.txt,deictic,Year,4
+1606.txt,deictic,Year,80
+1606.txt,deictic,last year,407
+1606.txt,deictic,Year,440
+1606.txt,deictic,year,518
+1606.txt,deictic,Year,688
+1606.txt,deictic,winter,1644
+1608.txt,deictic,fall,309
+1610.txt,deictic,year,220
+1610.txt,deictic,week,1363
+1610.txt,deictic,last May,423
+1611.txt,deictic,week,553
+1611.txt,deictic,next year,1059
+1611.txt,deictic,year,1418
+1611.txt,deictic,Tuesday,1591
+1612.txt,deictic,last year,1377
+1614.txt,deictic,Next year,745
+1614.txt,deictic,year,799
+1614.txt,deictic,next year,2041
+1614.txt,deictic,Monday,430
+1615.txt,deictic,next year,1083
+1616.txt,deictic,year,1659
+1616.txt,deictic,year,1780
+1616.txt,deictic,week,3436
+1616.txt,deictic,Before July,1642
+1616.txt,deictic,fall,1418
+1617.txt,deictic,year,492
+1617.txt,deictic,year,2323
+1618.txt,deictic,fall,1438
+1620.txt,simple,1 January 1985,185
+1620.txt,deictic,year,19
+1620.txt,deictic,week,97
+1620.txt,deictic,year,234
+1620.txt,deictic,year,555
+1620.txt,deictic,year,1522
+1622.txt,deictic,year,434
+1622.txt,deictic,year,2065
+1622.txt,deictic,next month,2321
+1622.txt,deictic,year,2510
+1622.txt,deictic,spring,464
+1624.txt,deictic,next year,581
+1625.txt,deictic,Last year,1899
+1625.txt,deictic,year,4700
+1625.txt,deictic,fall,209
+1626.txt,deictic,week,205
+1626.txt,deictic,week,861
+1627.txt,deictic,year,758
+1627.txt,deictic,year,1249
+1627.txt,deictic,previous year,1828
+1627.txt,deictic,Before December,509
+1630.txt,deictic,Day,1941
+1631.txt,deictic,week,116
+1631.txt,deictic,year,446
+1631.txt,deictic,week,1090
+1633.txt,deictic,last month,126
+1634.txt,deictic,year,3810
+1635.txt,deictic,year,210
+1635.txt,deictic,last week,519
+1635.txt,deictic,year,968
+1635.txt,deictic,year,1066
+1635.txt,deictic,week,1264
+1635.txt,deictic,year,1453
+1635.txt,deictic,year,1672
+1636.txt,deictic,next year,2108
+1640.txt,deictic,Tomorrow,284
+1640.txt,deictic,last year,1091
+1640.txt,deictic,Monday,226
+1640.txt,deictic,Monday,340
+1641.txt,deictic,year,362
+1642.txt,deictic,year,635
+1642.txt,deictic,year,1280
+1644.txt,deictic,year,82
+1644.txt,deictic,year,1218
+1646.txt,deictic,last year,124
+1646.txt,deictic,next month,2508
+1647.txt,deictic,week,989
+1647.txt,deictic,year,2059
+1647.txt,deictic,Last year,2235
+1648.txt,deictic,year,1069
+1648.txt,deictic,year,2065
+1649.txt,simple,1 January 1985,185
+1649.txt,deictic,year,19
+1649.txt,deictic,week,97
+1649.txt,deictic,year,234
+1649.txt,deictic,year,555
+1649.txt,deictic,year,1522
+1650.txt,deictic,year,1298
+1650.txt,deictic,year,2914
+1651.txt,deictic,last year,1709
+1651.txt,deictic,fall,684
+1651.txt,deictic,fall,1624
+1652.txt,deictic,next day,4643
+1652.txt,deictic,year,7435
+1652.txt,deictic,fall,2638
+1652.txt,deictic,fall,2666
+1652.txt,deictic,fall,3823
+1652.txt,deictic,fall,4791
+1655.txt,deictic,last week,570
+1655.txt,deictic,today,1155
+1655.txt,deictic,year,1344
+1655.txt,deictic,year,4863
+1655.txt,deictic,year,4895
+1655.txt,deictic,fall,3781
+1656.txt,deictic,year,740
+1656.txt,deictic,week,2061
+1656.txt,deictic,year,2630
+1659.txt,deictic,year,38
+1659.txt,deictic,year,541
+1659.txt,deictic,year,1833
+1660.txt,deictic,year,82
+1660.txt,deictic,year,1218
+1661.txt,deictic,last week,934
+1661.txt,deictic,fall,1558
+1662.txt,deictic,Last week,1763
+1662.txt,deictic,Sunday,513
+1663.txt,deictic,week,882
+1663.txt,deictic,week,928
+1666.txt,deictic,year,29
+1666.txt,deictic,year,685
+1666.txt,deictic,last year,1332
+1666.txt,deictic,year,1350
+1666.txt,deictic,year,3456
+1667.txt,deictic,week,852
+1667.txt,deictic,fall,389
+1667.txt,deictic,summer,653
+1667.txt,deictic,summer,1483
+1671.txt,deictic,Year,111
+1671.txt,deictic,year,310
+1671.txt,deictic,year,1175
+1672.txt,deictic,year,281
+1672.txt,deictic,year,671
+1672.txt,deictic,year,697
+1672.txt,deictic,year,1117
+1672.txt,deictic,next year,3009
+1672.txt,deictic,previous year,3115
+1672.txt,deictic,fall,1658
+1674.txt,deictic,year,1164
+1675.txt,deictic,today,1272
+1676.txt,deictic,last year,725
+1676.txt,deictic,year,1809
+1676.txt,deictic,year,2131
+1676.txt,deictic,year,2695
+1678.txt,deictic,Last year,1097
+1678.txt,deictic,year,1188
+1678.txt,deictic,year,1900
+1678.txt,deictic,year,3089
+1679.txt,deictic,week,539
+1679.txt,deictic,Today,758
+1680.txt,deictic,year,2072
+1681.txt,deictic,next year,249
+1681.txt,deictic,year,481
+1681.txt,deictic,year,1110
+1681.txt,deictic,year,1598
+1681.txt,deictic,year,2149
+1681.txt,deictic,next year,2492
+1681.txt,deictic,year,2926
+1681.txt,deictic,summer,3500
+1681.txt,deictic,Tuesday,1690
+1681.txt,deictic,Wednesday,391
+1682.txt,deictic,yesterday,269
+1683.txt,deictic,last year,267
+1684.txt,deictic,week,134
+1684.txt,deictic,week,405
+1684.txt,deictic,last week,571
+1684.txt,deictic,next week,672
+1684.txt,deictic,last week,764
+1684.txt,deictic,week,1049
+1684.txt,deictic,week,1271
+1684.txt,deictic,year,1630
+1684.txt,deictic,last week,2018
+1685.txt,deictic,week,1584
+1687.txt,deictic,year,1334
+1687.txt,deictic,year,1725
+1688.txt,deictic,year,545
+1688.txt,deictic,week,1205
+1688.txt,deictic,week,1359
+1689.txt,deictic,week,258
+1689.txt,deictic,year,1319
+1691.txt,deictic,year,2085
+1692.txt,deictic,week,113
+1692.txt,deictic,year,1816
+1693.txt,deictic,year,587
+1693.txt,deictic,last year,639
+1695.txt,deictic,year,244
+1695.txt,deictic,next year,912
+1695.txt,deictic,year,988
+1695.txt,deictic,year,1262
+1695.txt,deictic,Monday,272
+1696.txt,deictic,year,1720
+1696.txt,deictic,year,1999
+1696.txt,deictic,year,2131
+1696.txt,deictic,year,2359
+1696.txt,deictic,year,2397
+1698.txt,deictic,year,557
+1698.txt,deictic,year,2616
+1698.txt,deictic,year,3523
+1698.txt,deictic,Tuesday,3062
+1699.txt,deictic,Last year,2358
+1700.txt,deictic,fall,185
+1701.txt,deictic,next year,581
+1702.txt,deictic,year,2222
+1703.txt,deictic,next month,95
+1705.txt,deictic,year,176
+1705.txt,deictic,last month,565
+1705.txt,deictic,year,1545
+1705.txt,deictic,Thursday,97
+1705.txt,deictic,Thursday,664
+1706.txt,deictic,year,888
+1707.txt,deictic,year,1506
+1710.txt,deictic,year,3688
+1710.txt,deictic,summer,1947
+1712.txt,deictic,year,236
+1712.txt,deictic,tomorrow,1126
+1713.txt,deictic,next week,1765
+1713.txt,deictic,Monday,215
+1714.txt,deictic,last month,1461
+1714.txt,deictic,year,2014
+1714.txt,deictic,summer,454
+1714.txt,deictic,fall,2049
+1715.txt,deictic,today,893
+1716.txt,deictic,year,780
+1717.txt,deictic,year,4
+1718.txt,deictic,year,2228
+1718.txt,deictic,today,3450
+1718.txt,deictic,tomorrow,3490
+1718.txt,deictic,last year,4877
+1719.txt,deictic,year,885
+1720.txt,deictic,year,434
+1720.txt,deictic,year,2065
+1720.txt,deictic,next month,2321
+1720.txt,deictic,year,2510
+1720.txt,deictic,spring,464
+1721.txt,deictic,last year,497
+1721.txt,deictic,Last year,2060
+1721.txt,deictic,year,2300
+1722.txt,deictic,today,106
+1722.txt,deictic,year,286
+1722.txt,deictic,year,369
+1723.txt,deictic,summer,933
+1724.txt,deictic,year,895
+1724.txt,deictic,year,938
+1725.txt,deictic,Last week,618
+1725.txt,deictic,week,3601
+1726.txt,deictic,year,2600
+1726.txt,deictic,year,2817
+1726.txt,deictic,fall,1758
+1729.txt,deictic,year,764
+1729.txt,deictic,year,1255
+1729.txt,deictic,previous year,1834
+1729.txt,deictic,Before December,515
+1730.txt,deictic,Sunday,510
+1731.txt,deictic,Last week,779
+1731.txt,deictic,Year,1630
+1731.txt,deictic,Sunday,1666
+1734.txt,deictic,last year,186
+1734.txt,deictic,year,921
+1734.txt,deictic,year,2732
+1734.txt,deictic,last year,3139
+1734.txt,deictic,year,3622
+1735.txt,deictic,year,291
+1735.txt,deictic,last year,382
+1735.txt,deictic,year,621
+1735.txt,deictic,Next year,1176
+1735.txt,deictic,fall,409
+1735.txt,deictic,spring,1415
+1736.txt,deictic,year,659
+1736.txt,deictic,week,2349
+1736.txt,deictic,Sunday,1043
+1737.txt,deictic,year,863
+1738.txt,deictic,year,1963
+1738.txt,deictic,year,2206
+1738.txt,deictic,year,3214
+1738.txt,deictic,year,3668
+1738.txt,deictic,summer,1854
+1738.txt,deictic,autumn,2545
+1739.txt,deictic,year,120
+1739.txt,deictic,last week,1679
+1739.txt,deictic,year,1854
+1740.txt,deictic,year,279
+1740.txt,deictic,Year,336
+1740.txt,deictic,year,660
+1740.txt,deictic,year,696
+1740.txt,deictic,week,1289
+1741.txt,deictic,year,2072
+1742.txt,deictic,year,512
+1742.txt,deictic,next year,1459
+1742.txt,deictic,week,2533
+1743.txt,deictic,year,4514
+1744.txt,deictic,year,1427
+1744.txt,deictic,year,1976
+1744.txt,deictic,last year,2305
+1744.txt,deictic,Last year,2459
+1744.txt,deictic,year,2756
+1745.txt,deictic,year,204
+1749.txt,deictic,year,1823
+1750.txt,deictic,year,53
+1750.txt,deictic,year,3498
+1751.txt,deictic,week,957
+1751.txt,deictic,year,1684
+1752.txt,deictic,week,1134
+1753.txt,deictic,next week,409
+1753.txt,deictic,next year,4287
+1754.txt,deictic,year,318
+1754.txt,deictic,year,352
+1754.txt,deictic,year,3403
+1754.txt,deictic,year,3470
+1756.txt,deictic,year,210
+1756.txt,deictic,last week,519
+1756.txt,deictic,year,968
+1756.txt,deictic,year,1066
+1756.txt,deictic,week,1264
+1756.txt,deictic,year,1453
+1756.txt,deictic,year,1672
+1757.txt,deictic,week,1561
+1757.txt,deictic,year,1986
+1757.txt,deictic,year,2262
+1758.txt,deictic,today,62
+1758.txt,deictic,year,78
+1758.txt,deictic,today,507
+1758.txt,deictic,year,548
+1758.txt,deictic,today,573
+1758.txt,deictic,year,3116
+1759.txt,deictic,year,660
+1759.txt,deictic,week,1499
+1761.txt,deictic,last year,1289
+1762.txt,deictic,last year,186
+1762.txt,deictic,year,921
+1762.txt,deictic,year,2732
+1762.txt,deictic,last year,3140
+1762.txt,deictic,year,3623
+1763.txt,deictic,fall,2325
+1763.txt,deictic,summer,3617
+1764.txt,deictic,Last month,1122
+1765.txt,deictic,Day,287
+1765.txt,deictic,Day,780
+1765.txt,deictic,Day,1115
+1765.txt,deictic,tomorrow,3356
+1765.txt,deictic,Tuesday,751
+1766.txt,deictic,last year,949
+1767.txt,deictic,year,1155
+1768.txt,deictic,year,119
+1769.txt,deictic,year,1720
+1769.txt,deictic,year,1999
+1769.txt,deictic,year,2131
+1769.txt,deictic,year,2359
+1769.txt,deictic,year,2397
+1770.txt,deictic,year,128
+1770.txt,deictic,year,542
+1773.txt,deictic,week,122
+1773.txt,deictic,autumn,1180
+1774.txt,deictic,last year,182
+1774.txt,deictic,last year,569
+1774.txt,deictic,year,587
+1774.txt,deictic,year,958
+1774.txt,deictic,Tuesday,564
+1776.txt,deictic,year,1374
+1776.txt,deictic,Week,1674
+1776.txt,deictic,Year,1707
+1777.txt,deictic,week,1250
+1777.txt,deictic,Tuesday,2241
+1778.txt,deictic,week,221
+1778.txt,deictic,today,968
+1779.txt,deictic,year,1506
+1780.txt,deictic,next year,249
+1780.txt,deictic,year,481
+1780.txt,deictic,year,1110
+1780.txt,deictic,year,1598
+1780.txt,deictic,year,2149
+1780.txt,deictic,next year,2492
+1780.txt,deictic,year,2926
+1780.txt,deictic,summer,3500
+1780.txt,deictic,Tuesday,1690
+1780.txt,deictic,Wednesday,391
+1781.txt,deictic,week,1916
+1781.txt,deictic,year,3221
